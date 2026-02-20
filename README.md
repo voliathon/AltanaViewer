@@ -41,17 +41,19 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Updates
 
-- Updated Mithra main.csv(Weapons)(Feb-20):
+- Updated Mithra Main.csv(Weapons)(Feb-20):
   - Weapons are now ordered by level
   - Corrections to incorrect weapons
   - More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
   - Master Trial Weapons
   - Odyssey Weapons
   - Primes included
-- Updated Mithra sub.csv(Sub/Shields/Weapons)(Feb-20):
+- Updated Mithra Sub.csv(Sub/Shields/Weapons)(Feb-20):
   - Weapons are now ordered by level
   - Identified and Correctly Changed Equipment names
   - More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
   - Master Trial Weapons
   - Odyssey Weapons
   - Primes included 
+- Updated Mithra Action.csv(Animations)(Feb-20)
+  - Animations are now alphabatized
