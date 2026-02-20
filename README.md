@@ -48,4 +48,10 @@ Because the original author disappeared and the software was never made open-sou
   - Master Trial Weapons
   - Odyssey Weapons
   - Primes included
-  
+- Updated Mithra sub.csv(Sub/Shields/Weapons)(Feb-20):
+  - Weapons are now ordered by level
+  - Identified and Correctly Changed Equipment names
+  - More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
+  - Master Trial Weapons
+  - Odyssey Weapons
+  - Primes included 
