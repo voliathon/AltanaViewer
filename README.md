@@ -41,7 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Insertions
 
-- Updated Mithra main.csv (Weapons):
+- Updated Mithra main.csv(Weapons)(Feb-20):
   - Weapons are now ordered by level
   - Corrections to incorrect weapons
   - More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
