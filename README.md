@@ -39,7 +39,13 @@ The original Altana Viewer was created around 2006 by an anonymous Japanese deve
 
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. Instead, the viewer is kept alive for modern FFXI updates by dedicated community members (such as Krizz, mynameisgonz, and the current repository maintainers). These maintainers manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
-## 2026 Insertions
+## 2026 Updates
 
-- Updated Mithra main.csv (Weapons): Corrections/More Lv.1 lockstyles/Master Trial Weapons, Weapons are now ordered by level, Odyssey, and Primes included
+- Updated Mithra main.csv(Weapons)(Feb-20):
+  - Weapons are now ordered by level
+  - Corrections to incorrect weapons
+  - More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
+  - Master Trial Weapons
+  - Odyssey Weapons
+  - Primes included
   

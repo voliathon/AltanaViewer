@@ -69,6 +69,8 @@
 53/105,Bronze Knuckles
 314/95,Worm Feelers
 355/72,Premium Mogti
+377/86,Ethereal Fists
+378/117,Dazbog's Knuckles
 53/106,Brass Knuckles
 53/101,Cesti
 53/116,Brass Baghnakhs
@@ -80,7 +82,7 @@
 53/95,Jamadhars
 53/115,Cat Baghnakhs
 53/108,Mythril Knuckles
-53/99,Mythril Claws
+53/100,Mythril Claws
 53/113,Patas
 53/117,Baghnakhs
 53/94,Katars
@@ -108,10 +110,11 @@
 171/80,Adaman Sainti
 173/72,Hades Sainti
 268/57,Girru
-273/121,Spharai (99)
-273/120,Glanzfaust (99)
-273/119,Kenkonken (99)
-273/118,Verethragna (99)
+365/51,Dragon Fangs
+273/121,Spharai (119 AG)
+273/120,Glanzfaust (119 AG)
+273/119,Kenkonken (119 AG)
+273/118,Verethragna (119 AG)
 281/9,Blutkrallen
 293/83,Tlalpoloani
 303/53,Forefront Cesti
@@ -121,83 +124,92 @@
 341/5,Denouements
 342/116,Godhands
 352/104,Aphelion Knuckles
-356/6,Sagitta (su5)
+356/6,Sagitta (SU5)
 359/13,Kaja Knuckles
 360/22,Karambit
+365/80,Sakpata's Fists
+374/35,Varga Purnikawa
+376/58,Varga Purnikawa (Stage 5)
 
 @Dagger
-115/119,Valiant Knife
-115/120,Darksteel Knife
-115/121,Bronze Knife
-115/122,Knife
-115/123,Mythril Knife
-115/124,Cermet Knife
-115/125,Misericorde
-115/126,Bronze Dagger
-115/127,Brass Dagger
-116/0,Dagger
-116/1,Mythril Dagger
-116/2,Darksteel Baselard
-116/3,Baselard
-116/4,Mythril Baselard
-116/5,Darksteel Kukri
-116/6,Kukri
-116/7,Mythril Kukri
-116/8,Cermet Kukri
-116/9,Heart Snatcher
-116/10,Parrying Knife
-116/11,Combat Caster's Dagger
-116/12,Kris
-116/13,Triple Dagger
-116/14,Bone Knife
-116/107,Kard
-142/48,Mandau
-276/92,Mandau (99)
-142/52,Raetic Kris
-148/6,Harpe
-164/40,Jambiya
-172/56,Supernal Knife
-173/38,Matron's Knife
-175/27,Khimaira Jambiya
-200/64,Darksteel Jambiya
-200/65,Thug's Jambiya
-206/12,Vajra
-276/99,Vajra (99)
-206/14,Carnwenhan
-276/102,Carnwenhan (99)
-206/15,Terpsichore
-276/105,Terpsichore (99)
-211/3,Azoth
-219/46,Ermine's Tail
-227/41,Machismo
-245/97,Twashtar
-276/106,Twashtar (99)
-246/57,Auric Dagger
-262/15,Twilight Dagger
-265/8,Mantodea Harpe
-266/47,Lux Pugio
-266/86,Coruscanti
-269/55,Asteria
-280/28,Blustery Dagger
-281/70,Sandung
-290/23,Coalition Dirk
-292/16,Izhiikoh 
-308/69,Camaraderie Dagger 
-320/10,Ipetam
-325/88,Rhadamanthus
-327/84,Odium
-332/20,Nibiru knife
-345/30,Sangoma
-345/31,Aeneas
-354/81,Chicken Knife II 
-357/9,Gandring (su5)
-358/83,Aern Dagger
-358/121,Qutrub Dagger
-360/1,Kaja Knife
-361/8,Tauret
-362/87,Wind Knife
-363/16,Norgish Dagger
-363/17,Esikuva
+54/6,Bronze Knife
+54/11,Bronze Dagger
+354/26,Chicken Knife II
+358/57,Aern Dagger
+370/0,Aern Dagger II
+358/107,Qutrub Dagger
+362/68,Wind Knife
+362/125,Norgish Dagger
+362/126,Esikuva
+378/72,Ethereal Dagger
+380/33,Hedron Dagger
+381/33,Esoteric Athame
+54/27,Bone Knife
+54/12,Brass Dagger
+54/13,Dagger
+54/7,Knife
+54/16,Baselard
+54/14,Mythril Dagger
+54/23,Parrying Knife
+54/25,Kris
+54/8,Mythril Knife
+200/28,Thug's Jambiya
+54/24,Combat Caster's Dagger
+54/17,Mythril Baselard
+54/19,Kukri
+54/15,Darksteel Baselard
+54/20,Mythril Kukri
+54/5,Darksteel Knife
+54/26,Triple Dagger
+54/10,Misericorde
+200/27,Darksteel Jambiya
+54/18,Darksteel Kukri
+54/9,Cermet Knife
+54/21,Cermet Kukri
+54/4,Valiant Knife
+173/31,Matron's Knife
+147/127,Harpe
+175/13,Khimaira Jambiya
+219/32,Ermine's Tail
+54/22,Heart Snatcher
+164/1,Jambiya
+210/68,Azoth
+138/91,Mandau
+172/32,Supernal Knife
+205/52,Vajra
+205/57,Carnwenhan
+205/58,Terpsichore
+227/21,Machismo
+245/68,Twashtar
+246/16,Auric Dagger
+262/8,Twilight Dagger
+264/113,Mantodea Harpe
+275/68,Mandau (119 AG)
+138/103,Raetic Kris
+275/83,Vajra (119 AG)
+275/87,Carnwenhan (119 AG)
+275/93,Terpsichore (119 AG)
+275/95,Twashtar (119 AG)
+266/34,Lux Pugio
+266/79,Coruscanti
+269/48,Asteria
+280/21,Blustery Dagger
+281/47,Sandung
+289/118,Coalition Dirk 
+291/114,Izhiikoh 
+308/31,Camaraderie Dagger
+319/85,Ipetam
+325/49,Rhadamanthus
+327/60,Odium
+331/23,Nibiru knife
+344/78,Sangoma
+344/80,Aeneas
+356/90,Gandring (SU5)
+359/82,Kaja Knife
+360/89,Tauret
+367/100,Gleti's Knife
+375/64,Mpu Gandring (Non AG)
+377/49,Mpu Gandring (Stage 5)
 
 @Sword
 116/15,Colichemarde
