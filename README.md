@@ -63,3 +63,6 @@ Because the original author disappeared and the software was never made open-sou
 	- More lockstyles (Ambuscade/Ethereal)
 	- Odyssey Items
 	- Primes included
+  - Body.csv(Body Pieces)(Feb-20)
+    - Level One gear is at the top now. Think Lockstyles.
+	- Added Odyssey Body Gear
