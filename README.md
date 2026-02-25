@@ -39,30 +39,36 @@ The original Altana Viewer was created around 2006 by an anonymous Japanese deve
 
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
-## 2026 Updates
+## 2026 Change Log
 
-- Mithra
-  - Main.csv(Weapons)(Feb-20):
+- Mithra Changes (Feb-25-2026)
+  - Face.csv(Actual Faces of Mithra)
+    - Added Skhoh Undhreh and corrected names/Nanaa Mihgo
+  - Head.csv(Head Equipment)
+    - Weapons are now ordered by level
+
+- Mithra Changes(Feb-20-2026)
+  - Main.csv(Weapons):
     - Weapons are now ordered by level
 	- Corrections to incorrect weapons
 	- More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
 	- Master Trial Weapons
 	- Odyssey Weapons
 	- Primes included
-  - Sub.csv(Sub/Shields/Weapons)(Feb-20):
+  - Sub.csv(Sub/Shields/Weapons):
     - Weapons are now ordered by level
 	- Identified and Correctly Changed Equipment names
 	- More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
 	- Master Trial Weapons
 	- Odyssey Weapons
 	- Primes included 
-  - Action.csv(Animations)(Feb-20)
+  - Action.csv(Animations)
     - Animations are now alphabatized
   - Range.csv(Ammo/Throwing/Crossbow/Bow/Gun/Instruments/Bells)(Feb-20)
     - Ranged everything is now ordered by level
 	- More lockstyles (Ambuscade/Ethereal)
 	- Odyssey Items
 	- Primes included
-  - Body.csv(Body Pieces)(Feb-20)
+  - Body.csv(Body Pieces)
     - Level One gear is at the top now. Think Lockstyles.
 	- Added Odyssey Body Gear
