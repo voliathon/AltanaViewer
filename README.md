@@ -45,7 +45,11 @@ Because the original author disappeared and the software was never made open-sou
   - Face.csv(Actual Faces of Mithra)
     - Added Skhoh Undhreh and corrected names/Nanaa Mihgo
   - Head.csv(Head Equipment)
-    - Weapons are now ordered by level
+    - Head equipment are now ordered by level
+	- More Lv.1 lockstyles (Login Points, Events...)
+	- Odyssey Head Gear and more corrections
+  - Main.csv
+	- Added a club called Feline Hagoita 
 
 - Mithra Changes(Feb-20-2026)
   - Main.csv(Weapons):
