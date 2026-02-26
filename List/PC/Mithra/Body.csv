@@ -80,7 +80,7 @@
 326/55,Heart apron
 327/113,Pupil's Shirt
 331/0,Behemoth suit
-331/1,Poroggo coat
+331/1,Poroggo Coat
 334/125,Pupil's camisa
 335/14,Cossie top
 336/90,Starlet jabot
@@ -107,14 +107,14 @@
 52/15,Breastplate
 52/16,Tunic
 52/17,Shinobi Gi
-52/18,Chainmail
+52/18,ChainMail
 52/19,Lizard Jerkin
 52/20,Raptor Jerkin
 52/22,Hara-Ate
 52/23,Cloak
 52/24,Silk Cloak
-52/25,Royal Squire's Chainmail
-52/26,Royal Knight's Chainmail
+52/25,Royal Squire's ChainMail
+52/26,Royal Knight's ChainMail
 52/27,Padded Armor
 52/29,Bone Harness
 52/30,Kenpogi
@@ -157,11 +157,11 @@
 94/64,Rogue's Vest (THF Artifact)
 96/89,Gallant Surcoat (PLD Artifact)
 96/90,Chaos Cuirass (DRK Artifact)
-96/91,Beast Jackcoat (BST Artifact)
+96/91,Beast JackCoat (BST Artifact)
 96/92,Choral Justaucorps (BRD Artifact)
 96/93,Hunter's Jerkin (RNG Artifact)
 99/62,Myochin Domaru (SAM Artifact)
-99/63,Ninja Chainmail (NIN Artifact)
+99/63,Ninja ChainMail (NIN Artifact)
 99/64,Drachen Mail (DRG Artifact)
 99/65,Evoker's Doublet (SMN Artifact)
 163/67,Magus Jubbah (BLU Artifact)
@@ -203,11 +203,11 @@
 134/81,Assassin's Vest (THF Relic)
 134/82,Valor Surcoat (PLD Relic)
 134/83,Abyss Cuirass (DRK Relic)
-134/84,Monster Jackcoat (BST Relic)
+134/84,Monster JackCoat (BST Relic)
 134/85,Bard's Justaucorps (BRD Relic)
 134/86,Scout's Jerkin (RNG Relic)
 134/87,Saotome Domaru (SAM Relic)
-134/88,Koga Chainmail (NIN Relic)
+134/88,Koga ChainMail (NIN Relic)
 134/89,Wyrm Mail (DRG Relic)
 134/90,Summoner's Doublet (SMN Relic)
 214/43,Mirage Jubbah (BLU Relic)
@@ -364,55 +364,55 @@
 278/45,Hrafn Haubert
 278/46,Tenryu Domaru
 278/47,Tessera Saio
-281/115,Matanca harness
+281/115,Matanca Harness
 282/84,Dux Scale Mail
 282/85,Chelona Blazer
 288/105,Baalmuian Robe
-291/110,Geomancy tunic (GEO Artifact)
-292/81,Runeist coat (RUN Artifact)
+291/110,Geomancy Tunic (GEO Artifact)
+292/81,Runeist Coat (RUN Artifact)
 291/10,Karieyh Haubert
 291/11,Thurandaut Tabard
 291/12,Orvail Robe
-291/13,Councilor's garb
-291/14,Morass tunic
+291/13,Councilor's Garb
+291/14,Morass Tunic
 301/54,Mikinaak Breastplate
 301/55,Manibozho Jerkin
 301/56,Bokwus Robe
-305/17,Bagua tunic (GEO Relic)
-306/2,Futhark coat (RUN Relic)
+305/17,Bagua Tunic (GEO Relic)
+306/2,Futhark Coat (RUN Relic)
 306/3,Gorney Haubert
 306/4,Shneddick Tabard
 306/5,Weatherspoon Robe
 312/92,Qaaxo Harness
 312/93,Artsieq Jubbah
 312/94,Xaddi Mail
-315/89,Erilaz surcoat (RUN Empyrean)
+315/89,Erilaz Surcoat (RUN Empyrean)
 320/92,Mekosuchinae Harness
 325/40,Ravenous Breastplate
 325/41,Wretched Coat
 325/42,Foppish Tunica
-327/53,Azimuth robe (GEO Empyrean)
-327/54,Tartarus platemail
-330/121,Despair mail
-330/122,Pursuer's doublet
-330/123,Psycloth vest
-330/124,Eschite breastplate
-330/125,Rawhide vest
-330/126,Naga samue
-330/127,Vanya robe
-334/106,Vrikodara jupon
-334/107,Lapidary tunic
+327/53,Azimuth Robe (GEO Empyrean)
+327/54,Tartarus Platemail
+330/121,Despair Mail
+330/122,Pursuer's Doublet
+330/123,Psycloth Vest
+330/124,Eschite Breastplate
+330/125,Rawhide Vest
+330/126,Naga Samue
+330/127,Vanya Robe
+334/106,Vrikodara Jupon
+334/107,Lapidary Tunic
 335/29,Chozoron coselete
-336/87,Founder's breastplate
-336/88,Jumalik mail
-336/89,Samnuha coat
-339/14,Terminal plate
-339/15,Gyve doublet
+336/87,Founder's Breastplate
+336/88,Jumalik Mail
+336/89,Samnuha Coat
+339/14,Terminal Plate
+339/15,Gyve Doublet
 344/67,Odyssean chestplate
-344/68,Valorus mail
-346/36,Merlinic jubbah
-348/71,Chironic doublet
-349/68,Herculean vest
+344/68,Valorus Mail
+346/36,Merlinic Jubbah
+348/71,Chironic Doublet
+349/68,Herculean Vest
 361/126,Sacro Breastplate
 362/64,Malignance Tabard
 367/70,Ikenga's Vest

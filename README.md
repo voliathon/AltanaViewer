@@ -41,7 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- Mithra/Head.csv - copyediting (Feb-26-2026)
+- Mithra/Head.csv - Copyediting (Feb-26-2026)
 - Mithra/Legs.csv - Full Update to Legs Equipment - No 2025/2026 Limbus Gear (Feb-26-2026)
 - README.md - Corrections to Change Log Notes prior to Automation (Feb-26-2026)
 - HumeF/Face.csv - New Faces and Corrections (Feb-26-2026)
