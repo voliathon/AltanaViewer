@@ -31,7 +31,7 @@ jobs:
           # 4. Escape special characters to prevent crashes
           ESCAPED_ENTRY=$(echo "$ENTRY" | sed 's/[\/&]/\\&/g')
           
-          # 5. Insert into README (This is the line that was broken!)
+          # 5. Insert into README
           sed -i "//a $ESCAPED_ENTRY" README.md
 
       - name: Commit and Push
