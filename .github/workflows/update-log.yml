@@ -2,8 +2,8 @@ name: Update Changelog
 on:
   push:
     branches:
-      - main    # CHANGE THIS TO 'master' IF YOUR BRANCH IS NAMED MASTER
-      - master  # Or just keep both like this to be safe!
+      - main
+      - master
 
 permissions:
   contents: write
@@ -19,20 +19,19 @@ jobs:
 
       - name: Update README
         run: |
-          # 1. Get the commit subject (first line only) to prevent multi-line errors
+          # 1. Get the commit subject (first line only)
           MSG=$(git log -1 --pretty=%s)
           
           # 2. Get the date
           DATE=$(date +'%b-%d-%Y')
           
-          # 3. Create the new entry format
+          # 3. Create the new entry
           ENTRY="- $MSG ($DATE)"
           
-          # 4. Safely escape special characters (quotes, slashes) so sed doesn't crash
+          # 4. Escape special characters to prevent crashes
           ESCAPED_ENTRY=$(echo "$ENTRY" | sed 's/[\/&]/\\&/g')
           
-          # 5. Insert into README
-          # This looks for the START_LOG marker and adds the new line after it
+          # 5. Insert into README (This is the line that was broken!)
           sed -i "//a $ESCAPED_ENTRY" README.md
 
       - name: Commit and Push
