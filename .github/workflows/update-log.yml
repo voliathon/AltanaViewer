@@ -23,7 +23,7 @@ jobs:
           DATE=$(date +'%b-%d-%Y')
           ENTRY="- $MSG ($DATE)"
           ESCAPED_ENTRY=$(echo "$ENTRY" | sed 's/[\/&]/\\&/g')
-          sed -i "//a $ESCAPED_ENTRY" README.md
+          sed -i "/START_LOG/a $ESCAPED_ENTRY" README.md
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
