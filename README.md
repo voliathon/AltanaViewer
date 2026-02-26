@@ -40,7 +40,8 @@ The original Altana Viewer was created around 2006 by an anonymous Japanese deve
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
 ## 2026 Change Log
-...
+
+``
 
 - Mithra Changes (Feb-25-2026)
   - Face.csv(Actual Faces of Mithra)
