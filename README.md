@@ -41,6 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Hidden HTML line added inside of the README.md for Automation (Feb-26-2026)
 - Mithra Changes (Feb-25-2026)
   - Face.csv(Actual Faces of Mithra)
     - Added Skhoh Undhreh and corrected names/Nanaa Mihgo
