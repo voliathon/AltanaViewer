@@ -41,39 +41,17 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- Hidden HTML line added inside of the README.md for Automation (Feb-26-2026)
-- Mithra Changes (Feb-25-2026)
-  - Face.csv(Actual Faces of Mithra)
-    - Added Skhoh Undhreh and corrected names/Nanaa Mihgo
-  - Head.csv(Head Equipment)
-    - Head equipment are now ordered by level
-	- More Lv.1 lockstyles (Login Points, Events...)
-	- Odyssey Head Gear and more corrections
-  - Main.csv
-	- Added a club called Feline Hagoita 
-
-- Mithra Changes(Feb-20-2026)
-  - Main.csv(Weapons):
-    - Weapons are now ordered by level
-	- Corrections to incorrect weapons
-	- More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
-	- Master Trial Weapons
-	- Odyssey Weapons
-	- Primes included
-  - Sub.csv(Sub/Shields/Weapons):
-    - Weapons are now ordered by level
-	- Identified and Correctly Changed Equipment names
-	- More Lv.1 lockstyles (Login Points, Ambuscade, Ethereal, More...) 
-	- Master Trial Weapons
-	- Odyssey Weapons
-	- Primes included 
-  - Action.csv(Animations)
-    - Animations are now alphabatized
-  - Range.csv(Ammo/Throwing/Crossbow/Bow/Gun/Instruments/Bells)(Feb-20)
-    - Ranged everything is now ordered by level
-	- More lockstyles (Ambuscade/Ethereal)
-	- Odyssey Items
-	- Primes included
-  - Body.csv(Body Pieces)
-    - Level One gear is at the top now. Think Lockstyles.
-	- Added Odyssey Body Gear
+- HumeF/Face.csv - New Faces and Corrections (Feb-26-2026)
+- HumeM/Face.csv - New Faces and Corrections (Feb-26-2026)
+- ElvaanF/Face.csv - New Faces and Corrections (Feb-26-2026)
+- ElvaanM/Face.csv - New Faces and Corrections (Feb-26-2026)
+- Galka/Face.csv - New Faces and Corrections (Feb-26-2026) 
+- Mithra/Face.csv - New Faces and Corrections (Feb-26-2026)
+- Tarutaru/Face.csv - New Faces and Corrections (Feb-26-2026)
+- Mithra/Head.csv - Full Update the Head Equipment - No 2025/2026 Limbus Gear (Feb-26-2026)
+- Mithra/Main.csv - Full Update to Weapons including Prime Weapons (Feb-26-2026)
+- Mithra/Sub.csv - Full Update to Sub Seapons and Shields including Prime Shield (Feb-20-2026) 
+- Mithra/Action.csv - Animations are now alphabatized(Feb-20-2026)
+- Mithra/Range.csv - Full Update to Range Everything. Primes Included. Un-Implemented .DAT files shown (Feb-20-2026)
+- Mithra/Body.csv - Full Update to Body Equipment. No 2025/2026 Limbus Gear (Feb-20-2026)
+- Creation of Repo (Feb-20-2026)
