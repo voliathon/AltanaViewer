@@ -41,6 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Merge branch 'main' of https://github.com/voliathon/AltanaViewer (Feb-26-2026)
 - README.md - Corrections to Change Log Notes prior to Automation (Feb-26-2026)
 - HumeF/Face.csv - New Faces and Corrections (Feb-26-2026)
 - HumeM/Face.csv - New Faces and Corrections (Feb-26-2026)
