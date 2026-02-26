@@ -19,19 +19,10 @@ jobs:
 
       - name: Update README
         run: |
-          # 1. Get the commit subject (first line only)
           MSG=$(git log -1 --pretty=%s)
-          
-          # 2. Get the date
           DATE=$(date +'%b-%d-%Y')
-          
-          # 3. Create the new entry
           ENTRY="- $MSG ($DATE)"
-          
-          # 4. Escape special characters to prevent crashes
           ESCAPED_ENTRY=$(echo "$ENTRY" | sed 's/[\/&]/\\&/g')
-          
-          # 5. Insert into README
           sed -i "//a $ESCAPED_ENTRY" README.md
 
       - name: Commit and Push
