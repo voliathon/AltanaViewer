@@ -2,28 +2,38 @@ name: Update Changelog
 on:
   push:
     branches:
-      - main 
+      - main    # CHANGE THIS TO 'master' IF YOUR BRANCH IS NAMED MASTER
+      - master  # Or just keep both like this to be safe!
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Update README
         run: |
-          # Get the last commit message and date
-          MSG=$(git log -1 --pretty=%B)
+          # 1. Get the commit subject (first line only) to prevent multi-line errors
+          MSG=$(git log -1 --pretty=%s)
+          
+          # 2. Get the date
           DATE=$(date +'%b-%d-%Y')
           
-          # Create the new line
-          NEW_ENTRY="- $MSG ($DATE)"
+          # 3. Create the new entry format
+          ENTRY="- $MSG ($DATE)"
           
-          # Insert it into README.md between the markers
-          sed -i "//a $NEW_ENTRY" README.md
+          # 4. Safely escape special characters (quotes, slashes) so sed doesn't crash
+          ESCAPED_ENTRY=$(echo "$ENTRY" | sed 's/[\/&]/\\&/g')
+          
+          # 5. Insert into README
+          # This looks for the START_LOG marker and adds the new line after it
+          sed -i "//a $ESCAPED_ENTRY" README.md
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
