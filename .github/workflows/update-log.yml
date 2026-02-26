@@ -1,0 +1,32 @@
+name: Update Changelog
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Get the last commit message and date
+          MSG=$(git log -1 --pretty=%B)
+          DATE=$(date +'%b-%d-%Y')
+          
+          # Create the new line
+          NEW_ENTRY="- $MSG ($DATE)"
+          
+          # Insert it into README.md between the markers
+          sed -i "//a $NEW_ENTRY" README.md
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: Auto-update README changelog"
+          file_pattern: README.md
