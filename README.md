@@ -41,6 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Mithra/Legs.csv - Identified Nanaa Mihgo's Pantsu (Feb-27-2026)
 - Mithra/Legs.csv - Identified Hebenus Shorts (Feb-27-2026)
 - Mithra/Body.csv - Copyediting (Feb-26-2026)
 - Mithra/Head.csv - Copyediting (Feb-26-2026)
