@@ -41,6 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Mithra/Body.csv - Copyedited and moved position of level one lockstyles based on when implemented in FFXI (Feb-28-2026)
 - Full Update & Copyediting - All Feet Files - No New Limbus Gear Added Yet (Feb-28-2026)
 - Copyediting - All Mithra Files, All Head Files, HumeF Body, & HumeM Body. Some Ark Angel lockstyles (Feb-28-2026)
 - Mithra/Hands.csv - Full Update to Hand Equipment - No 2025/2026 Limbus Gear, Clarity to Unobtainable gear (Feb-27-2026)
