@@ -1,29 +1,5 @@
 52/13,None
-351/18,Pieuje Unity shirt
-351/19,Ayame Unity shirt
-351/20,I. Shield Unity shirt
-351/21,Apururu Unity shirt
-351/22,Maat Unity shirt
-351/23,Aldo Unity shirt
-351/24,Jakoh Unity shirt
-351/25,Naja Unity shirt
-351/26,Flaviria Unity shirt
-351/27,Yoran Unity shirt
-351/28,Sylvie Unity shirt
-351/46, Rhapsody shirt
-351/122,Akitu shirt
-352/94,Delegate's Garb
-353/24,Jubilee Shirt
-353/51,Black Chocobo Suit
-353/108,Crustacean Shirt
-355/108,Gil Nabber Shirt
-357/71,Swimsuit
-358/94,Shadow Lord Shirt
-361/59,Jody Shirt
-362/15,Citrullus Shirt
-363/57,Mithkabob Shirt
 52/21,Mithran Separates
-52/28,Bronze Harness
 127/52,Fisherman's Tunica
 127/53,Chocobo Jack Coat
 127/54,Vagabond's Tunica
@@ -76,24 +52,47 @@
 314/22,Red Spriggan Coat
 315/90,Goblin Suit
 321/107,Mandragora Suit
-317/62,Shokujo happi
-326/55,Heart apron
+317/62,Shokujo Happi
+326/55,Heart Apron
 327/113,Pupil's Shirt
-331/0,Behemoth suit
+331/0,Behemoth Suit
 331/1,Poroggo Coat
-334/125,Pupil's camisa
-335/14,Cossie top
-336/90,Starlet jabot
-339/33,Track shirt
-341/26,Botulus suit
-344/69,Korrigan suit
-347/35,Wyrmking suit
+334/125,Pupil's Camisa
+335/14,Cossie Top
+336/90,Starlet Jabot
+339/33,Track Shirt
+341/26,Botulus Suit
+344/69,Korrigan Suit
+347/35,Wyrmking Suit
+351/18,Pieuje Unity Shirt
+351/19,Ayame Unity Shirt
+351/20,I. Shield Unity Shirt
+351/21,Apururu Unity Shirt
+351/22,Maat Unity Shirt
+351/23,Aldo Unity Shirt
+351/24,Jakoh Unity Shirt
+351/25,Naja Unity Shirt
+351/26,Flaviria Unity Shirt
+351/27,Yoran Unity Shirt
+351/28,Sylvie Unity Shirt
+351/46, Rhapsody Shirt
+351/122,Akitu Shirt
+352/94,Delegate's Garb
+353/24,Jubilee Shirt
+353/51,Black Chocobo Suit
+353/108,Crustacean Shirt
+355/108,Gil Nabber Shirt
+357/71,Swimsuit
+358/94,Shadow Lord Shirt
+361/59,Jody Shirt
+362/15,Citrullus Shirt
+363/57,Mithkabob Shirt
 363/121,Poroggo Fleece
 372/94,Poroggo Cassock
-365/43,Adenium suit
-379/98,Magh Bihu's suit
+365/43,Adenium Suit
+379/98,Magh Bihu's Suit
 369/123,Ziamet Peti
-370/114,Cancrine apron
+370/114,Cancrine Apron
 373/32,Morbol Apron
 374/79,Esthete's Coat
 379/99,Boudox's Suit
@@ -107,6 +106,8 @@
 382/61,Cowardice Coat
 382/118,Tajawwul
 
+52/28,Bronze Harness
+52/33,Robe
 52/14,Leather Vest
 52/15,Breastplate
 52/16,Tunic
@@ -124,7 +125,6 @@
 52/30,Kenpogi
 52/31,Wool Robe
 52/32,Tactician Magician's Coat
-52/33,Robe
 52/34,Doublet
 52/35,Darksteel Cuirass
 52/36,Gambison
