@@ -1,4 +1,80 @@
 46/114,None
+126/126,Pumpkin Head
+138/16,Magnifying Specs.
+138/17,Protective Specs.
+138/18,Chef's Hat
+138/19,Shaded Specs.
+149/112,Dream Hat
+155/74,Mandragora Beret
+155/75,Guide Beret
+156/91,Stars Cap
+156/107,Laurel Crown
+170/114,Witch Hat
+182/24,Egg Helm
+186/120,Moogle Cap
+186/121,Nomad Cap
+219/73,Eyepatch
+220/5,Spelunker's Helm
+223/64,Jester's Cap
+225/79,Snow Bunny Hat
+238/103,Chocobo Beret
+263/125,Destrier Beret
+264/53,Charity Cap - Tohoku Earthquake Crysta Relief Fund
+270/94,Snowman Cap
+282/18,Decennial Crown
+282/19,Decennial Tiara
+286/38,Moogle Masque (Male)
+286/39,Moogle Masque (Female)
+287/69,Ahriman Cap
+290/114,Mirth Masquette
+304/42,Chocobo Masque
+310/84,Slime Cap
+310/85,Straw Hat (Male)
+310/86,Straw Hat (Female)
+314/13,She-Slime Hat
+314/14,Metal Slime Hat
+314/109,Worm Masque
+315/79,Gobbie Masque
+315/80,G. Moogle Masque
+318/109,Morbol Cap
+321/100,Mandragora Masque
+321/101,Lycopodium Masque
+321/102,Flan Masque
+322/120,Cait Sith Cap
+325/105,Sheep Cap
+326/76,Leafkin Cap
+327/39,Rabbit Cap
+327/40,Shobuhouou Kabuto
+330/56,Cumulus Masque
+330/64,Behemoth Masque
+336/57,Buffalo Hat
+335/58,Carbie Cap
+336/59,Agent Hood
+336/60,Starlet Flower
+344/31,Pachypodium Masque
+344/32,Korrigan Masque
+344/33,Gazer's Helmet
+344/34,Curmudgeon's Helmet
+344/35,Retching Helmet
+347/32,Wyrmking Masque
+307/69,Bomb Masque
+351/94,Rarab Cap
+351/95,Snoll Masque
+352/18,Crab Cap
+352/125,Kakai Cap
+353/48,Black Chocobo Cap
+353/70,Arthro Cap
+353/78,White Rarab Cap
+357/108,Royal Chocobo Beret
+358/49,Karakul Cap
+362/119,Byakko Masque
+,Arrogance Crown
+,Apathy Mask
+382/55,Cowardice Petasos
+,Envy Crown
+
+46/125,Bronze Cap
+47/2,Circlet
 46/115,Leather Bandana
 46/116,Sallet
 46/117,Shinobi Hachigane
@@ -9,12 +85,10 @@
 46/122,Royal Squire's Helm
 46/123,Royal Knight's Bascinet
 46/124,Padded Cap
-46/125,Bronze Cap
 46/126,Bone Mask
 46/127,Hachimaki
 47/0,Wool Hat
 47/1,Tactician Magician's Hat
-47/2,Circlet
 47/3,Headgear
 47/4,Darksteel Armet
 47/5,Red Cap
@@ -29,27 +103,27 @@
 47/14,Green Ribbon
 47/15,Black Ribbon
 47/16,Scarlet Ribbon
-94/13,Fighter's Mask (WAR AF1)
-94/14,Temple Crown (MNK AF1)
-94/15,Healer's Cap (WHM AF1)
-94/16,Wizard's Petasos (BLM AF1)
-94/17,Warlock's Chapeau (RDM AF1)
-94/18,Rogue's Bonnet (THF AF1)
-96/59,Gallant Coronet (PLD AF1)
-96/60,Chaos Burgeonet (DRK AF1)
-96/61,Beast Helm (BST AF1)
-96/62,Choral Roundlet (BRD AF1)
-96/63,Hunter's Beret (RNG AF1)
-99/26,Myochin Kabuto (SAM AF1)
-99/27,Ninja Hatsuburi (NIN AF1)
-99/28,Drachen Armet (DRG AF1)
-99/29,Evoker's Horn (SMN AF1)
-157/99,Magus Keffiyeh (BLU AF1)
-163/43,Corsair's Tricorne (COR AF1)
-163/44,Puppetry Taj (PUP AF1)
-198/70,Dancer's Tiara (m) (DNC AF1)
-198/71,Dancer's Tiara (f) (DNC AF1)
-198/72,Scholar's Mortarboard (SCH AF1)
+94/13,Fighter's Mask (WAR Artifact)
+94/14,Temple Crown (MNK Artifact)
+94/15,Healer's Cap (WHM Artifact)
+94/16,Wizard's Petasos (BLM Artifact)
+94/17,Warlock's Chapeau (RDM Artifact)
+94/18,Rogue's Bonnet (THF Artifact)
+96/59,Gallant Coronet (PLD Artifact)
+96/60,Chaos Burgeonet (DRK Artifact)
+96/61,Beast Helm (BST Artifact)
+96/62,Choral Roundlet (BRD Artifact)
+96/63,Hunter's Beret (RNG Artifact)
+99/26,Myochin Kabuto (SAM Artifact)
+99/27,Ninja Hatsuburi (NIN Artifact)
+99/28,Drachen Armet (DRG Artifact)
+99/29,Evoker's Horn (SMN Artifact)
+157/99,Magus Keffiyeh (BLU Artifact)
+163/43,Corsair's Tricorne (COR Artifact)
+163/44,Puppetry Taj (PUP Artifact)
+198/70,Dancer's Tiara (Male) (DNC Artifact)
+198/71,Dancer's Tiara (Female) (DNC Artifact)
+198/72,Scholar's Mortarboard (SCH Artifact)
 121/17,Coeurl Mask
 121/18,Adaman Barbuta
 121/19,Coral Cap
@@ -63,7 +137,6 @@
 124/92,Ogre Mask
 124/93,Koenig Schaller
 125/56,War Beret
-126/126,Pumpkin Head
 126/127,Roshi Jinpachi
 127/0,Genbu's Kabuto
 127/1,Hecatomb Cap
@@ -76,36 +149,32 @@
 129/96,Carapace Helm
 129/97,Dusk Mask
 129/98,Dragon Cap
-133/98,Warrior's Mask (WAR AF2)
-133/99,Melee Crown (MNK AF2)
-133/100,Cleric's Cap (WHM AF2)
-133/101,Sorcerer's Petasos (BLM AF2)
-133/102,Duelist's Chapeau (RDM AF2)
-133/103,Assassin's Bonnet (THF AF2)
-133/104,Valor Coronet (PLD AF2)
-133/105,Abyss Burgeonet (DRK AF2)
-133/106,Monster Helm (BST AF2)
-133/107,Bard's Roundlet (BRD AF2)
-133/108,Scout's Beret (RNG AF2)
-133/109,Saotome Kabuto (SAM AF2)
-133/110,Koga Hatsuburi (NIN AF2)
-133/111,Wyrm Armet (DRG AF2)
-133/112,Summoner's Horn (SMN AF2)
-214/103,Mirage Keffiyeh (BLU AF2)
-214/104,Commodore Tricorne (COR AF2)
-214/105,Pantin Taj (PUP AF2)
-218/2,Etoile Tiara (m) (DNC AF2)
-218/3,Etoile Tiara (f) (DNC AF2)
-217/91,Argute Mortarboard (SCH AF2)
+133/98,Warrior's Mask (WAR Relic)
+133/99,Melee Crown (MNK Relic)
+133/100,Cleric's Cap (WHM Relic)
+133/101,Sorcerer's Petasos (BLM Relic)
+133/102,Duelist's Chapeau (RDM Relic)
+133/103,Assassin's Bonnet (THF Relic)
+133/104,Valor Coronet (PLD Relic)
+133/105,Abyss Burgeonet (DRK Relic)
+133/106,Monster Helm (BST Relic)
+133/107,Bard's Roundlet (BRD Relic)
+133/108,Scout's Beret (RNG Relic)
+133/109,Saotome Kabuto (SAM Relic)
+133/110,Koga Hatsuburi (NIN Relic)
+133/111,Wyrm Armet (DRG Relic)
+133/112,Summoner's Horn (SMN Relic)
+214/103,Mirage Keffiyeh (BLU Relic)
+214/104,Commodore Tricorne (COR Relic)
+214/105,Pantin Taj (PUP Relic)
+218/2,Etoile Tiara (Male) (DNC Relic)
+218/3,Etoile Tiara (Female) (DNC Relic)
+217/91,Argute Mortarboard (SCH Relic)
 133/113,Scorpion Helm
 133/114,Austere Hat
 133/115,Lilac Corsage
 138/14,Panther Mask
 138/15,Opo-opo Crown
-138/16,Magnifying Specs.
-138/17,Protective Specs.
-138/18,Chef's Hat
-138/19,Shaded Specs.
 144/91,Garish Crown
 144/92,Seer's Crown
 144/93,Hydra Beret
@@ -118,7 +187,6 @@
 146/94,Igqira Tiara
 148/28,Eisenschaller
 149/44,Lord's Armet
-149/112,Dream Hat
 150/66,Hachiman Jinpachi
 151/57,Wise Cap
 152/74,Orc Helm
@@ -130,10 +198,6 @@
 154/74,Alumine Salade
 155/4,Black Sallet
 155/73,Maat's Cap
-155/74,Mandragora Beret
-155/75,Guide Beret
-156/91,Stars Cap
-156/107,Laurel Crown
 157/100,Nashira Turban
 158/42,Homam Zucchetto
 158/101,Trader's Chapeau (Black)
@@ -145,13 +209,11 @@
 166/40,Amir Puggaree
 166/41,Pahluwan Qalansuwa
 166/42,Yigit Turban
-170/114,Witch Hat
 174/96,Ares's Mask
 174/97,Skadi's Visor
 176/1,Usukane Somen
 176/2,Marduk's Tiara
 176/3,Morrigan's Coronal
-182/24,Egg Helm
 183/3,Goliard Chapeau
 182/23,Denali Bonnet
 183/2,Askar Zuccetto
@@ -159,8 +221,6 @@
 186/13,Shadow Hat
 186/12,Valhalla Helm
 186/119,Glory Crown
-186/120,Moogle Cap
-186/121,Nomad Cap
 187/62,Dandy Specs.
 188/0,Mamool Ja Helm
 188/1,Lamia Garland
@@ -170,17 +230,13 @@
 196/92,Cobra Unit Cloche
 201/35,Iron Ram Sallet
 199/7,Fourth Division Haube
-199/6,Bastokan Armor
+199/6,Bastokan Campaign Armor (Unobtainable)
 201/36,Sol Cap
 201/37,Lunar Cap
 210/53,Varangian Helm
-219/73,Eyepatch
-220/5,Spelunker's Helm
-223/64,Jester's Cap
 224/46,Champion's Galea
 224/60,Anwing Salade
 224/47,Selenian Cap
-225/79,Snow Bunny Hat
 236/115,Ebon Celata
 236/116,Furia Celata
 236/117,Ebur Celata
@@ -217,48 +273,44 @@
 233/70,Ebon Beret
 233/71,Furia Beret
 233/72,Ebur Beret
-238/103,Chocobo Beret
 238/126,Nocturnus Helm
 248/58,Hero's Galea
 248/59,Tokon Hachimaki
 248/60,Perle Salade
 248/61,Teal Chapeau
 248/62,Aurore Beret
-241/44,Goetia Petasos (BLM AF3)
-241/45,Creed Armet (PLD AF3)
-244/27,Ravager's Mask (WAR AF3)
-244/28,Estoqueur's Chappel (RDM AF3)
-252/78,Tantra Crown (MNK AF3)
-252/79,Raider's Bonnet (THF AF3)
-252/80,Bale Burgeonet (DRK AF3)
-252/81,Ferine Cabasset (BST AF3)
-252/82,Aoidos' Calot (BRD AF3)
-252/83,Unkai Kabuto (SAM AF3)
-252/84,Iga Zukin (NIN AF3)
-252/85,Lancer's Mezail (DRG AF3)
-252/86,Mavi Kavuk (BLU AF3)
-252/87,Navarch's Tricorne (COR AF3)
-252/88,Cirque Capello (PUP AF3)
-252/89,Savant's Bonnet (m) (SCH AF3)
-252/90,Savant's Bonnet (f) (SCH AF3)
-254/38,Orison Cap (WHM AF3)
-254/94,Charis Tiara (m) (DNC AF3)
-254/95,Charis Tiara (f) (DNC AF3)
-256/57,Sylvan Gapette (RNG AF3)
-256/58,Caller's Horn (SMN AF3)
+241/44,Goetia Petasos (BLM Empyrean)
+241/45,Creed Armet (PLD Empyrean)
+244/27,Ravager's Mask (WAR Empyrean)
+244/28,Estoqueur's Chappel (RDM Empyrean)
+252/78,Tantra Crown (MNK Empyrean)
+252/79,Raider's Bonnet (THF Empyrean)
+252/80,Bale Burgeonet (DRK Empyrean)
+252/81,Ferine Cabasset (BST Empyrean)
+252/82,Aoidos' Calot (BRD Empyrean)
+252/83,Unkai Kabuto (SAM Empyrean)
+252/84,Iga Zukin (NIN Empyrean)
+252/85,Lancer's Mezail (DRG Empyrean)
+252/86,Mavi Kavuk (BLU Empyrean)
+252/87,Navarch's Tricorne (COR Empyrean)
+252/88,Cirque Capello (PUP Empyrean)
+252/89,Savant's Bonnet (Male) (SCH Empyrean)
+252/90,Savant's Bonnet (Female) (SCH Empyrean)
+254/38,Orison Cap (WHM Empyrean)
+254/94,Charis Tiara (Male) (DNC Empyrean)
+254/95,Charis Tiara (Female) (DNC Empyrean)
+256/57,Sylvan Gapette (RNG Empyrean)
+256/58,Caller's Horn (SMN Empyrean)
 261/82,Twilight Helm
 263/23,Cuauhtli Headpiece
 263/24,Fazheluo Helm
 263/63,Hyksos Khat
-263/125,Destrier Beret
-264/53,Charity Cap
 266/21,Ocelomeh Headpiece
 266/22,Nefer Khat
 266/23,Mekira-oto
 270/91,Smilodon Mask
 270/92,Gallian Helm
 270/93,Brego Helm
-270/94,Snowman Cap
 271/103,Ogier's Helm
 271/104,Athos's Chapeau
 271/105,Rubeus Bandeau
@@ -270,99 +322,52 @@
 278/13,Auspex Coif
 278/14,Hrafn Coronet
 278/15,Tenryu Somen
-282/18,Decennial Crown
-282/19,Decennial Tiara
 282/72,Dux Visor
 282/73,Chelona Hat
-286/38,Moogle Masque (m)
-286/39,Moogle Masque (f)
-287/69,Ahriman Cap
-291/94, Geomancy galero (m) (GEO AF1)
-291/95, Geomancy galero (f) (GEO AF2)
-292/66, Runeist bandeau (RUN AF1)
-290/111, Karieyh Morion
-290/112, Thurandaut Chapeau
-290/113, Orvail Corona
-290/114, Mirth masque
-292/67, Xux / Nahtirah Hat
-292/68, Chocaliztli / Whirlpool
-292/69, Quauhpilli / Yaoyotl
-301/36, Mikinaak Helm
-301/37, Manibozho Beret
-301/38, Bokwus Circlet
-304/40, Uk'uxkaj Cap
-304/41, Buremte Hat
-304/42, Chocobo Masque
-305/6, Bagua galero (m) (GEO AF2)
-305/7, Bagua galero (f) (GEO AF2)
-305/106, Futhark bandeau (RUN AF2)
-305/107, Gorney Morion
-305/108, Shneddick Chapeau
-305/109, Weatherspoon Corona 
-308/85, Quiahuiz Helm
-310/84, Slime Cap
-310/85, Straw Hat (m)
-310/86, Straw Hat (f)
-312/74, Qaaxo Mask
-312/75, Artsieq Hat
-312/76, Xaddi Headgear
-314/13, She-Slime Hat
-314/14, Metal Slime Hat
-314/109, Worm Masque
-315/78, Erilaz galea (RUN AF3)
-315/79, Gobbie Masque
-315/80, G. Moogle Masque
-318/109, Morbol cap
-320/89, Gavialis helm
-321/100, Mandragora masque
-321/101, Lycopodium masque
-321/102, Flan masque
-322/120, Cait Sith cap
-325/105, Sheep cap
-326/76, Leafkin cap
-327/37, Azimuth Hood (GEO AF3)
-327/38, Befouled Crown
-327/39, Rabbit cap
-327/40, Shobuhouou Kabuto
-330/56, Volto Oscuro's mask
-330/57, Despair Helm
-330/58, Pursuer's beret
-330/59, Psycloth tiara
-330/60, Eschite helm
-330/61, Rawhide Mask
-330/62, Naga Somen
-330/63, Vanya hood
-330/64, Behemoth masque
-333/26, Skormoth mask
-336/55, Founder's corona
-336/56, Jumalik Helm
-336/57, Buffalo hat
-335/58, Carbie cap
-336/59, Agent hood
-336/60, Starlet flower
-339/9, Terminal helm
-344/29, Odyssean helm
-344/30, Valorus mask
-344/31, Pachypodium masque
-344/32, Korrigan masque
-344/33, Gazer's helmet
-344/34, Curmudgeon's helmet
-344/35, Retching helmet
-346/30, Merlinic hood
-347/32, Wyrmking masque
-348/65, Chironic hat
-349/57, Herculean helm (m)
-349/58, Herculean helm (f)
-351/94, Rarab cap
-351/95, Snoll masque
-307/69, Bomb masque
-352/18,Crab Cap
-352/125,Kakai Cap
-353/48,Black Chocobo Cap
-353/70,Arthro Cap
-353/78,White Rarab Cap
-357/108,Royal Chocobo Beret
-358/49,Karakul Cap
+291/94,Geomancy Galero (Male) (GEO Artifact)
+291/95,Geomancy Galero (Female) (GEO Relic)
+292/66,Runeist Bandeau (RUN Artifact)
+290/111,Karieyh Morion
+290/112,Thurandaut Chapeau
+290/113,Orvail Corona
+292/67,Xux / Nahtirah Hat
+292/68,Chocaliztli / Whirlpool
+292/69,Quauhpilli / Yaoyotl
+301/36,Mikinaak Helm
+301/37,Manibozho Beret
+301/38,Bokwus Circlet
+304/40,Uk'uxkaj Cap
+304/41,Buremte Hat
+305/6,Bagua Galero (Male) (GEO Relic)
+305/7,Bagua Galero (Female) (GEO Relic)
+305/106,Futhark Bandeau (RUN Relic)
+305/107,Gorney Morion
+305/108,Shneddick Chapeau
+305/109,Weatherspoon Corona 
+308/85,Quiahuiz Helm
+312/74,Qaaxo Mask
+312/75,Artsieq Hat
+312/76,Xaddi Headgear
+315/78,Erilaz Galea (RUN Empyrean)
+320/89,Gavialis Helm
+327/37,Azimuth Hood (GEO Empyrean)
+327/38,Befouled Crown
+330/57,Despair Helm
+330/58,Pursuer's Beret
+330/59,Psycloth Tiara
+330/60,Eschite Helm
+330/61,Rawhide Mask
+330/62,Naga Somen
+330/63,Vanya Hood
+333/26,Skormoth Mask
+336/55,Founder's Corona
+336/56,Jumalik Helm
+339/9,Terminal Helm
+344/29,Odyssean Helm
+344/30,Valorus Mask
+346/30,Merlinic Hood
+348/65,Chironic Hat
+349/57,Herculean Helm (Male)
+349/58,Herculean Helm (Female)
 361/102,Cath Palug Crown
 362/56,Malignance Chapeau
-362/119,Tiger Helm
