@@ -41,6 +41,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Full Update & Copyediting - All Feet Files - No New Limbus Gear Added Yet (Feb-28-2026)
 - Copyediting - All Mithra Files, All Head Files, HumeF Body, & HumeM Body. Some Ark Angel lockstyles (Feb-28-2026)
 - Mithra/Hands.csv - Full Update to Hand Equipment - No 2025/2026 Limbus Gear, Clarity to Unobtainable gear (Feb-27-2026)
 - Mithra/Body.csv - Identified Hebenus Top (Feb-27-2026)
