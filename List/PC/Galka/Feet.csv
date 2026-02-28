@@ -1,25 +1,46 @@
 57/89,None
 157/51,Invisible
-57/90,Leather Highboots
+57/97,Galkan Sandals
+127/117,Fisherman's Boots
+127/118,Chocobo Boots
+127/119,Vagabond's Boots
+130/48,Field Boots
+139/9,Waders
+196/127,Dream Boots
+217/108,Noble Poulaines
+240/82,Spritewarden's Sabatons (Crazy Glow Effect)
+291/45,Morass Boots
+310/109,Thatch Boots
+327/118,Pupil's Shoes
+307/64,Alliance Boots
+336/119,Agent Boots
+370/8,Ziamet Nails
+380/0,Sapphire Leggings
+380/1,Jadeite Jambeaux
+380/119,Diamond Sune-Ate
+380/120,Emerald Crackows
+380/2,Ruby Pigaches
+381/99,Arrogance Sabatons
+
+57/104,Bronze Leggings
+57/109,Ash Clogs
+57/90,Leather HighBoots
 57/91,Plate Leggings
 57/92,Solea
 57/93,Shinobi Kyahan
 57/94,Greaves
 57/95,Lizard Ledelsens
 57/96,Raptor Ledelsens
-57/97,Galkan Santals
 57/98,Sune-Ate
 57/99,Shoes
 57/100,Moccasins
 57/101,Royal Squire's Sollerets
 57/102,Royal Knight's Sollerets
 57/103,Leggings
-57/104,Bronze Leggings
 57/105,Bone Leggings
 57/106,Kyahan
 57/107,Chestnut Sabots
 57/108,Tactician Magician's Pigaches
-57/109,Ash Clogs
 57/110,Gaiters
 57/111,Darksteel Sabatons
 57/112,Socks
@@ -30,26 +51,26 @@
 57/117,Scale Greaves
 57/118,Mythril Leggings
 57/119,Elder's Sandals
-94/112,Fighter's Calligae (WAR AF1)
-94/113,Temple Hose (MNK AF1)
-94/114,Healer's Duckbills (WHM AF1)
-94/115,Wizard's Sabots (BLM AF1)
-94/116,Warlock's Boots (RDM AF1)
-94/117,Rogue's Poulaines (THF AF1)
-97/1,Gallant Leggings (PLD AF1)
-97/2,Chaos Sollerets (DRK AF1)
-97/3,Beast Gaiters (BST AF1)
-97/4,Choral Slippers (BRD AF1)
-97/5,Hunter's Socks (RNG AF1)
-99/105,Myochin Sune-Ate (SAM AF1)
-99/106,Ninja Kyahan (NIN AF1)
-99/107,Drachen Greaves (DRG AF1)
-99/108,Evoker's Pigaches (SMN AF1)
-164/16,Magus Charuqs (BLU AF1)
-164/17,Corsair's Bottes (COR AF1)
-162/85,Puppetry Babouches (PUP AF1)
-198/103,Dancer's Shoes (DNC AF1)
-198/104,Scholar's Loafers (SCH AF1)
+94/112,Fighter's Calligae (WAR Artifact)
+94/113,Temple Hose (MNK Artifact)
+94/114,Healer's Duckbills (WHM Artifact)
+94/115,Wizard's Sabots (BLM Artifact)
+94/116,Warlock's Boots (RDM Artifact)
+94/117,Rogue's Poulaines (THF Artifact)
+97/1,Gallant Leggings (PLD Artifact)
+97/2,Chaos Sollerets (DRK Artifact)
+97/3,Beast Gaiters (BST Artifact)
+97/4,Choral Slippers (BRD Artifact)
+97/5,Hunter's Socks (RNG Artifact)
+99/105,Myochin Sune-Ate (SAM Artifact)
+99/106,Ninja Kyahan (NIN Artifact)
+99/107,Drachen Greaves (DRG Artifact)
+99/108,Evoker's Pigaches (SMN Artifact)
+164/16,Magus Charuqs (BLU Artifact)
+164/17,Corsair's Bottes (COR Artifact)
+162/85,Puppetry Babouches (PUP Artifact)
+198/103,Dancer's Shoes (DNC Artifact)
+198/104,Scholar's Loafers (SCH Artifact)
 119/48,Tiger Ledelsens
 119/49,Iron Greaves
 122/11,Steel Greaves
@@ -70,36 +91,31 @@
 127/114,Suzaku's Sune-Ate
 127/115,Hecatomb Leggings
 127/116,Errant Pigaches
-127/117,Fisherman's Boots
-127/118,Chocobo Boots
-127/119,Vagabond's Boots
-130/48,Field Boots
 130/49,Shura Sune-Ate
 130/50,Zenith Pumps
 130/51,Dusk Ledelsens
 130/52,Dragon Leggings
-135/85,Warrior's Calligae (WAR AF2)
-135/86,Melee Gaiters (MNK AF2)
-135/87,Cleric's Duckbills (WHM AF2)
-135/88,Sorcerer's Sabots (BLM AF2)
-135/89,Duelist's Boots (RDM AF2)
-135/90,Assassin's Poulaines (THF AF2)
-135/91,Valor Leggings (PLD AF2)
-135/92,Abyss Sollerets (DRK AF2)
-135/93,Monster Gaiters (BST AF2)
-135/94,Bard's Slippers (BRD AF2)
-135/95,Scout's Socks (RNG AF2)
-135/96,Saotome Sune-Ate (SAM AF2)
-135/97,Koga Kyahan (NIN AF2)
-135/98,Wyrm Greaves (DRG AF2)
-135/99,Summoner's Pigaches (SMN AF2)
-215/8,Mirage Charuqs (BLU AF2)
-215/9,Commodore Bottes (COR AF2)
-215/10,Pantin Babouches (PUP AF2)
-218/21,Etoile Shoes (DNC AF2)
-217/107,Argute Loafers (SCH AF2)
+135/85,Warrior's Calligae (WAR Relic)
+135/86,Melee Gaiters (MNK Relic)
+135/87,Cleric's Duckbills (WHM Relic)
+135/88,Sorcerer's Sabots (BLM Relic)
+135/89,Duelist's Boots (RDM Relic)
+135/90,Assassin's Poulaines (THF Relic)
+135/91,Valor Leggings (PLD Relic)
+135/92,Abyss Sollerets (DRK Relic)
+135/93,Monster Gaiters (BST Relic)
+135/94,Bard's Slippers (BRD Relic)
+135/95,Scout's Socks (RNG Relic)
+135/96,Saotome Sune-Ate (SAM Relic)
+135/97,Koga Kyahan (NIN Relic)
+135/98,Wyrm Greaves (DRG Relic)
+135/99,Summoner's Pigaches (SMN Relic)
+215/8,Mirage Charuqs (BLU Relic)
+215/9,Commodore Bottes (COR Relic)
+215/10,Pantin Babouches (PUP Relic)
+218/21,Etoile Shoes (DNC Relic)
+217/107,Argute Loafers (SCH Relic)
 135/100,Austere Sabots
-139/9,Waders
 145/57,Hydra Spats
 145/58,Shade Leggings
 145/59,Garish Pumps
@@ -140,15 +156,13 @@
 183/54,Askar Gambieras
 185/119,Shadow Sabatons
 186/29,Shadow Clogs
-196/127,Dream Boots
-199/73,Cobra Unit Boots
-200/109,Cobra Unit Sabots
-201/55,Iron Ram Sollerets
-199/35,Fourth Division Boots
-199/34,Bastokan Armor
+199/73,Cobra Unit Leggings
+200/109,Cobra Unit Crackows
+201/55,Iron Ram Greaves
+199/35,Fourth Division Schuhs
+199/34,Bastokan Campaign Armor (Unobtainable)
 195/93,Karasutengu Kogake
 207/54,Hachiryu Sune-Ate
-217/108,Noble Poulaines
 219/84,Gothic Sabatons
 238/27,Ebon Sabatons
 238/28,Furia Sabatons
@@ -186,7 +200,6 @@
 234/110,Ebon Clogs
 234/111,Furia Clogs
 234/112,Ebur Clogs
-240/82,Spritewarden's Sabatons
 249/32,Serpentes Sabots
 249/33,Praeda Sabatons
 249/34,Augur's Gaiters
@@ -194,26 +207,26 @@
 249/36,Teal Pigaches
 249/37,Aurore Gaiters
 255/5,Purple Boots
-241/72,Goetia Sabots (BLM AF3)
-241/73,Creed Sabatons (PLD AF3)
-244/55,Ravager's Calligae (WAR AF3)
-244/56,Estoqueur's Houseeaux (RDM AF3)
-253/123,Tantra Gaiters (MNK AF3)
-253/124,Raider's Poulaines (THF AF3)
-253/125,Bale Sollerets (DRK AF3)
-253/126,Ferine Ocreae (BST AF3)
-253/127,Aoidos' Cothurnes (BRD AF3)
-254/0,Unkai Sune-Ate (SAM AF3)
-254/1,Iga Kyahan (NIN AF3)
-254/2,Lancer's Schynbalds (DRG AF3)
-254/3,Mavi Basmak (BLU AF3)
-254/4,Navarch's Bottes (COR AF3)
-254/5,Cirque Scarpe (PUP AF3)
-254/6,Savant's Loafers (SCH AF3)
-254/52,Orison Duckbills (WHM AF3)
-254/113,Charis Toeshoes (DNC AF3)
-256/85,Sylvan Bottillons (RNG AF3)
-256/86,Caller's Pigaches (SMN AF3)
+241/72,Goetia Sabots (BLM Empyrean)
+241/73,Creed Sabatons (PLD Empyrean)
+244/55,Ravager's Calligae (WAR Empyrean)
+244/56,Estoqueur's Houseeaux (RDM Empyrean)
+253/123,Tantra Gaiters (MNK Empyrean)
+253/124,Raider's Poulaines (THF Empyrean)
+253/125,Bale Sollerets (DRK Empyrean)
+253/126,Ferine Ocreae (BST Empyrean)
+253/127,Aoidos' Cothurnes (BRD Empyrean)
+254/0,Unkai Sune-Ate (SAM Empyrean)
+254/1,Iga Kyahan (NIN Empyrean)
+254/2,Lancer's Schynbalds (DRG Empyrean)
+254/3,Mavi Basmak (BLU Empyrean)
+254/4,Navarch's Bottes (COR Empyrean)
+254/5,Cirque Scarpe (PUP Empyrean)
+254/6,Savant's Loafers (SCH Empyrean)
+254/52,Orison Duckbills (WHM Empyrean)
+254/113,Charis ToeShoes (DNC Empyrean)
+256/85,Sylvan Bottillons (RNG Empyrean)
+256/86,Caller's Pigaches (SMN Empyrean)
 264/74,Calmecac Leggings
 264/75,Jingang Greaves
 264/76,Menhit Leggings
@@ -229,44 +242,46 @@
 281/17,???
 282/100,Dux Greaves
 282/101,Chelona Boots
-291/123, Geomancer AF1
-292/98, Rune Fencer AF1
-291/42, Karieyh Sollerets
-291/43, Thurandaut Boots
-291/44, Orvail Souliers
-291/45, Morass boots
-292/97, Chocaliztli / Whirlpool
-301/78, Mikinaak Greaves
-301/79, Manibozho Boots
-301/80, Bokwus Boots
-304/65, Uk'uxkaj boots
-305/25, Geomancer Feet
-306/34, Runefencer Feet
-306/35, Gorney Sollerets
-306/36, Shneddick Boots
-306/37, Weatherspoon Souliers
-310/109, Thatch boots
-312/116, Qaaxo Leggings
-312/117, Artsieq Boots
-312/118, Xaddi Boots
-315/101, Erilaz greaves (RUN AF3)
-325/59, Punchinellos
-327/69, Azimuth Gaiters (GEO AF3)
-327/118, Pupil's Shoes
-331/72, Despair greaves
-331/73, Pursuer's gaiters
-331/74, Psycloth shoes
-331/75, Eschite greaves
-331/76, Rawhide boots
-331/77, Naga kyahan
-331/78, Vanya clogs
-336/118, Founder's greaves
-336/119, Agent boots
-344/106, Composer's sabots
-344/107, Odyssean greaves
-344/108, Valorus greaves
-346/44, Merlinic crackows
-348/79, Chironic slippers
-349/76, Herculean boots
-307/64, Alliance boots
+291/123,Geomancer Artifact
+292/98,Rune Fencer Artifact
+291/42,Karieyh Sollerets
+291/43,Thurandaut Boots
+291/44,Orvail Souliers
+292/97,Chocaliztli / Whirlpool
+301/78,Mikinaak Greaves
+301/79,Manibozho Boots
+301/80,Bokwus Boots
+304/65,Uk'uxkaj Boots
+305/25,Geomancer Feet
+306/34,Runefencer Feet
+306/35,Gorney Sollerets
+306/36,Shneddick Boots
+306/37,Weatherspoon Souliers
+312/116,Qaaxo Leggings
+312/117,Artsieq Boots
+312/118,Xaddi Boots
+315/101,Erilaz Greaves (RUN Empyrean)
+325/59,Punchinellos
+327/69,Azimuth Gaiters (GEO Empyrean)
+331/72,Despair Greaves
+331/73,Pursuer's Gaiters
+331/74,Psycloth Shoes
+331/75,Eschite Greaves
+331/76,Rawhide Boots
+331/77,Naga Kyahan
+331/78,Vanya Clogs
+336/118,Founder's Greaves
+344/106,Composer's Sabots
+344/107,Odyssean Greaves
+344/108,Valorus Greaves
+346/44,Merlinic Crackows
+348/79,Chironic Slippers
+349/76,Herculean Boots
 362/74,Malignance Boots
+368/5,Ikenga's Clogs
+368/6,Gleti's Boots
+368/7,Sakpata's Leggings
+368/8,Mpaca's Boots
+368/9,Agwu's Pigaches
+368/10,Bunzi's Sabots
+368/125,Nyame Sollerets
