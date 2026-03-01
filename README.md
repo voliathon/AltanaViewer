@@ -61,7 +61,7 @@ Because the original author disappeared and the software was never made open-sou
 - Tarutaru/Face.csv - New Faces and Corrections (Feb-26-2026)
 - Mithra/Head.csv - Full Update to Head Equipment - No 2025/2026 Limbus Gear (Feb-26-2026)
 - Mithra/Main.csv - Full Update to Weapons including Prime Weapons (Feb-26-2026)
-- Mithra/Sub.csv - Full Update to Sub Seapons and Shields including Prime Shield (Feb-20-2026) 
+- Mithra/Sub.csv - Full Update to Off-Handed Weapons and Shields including Prime Shield (Feb-20-2026) 
 - Mithra/Action.csv - Animations are now alphabatized(Feb-20-2026)
 - Mithra/Range.csv - Full Update to Range Everything. Primes Included. Un-Implemented .DAT files shown (Feb-20-2026)
 - Mithra/Body.csv - Full Update to Body Equipment. No 2025/2026 Limbus Gear (Feb-20-2026)

@@ -24,6 +24,7 @@
 183/27,Red Racing Silks
 183/28,White Racing Silks
 183/29,Green Racing Silks
+204/74,Savage Top
 214/121,Eerie Cloak
 214/120,Tidal Talisman
 223/51,Otokogusa Yukata
@@ -75,7 +76,7 @@
 351/26,Flaviria Unity Shirt
 351/27,Yoran Unity Shirt
 351/28,Sylvie Unity Shirt
-351/46, Rhapsody Shirt
+351/46,Rhapsody Shirt
 351/122,Akitu Shirt
 352/94,Delegate's Garb
 353/24,Jubilee Shirt
@@ -87,22 +88,26 @@
 361/59,Jody Shirt
 362/15,Citrullus Shirt
 363/57,Mithkabob Shirt
+364/1,Mandragora Shirt
 363/121,Poroggo Fleece
 372/94,Poroggo Cassock
 365/43,Adenium Suit
 379/98,Magh Bihu's Suit
 369/123,Ziamet Peti
 370/114,Cancrine Apron
+372/57,Moogle Shirt
 373/32,Morbol Apron
 374/79,Esthete's Coat
 379/99,Boudox's Suit
 379/100,Sapphire Platemail
 379/101,Jadeite Cuirie
+380/15,Iratsume Happi
 380/101,Diamond Haramaki
 380/102,Emerald Jubbah
 379/102,Ruby Robe
 380/103,Yule Talisman
 381/88,Hebenus Top
+381/87,Arrogance Platemail
 382/61,Cowardice Coat
 382/118,Tajawwul
 
@@ -112,14 +117,14 @@
 52/15,Breastplate
 52/16,Tunic
 52/17,Shinobi Gi
-52/18,ChainMail
+52/18,Chainmail
 52/19,Lizard Jerkin
 52/20,Raptor Jerkin
 52/22,Hara-Ate
 52/23,Cloak
 52/24,Silk Cloak
-52/25,Royal Squire's ChainMail
-52/26,Royal Knight's ChainMail
+52/25,Royal Squire's Chainmail
+52/26,Royal Knight's Chainmail
 52/27,Padded Armor
 52/29,Bone Harness
 52/30,Kenpogi
@@ -165,7 +170,7 @@
 96/92,Choral Justaucorps (BRD Artifact)
 96/93,Hunter's Jerkin (RNG Artifact)
 99/62,Myochin Domaru (SAM Artifact)
-99/63,Ninja ChainMail (NIN Artifact)
+99/63,Ninja Chainmail (NIN Artifact)
 99/64,Drachen Mail (DRG Artifact)
 99/65,Evoker's Doublet (SMN Artifact)
 163/67,Magus Jubbah (BLU Artifact)
@@ -211,7 +216,7 @@
 134/85,Bard's Justaucorps (BRD Relic)
 134/86,Scout's Jerkin (RNG Relic)
 134/87,Saotome Domaru (SAM Relic)
-134/88,Koga ChainMail (NIN Relic)
+134/88,Koga Chainmail (NIN Relic)
 134/89,Wyrm Mail (DRG Relic)
 134/90,Summoner's Doublet (SMN Relic)
 214/43,Mirage Jubbah (BLU Relic)
@@ -272,7 +277,6 @@
 201/45,Iron Ram Hauberk
 199/19,Fourth Division Brunne
 199/18,Bastokan Campaign Armor (Unobtainable)
-204/74,Savage Top
 207/47,Hachiryu Haramaki
 221/58,Royal Redingote
 221/57,Nuevo Coselete
@@ -413,7 +417,7 @@
 339/14,Terminal Plate
 339/15,Gyve Doublet
 344/67,Odyssean Chestplate
-344/68,Valorus Mail
+344/68,Valorous Mail
 346/36,Merlinic Jubbah
 348/71,Chironic Doublet
 349/68,Herculean Vest

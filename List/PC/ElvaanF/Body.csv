@@ -1,4 +1,124 @@
 42/56,None
+42/64,Elvaan Bodice
+126/92,Fisherman's Tunica
+126/93,Chocobo Jack Coat
+126/94,Vagabond's Tunica
+129/69,Field Tunica
+137/101,Kingdom Aketon
+137/102,Federation Aketon
+137/103,Republic Aketon
+137/104,Carpenter's Apron
+137/105,Blacksmith's Apron
+137/106,Weaver's Apron
+137/107,Alchemist's Apron
+137/108,Boneworker's Apron
+137/109,Fisherman's Apron
+137/110,Tanner's Apron
+137/111,Culinarian's Apron
+137/112,Goldsmith's Apron
+159/88,Dream Robe
+157/28,Elvaan Top
+143/23,Omina Yukata
+182/114,Orange Racing Silks
+182/115,Black Racing Silks
+182/116,Purple Racing Silks
+182/117,Sky Blue Racing Silks
+182/118,Blue Racing Silks
+182/119,Red Racing Silks
+182/120,White Racing Silks
+182/121,Green Racing Silks
+204/68,Magna Top
+214/102,Eerie Cloak
+214/101,Tidal Talisman
+223/46,Otokogusa Yukata
+225/69,Carpenter's Smock
+225/70,Blacksmith's Smock
+225/71,Weaver's Smock
+225/72,Alchemist's Smock
+225/73,Boneworker's Smock
+225/74,Fisherman's Smock
+225/75,Tanner's Smock
+225/76,Culinarian's Smock
+225/77,Goldsmith's Smock
+238/122,Dinner Jacket
+264/0,Novennial Dress
+265/116,Himegami Yukata
+281/110,Woodsy Top
+282/16,Decennial Dress
+282/64,Dux Scale Mail
+286/33,Moogle Suit
+290/98,Councilor's Garb
+290/99,Morass Tunic
+310/80,Overalls
+304/35,Chocobo Suit
+304/36,Rustic Maillot
+310/79,G. Spriggan Coat
+314/9,Purple Spriggan Coat
+314/10,Red Spriggan Coat
+315/74,Goblin Suit
+317/54,Shokujo Happi
+321/99,Mandragora Suit
+326/52,Heart Apron
+327/104,Pupil's Shirt
+330/16,Behemoth Suit
+330/17,Poroggo Coat
+334/122,Pupil's Camisa
+335/8,Cossie Top
+336/41,Starlet Jabot
+339/27,Track Shirt
+341/22,Botulus Suit
+344/7,Korrigan Suit
+347/31,Wyrmking Suit
+350/124,Pieuje Unity Shirt
+350/125,Ayame Unity Shirt
+350/126,I. Shield Unity Shirt
+350/127,Apururu Unity Shirt
+351/0,Maat Unity Shirt
+351/1,Aldo Unity Shirt
+351/2,Jakoh Unity Shirt
+351/3,Naja Unity Shirt
+351/4,Flaviria Unity Shirt
+351/5,Yoran Unity Shirt
+351/6,Sylvie Unity Shirt
+351/43,Rhapsody Shirt
+351/119,Akitu Shirt
+289/102,Chocobo Shirt
+307/50,Alliance Shirt
+352/90,Delegate's Garb
+353/21,Jubilee Shirt
+353/47,Black Chocobo Suit
+353/105,Crustacean Shirt
+355/105,Gil Nabber Shirt
+357/59,Fancy Top
+358/91,Shadow Lord Shirt
+361/56,Jody Shirt
+362/12,Citrullus Shirt
+363/54,Mithkabob Shirt
+363/126,Mandragora Shirt
+363/119,Poroggo Fleece
+372/92,Poroggo Cassock
+372/54,Moogle Shirt
+365/39,Adenium Suit
+379/60,Magh Bihu's Suit
+369/103,Ziamet Peti
+370/112,Cancrine Apron
+373/30,Morbol Apron
+374/69,Esthete's Coat
+379/61,Boudox's Suit
+379/62,Sapphire Platemail
+379/63,Jadeite Cuirie
+380/10,Iratsume Happi
+380/79,Diamond Haramaki
+380/80,Emerald Jubbah
+379/64,Ruby Robe
+380/81,Yule Talisman
+381/72,Hebenus Top
+381/71,Arrogance Platemail
+382/51,Cowardice Coat
+,Tajawwul
+
+42/71,Bronze Harness
+42/76,Robe
 42/57,Leather Vest
 42/58,Breastplate
 42/59,Tunic
@@ -6,19 +126,16 @@
 42/61,Chainmail
 42/62,Lizard Jerkin
 42/63,Raptor Jerkin
-42/64,Elvaan Bodice
 42/65,Hara-Ate
 42/66,Cloak
 42/67,Silk Cloak
 42/68,Royal Squire's Chainmail
 42/69,Royal Knight's Chainmail
 42/70,Padded Armor
-42/71,Bronze Harness
 42/72,Bone Harness
 42/73,Kenpogi
 42/74,Wool Robe
 42/75,Tactician Magician's Coat
-42/76,Robe
 42/77,Doublet
 42/78,Darksteel Cuirass
 42/79,Gambison
@@ -47,26 +164,26 @@
 93/114,Vermillion Cloak
 93/115,Blue Cotehardie
 93/116,Black Cotehardie
-93/117,Fighter's Lorica (WAR AF1)
-93/118,Temple Cyclas (MNK AF1)
-93/119,Healer's Briault (WHM AF1)
-93/120,Wizard's Coat (BLM AF1)
-93/121,Warlock's Tabard (RDM AF1)
-93/122,Rogue's Vest (THF AF1)
-96/39,Gallant Surcoat (PLD AF1)
-96/40,Chaos Cuirass (DRK AF1)
-96/41,Beast Jackcoat (BST AF1)
-96/42,Choral Justaucorps (BRD AF1)
-96/43,Hunter's Jerkin (RNG AF1)
-98/124,Myochin Domaru (SAM AF1)
-98/125,Ninja Chainmail (NIN AF1)
-98/126,Drachen Mail (DRG AF1)
-98/127,Evoker's Doublet (SMN AF1)
-162/64,Magus Jubbah (BLU AF1)
-162/65,Corsair's Frac (COR AF1)
-162/66,Puppetry Tobe (PUP AF1)
-198/62,Dancer's Casaque (DNC AF1)
-198/63,Scholar's Gown (SCH AF1)
+93/117,Fighter's Lorica (WAR Artifact)
+93/118,Temple Cyclas (MNK Artifact)
+93/119,Healer's Briault (WHM Artifact)
+93/120,Wizard's Coat (BLM Artifact)
+93/121,Warlock's Tabard (RDM Artifact)
+93/122,Rogue's Vest (THF Artifact)
+96/39,Gallant Surcoat (PLD Artifact)
+96/40,Chaos Cuirass (DRK Artifact)
+96/41,Beast JackCoat (BST Artifact)
+96/42,Choral Justaucorps (BRD Artifact)
+96/43,Hunter's Jerkin (RNG Artifact)
+98/124,Myochin Domaru (SAM Artifact)
+98/125,Ninja Chainmail (NIN Artifact)
+98/126,Drachen Mail (DRG Artifact)
+98/127,Evoker's Doublet (SMN Artifact)
+162/64,Magus Jubbah (BLU Artifact)
+162/65,Corsair's Frac (COR Artifact)
+162/66,Puppetry Tobe (PUP Artifact)
+198/62,Dancer's Casaque (DNC Artifact)
+198/63,Scholar's Gown (SCH Artifact)
 119/18,Tiger Jerkin
 119/19,Iron Scale Mail
 120/107,Steel Scale Mail
@@ -88,50 +205,34 @@
 126/89,Kirin's Osode
 126/90,Hecatomb Harness
 126/91,Errant Houppelande
-126/92,Fisherman's Tunica
-126/93,Chocobo Jack Coat
-126/94,Vagabond's Tunica
-129/69,Field Tunica
 129/70,Shura Togi
 129/71,Dalmatica
 129/72,Carapace Breastplate
 129/73,Dusk Jerkin
 129/74,Dragon Harness
-133/28,Warrior's Lorica (WAR AF2)
-133/29,Melee Cyclas (MNK AF2)
-133/30,Cleric's Briault (WHM AF2)
-133/31,Sorcerer's Coat (BLM AF2)
-133/32,Duelist's Tabard (RDM AF2)
-133/33,Assassin's Vest (THF AF2)
-133/34,Valor Surcoat (PLD AF2)
-133/35,Abyss Cuirass (DRK AF2)
-133/36,Monster Jackcoat (BST AF2)
-133/37,Bard's Justaucorps (BRD AF2)
-133/38,Scout's Jerkin (RNG AF2)
-133/39,Saotome Domaru (SAM AF2)
-133/40,Koga Chainmail (NIN AF2)
-133/41,Wyrm Mail (DRG AF2)
-133/42,Summoner's Doublet (SMN AF2)
-214/28,Mirage Jubbah (BLU AF2)
-214/29,Commodore Frac (COR AF2)
-214/30,Pantin Tobe (PUP AF2)
-217/126,Etoile Casaque (DNC AF2)
-217/86,Argute Gown (SCH AF2)
+133/28,Warrior's Lorica (WAR Relic)
+133/29,Melee Cyclas (MNK Relic)
+133/30,Cleric's Briault (WHM Relic)
+133/31,Sorcerer's Coat (BLM Relic)
+133/32,Duelist's Tabard (RDM Relic)
+133/33,Assassin's Vest (THF Relic)
+133/34,Valor Surcoat (PLD Relic)
+133/35,Abyss Cuirass (DRK Relic)
+133/36,Monster JackCoat (BST Relic)
+133/37,Bard's Justaucorps (BRD Relic)
+133/38,Scout's Jerkin (RNG Relic)
+133/39,Saotome Domaru (SAM Relic)
+133/40,Koga Chainmail (NIN Relic)
+133/41,Wyrm Mail (DRG Relic)
+133/42,Summoner's Doublet (SMN Relic)
+214/28,Mirage Jubbah (BLU Relic)
+214/29,Commodore Frac (COR Relic)
+214/30,Pantin Tobe (PUP Relic)
+217/126,Etoile Casaque (DNC Relic)
+217/86,Argute Gown (SCH Relic)
 133/43,Scorpion Breastplate
 133/44,Austere Robe
 133/45,Opaline Dress
-137/101,Kingdom Aketon
-137/102,Federation Aketon
-137/103,Republic Aketon
-137/104,Carpenter's Apron
-137/105,Blacksmith's Apron
-137/106,Weaver's Apron
-137/107,Alchemist's Apron
-137/108,Boneworker's Apron
-137/109,Fisherman's Apron
-137/110,Tanner's Apron
-137/111,Culinarian's Apron
-137/112,Goldsmith's Apron
 144/59,Hydra Harness
 144/60,Shade Harness
 144/61,Garish Tunic
@@ -154,7 +255,6 @@
 158/35,Homam Corazza
 158/97,Trader's Saio (Black)
 159/4,Crow Jupon
-159/88,Dream Robe
 153/120,Hydra Haubert
 160/72,Hydra Jupon
 163/35,Sipahi Jawshan
@@ -162,8 +262,6 @@
 166/27,Amir Korazin
 166/28,Pahluwan Khazagand
 166/29,Yigit Gomlek
-157/28,Elvaan Top
-143/23,Omina Yukata
 170/88,Corselet
 170/89,Kyudogi
 174/88,Ares's Cuirass
@@ -174,40 +272,19 @@
 182/123,Goliard Saio
 182/19,Denali Jacket
 182/122,Askar Korazin
-182/114,Orange Racing Silks
-182/115,Black Racing Silks
-182/116,Purple Racing Silks
-182/117,Sky Blue Racing Silks
-182/118,Blue Racing Silks
-182/119,Red Racing Silks
-182/120,White Racing Silks
-182/121,Green Racing Silks
 185/101,Shadow Breastplate
 186/8,Shadow Coat
 184/74,Valhalla Breastplate
 199/59,Cobra Unit Harness
 200/93,Cobra Unit Coat
 196/123,Iron Ram Hauberk
+196/71,San d'Orian Campaign Armor (Unobtainable)
 198/127,Fourth Division Brunne
-198/126,Bastokan Armor
-196/71,San d'Orian Armor
-204/68,Magna Top
+198/126,Bastokan Campaign Armor (Unobtainable)
 207/39,Hachiryu Haramaki
-214/102,Eerie Cloak
-214/101,Tidal Talisman
 221/54,Royal Redingote
 221/53,Nuevo Coselete
 221/84,Mirke Wardecors
-223/46,Otokogusa Yukata
-225/69,Carpenter's Smock
-225/70,Blacksmith's Smock
-225/71,Weaver's Smock
-225/72,Alchemist's Smock
-225/73,Boneworker's Smock
-225/74,Fisherman's Smock
-225/75,Tanner's Smock
-225/76,Culinarian's Smock
-225/77,Goldsmith's Smock
 236/67,Ebon Cuirass
 236/68,Furia Cuirass
 236/69,Ebur Cuirass
@@ -244,7 +321,6 @@
 233/22,Ebon Frock
 233/23,Furia Frock
 233/24,Ebur Frock
-238/122,Dinner Jacket
 238/123,Nocturnus Mail
 248/27,Grim Cuirass
 248/28,Timarli Jawshan
@@ -255,26 +331,26 @@
 248/33,Perle Hauberk
 248/34,Teal Saio
 248/35,Aurore Doublet
-241/36,Goetia Coat (BLM AF3)
-241/37,Creed Cuirass (PLD AF3)
-244/19,Ravager's Lorica (WAR AF3)
-244/20,Estoqueur's Sayon (RDM AF3)
-252/30,Tantra Cyclas (MNK AF3)
-252/31,Raider's Vest (THF AF3)
-252/32,Bale Cuirass (DRK AF3)
-252/33,Ferine Gausape (BST AF3)
-252/34,Aoidos' Hongreline (BRD AF3)
-252/35,Unkai Domaru (SAM AF3)
-252/36,Iga Ningi (NIN AF3)
-252/37,Lancer Plackart (DRG AF3)
-252/38,Mavi Mintan (BLU AF3)
-252/39,Navarch's Frac (COR AF3)
-252/40,Cirque Farsetto (PUP AF3)
-252/41,Savant's Gown (SCH AF3)
-254/34,Orison Bliaud (WHM AF3)
-254/90,Charis Casaque (DNC AF3)
-256/49,Sylvan Caban (RNG AF3)
-256/50,Caller's Doublet (SMN AF3)
+241/36,Goetia Coat (BLM Empyrean)
+241/37,Creed Cuirass (PLD Empyrean)
+244/19,Ravager's Lorica (WAR Empyrean)
+244/20,Estoqueur's Sayon (RDM Empyrean)
+252/30,Tantra Cyclas (MNK Empyrean)
+252/31,Raider's Vest (THF Empyrean)
+252/32,Bale Cuirass (DRK Empyrean)
+252/33,Ferine Gausape (BST Empyrean)
+252/34,Aoidos' Hongreline (BRD Empyrean)
+252/35,Unkai Domaru (SAM Empyrean)
+252/36,Iga Ningi (NIN Empyrean)
+252/37,Lancer Plackart (DRG Empyrean)
+252/38,Mavi Mintan (BLU Empyrean)
+252/39,Navarch's Frac (COR Empyrean)
+252/40,Cirque Farsetto (PUP Empyrean)
+252/41,Savant's Gown (SCH Empyrean)
+254/34,Orison Bliaud (WHM Empyrean)
+254/90,Charis Casaque (DNC Empyrean)
+256/49,Sylvan Caban (RNG Empyrean)
+256/50,Caller's Doublet (SMN Empyrean)
 261/79,Twilight Mail
 261/80,Twilight Cloak
 263/21,Cuauhtli Harness
@@ -283,8 +359,6 @@
 263/85,Mextli Harness
 263/86,Anhur Robe
 263/87,Fazheluo Radiant Mail
-264/0,Novennial Dress
-265/116,Himegami Yukata
 266/17,Ocelomeh Harness
 266/18,Nefer Kalasiris
 266/19,Mekira Toshugai
@@ -302,102 +376,58 @@
 277/121,Hrafn Haubert
 277/122,Tenryu Domaru
 277/123,Tessera Saio
-281/109,Matanca harness
-281/110,Woodsy Top
-282/16,Decennial Dress
-282/64,Dux Scale Mail
+281/109,Matanca Harness
 282/65,Chelona Blazer
-286/33,Moogle Suit
 288/103,Baalmuian Robe
-291/85, Geomancy tunic (GEO AF1)
-292/59, Runeist coat (RUN AF1)
-290/95, Karieyh Haubert
-290/96, Thurandaut Tabard
-290/97, Orvail Robe
-290/98, Councilor's garb
-290/99, Morass tunic
-301/24, Mikinaak Breastplate
-301/25, Manibozho Jerkin
-301/26, Bokwus Robe
-304/35, Chocobo Suit
-304/36, Rustic Maillot
-305/2, Bagua tunic (GEO AF2)
-305/90, Futhark coat (RUN AF2)
-305/91, Gorney Haubert
-305/92, Shneddick Tabard
-305/93, Weatherspoon Robe
-310/79, G. Spriggan Coat
-310/80, Overalls
-312/62, Qaaxo Harness
-312/63, Artsieq Jubbah
-312/64, Xaddi Mail
-314/9, Purple Spriggan Coat
-314/10, Red Spriggan Coat
-315/73, Erilaz surcoat (RUN AF3)
-315/74, Goblin Suit
-317/54, Shokujo happi
-320/88, Mekosuchinae harness
-321/99, Mandragora body
-325/13, Ravenous Breastplate
-325/14, Wretched Coat
-325/15, Foppish Tunica
-326/52, Heart apron
-327/29, Azimuth Robe (GEO AF3)
-327/30, Tartarus Platemail
-327/104, Pupil's Shirt
-330/9, Despair mail
-330/10, Pursuer's doublet
-330/11, Psycloth vest
-330/12, Eschite breastplate
-330/13, Rawhide vest
-330/14, Naga samue
-330/15, Vanya robe
-330/16, Behemoth suit
-330/17, Poroggo coat
-334/100, Vrikodara jupon
-334/101, Lapidary tunic
-334/122, Pupil's camisa
-335/8, Cossie top
-335/27, Chozoron coselete
-336/38, Founder's breastplate
-336/39, Jumalik mail
-336/40, Samnuha coat
-336/41, Starlet jabot
-339/6, Terminal plate
-339/7, Gyve doublet
-339/27, Track shirt
-341/22, Botulus suit
-344/5, Odyssean chestplate
-344/6, Valorus mail
-344/7, Korrigan suit
-346/26, Merlinic jubbah
-347/31, Wyrmking suit
-348/61, Chironic doublet
-349/53, Herculean vest
-350/124, Pieuje Unity shirt
-350/125, Ayame Unity shirt
-350/126, I. Shield Unity shirt
-350/127, Apururu Unity shirt
-351/0, Maat Unity shirt
-351/1, Aldo Unity shirt
-351/2, Jakoh Unity shirt
-351/3, Naja Unity shirt
-351/4, Flaviria Unity shirt
-351/5, Yoran Unity shirt
-351/6, Sylvie Unity shirt
-351/43, Rhapsody shirt
-351/119, Akitu shirt
-289/102, Chocobo shirt
-307/50, Alliance shirt
-352/90,Delegate's Garb
-353/21,Jubilee Shirt
-353/47,Black Chocobo Suit
-353/105,Crustacean Shirt
-355/105,Gil Nabber Shirt
-357/59,Swimsuit
-358/91,Shadow Lord Shirt
-361/56,Jody Shirt
+291/85,Geomancy Tunic (GEO Artifact)
+292/59,Runeist Coat (RUN Artifact)
+290/95,Karieyh Haubert
+290/96,Thurandaut Tabard
+290/97,Orvail Robe
+301/24,Mikinaak Breastplate
+301/25,Manibozho Jerkin
+301/26,Bokwus Robe
+305/2,Bagua Tunic (GEO Relic)
+305/90,Futhark Coat (RUN Relic)
+305/91,Gorney Haubert
+305/92,Shneddick Tabard
+305/93,Weatherspoon Robe
+312/62,Qaaxo Harness
+312/63,Artsieq Jubbah
+312/64,Xaddi Mail
+315/73,Erilaz Surcoat (RUN Empyrean)
+320/88,Mekosuchinae Harness
+325/13,Ravenous Breastplate
+325/14,Wretched Coat
+325/15,Foppish Tunica
+327/29,Azimuth Robe (GEO Empyrean)
+327/30,Tartarus Platemail
+330/9,Despair Mail
+330/10,Pursuer's Doublet
+330/11,Psycloth Vest
+330/12,Eschite Breastplate
+330/13,Rawhide Vest
+330/14,Naga Samue
+330/15,Vanya Robe
+334/100,Vrikodara Jupon
+334/101,Lapidary Tunic
+335/27,Chozoron Coselete
+336/38,Founder's Breastplate
+336/39,Jumalik Mail
+336/40,Samnuha Coat
+339/6,Terminal Plate
+339/7,Gyve Doublet
+344/5,Odyssean Chestplate
+344/6,Valorous Mail
+346/26,Merlinic Jubbah
+348/61,Chironic Doublet
+349/53,Herculean Vest
 361/122,Sacro Breastplate
-362/12,Citrullus Shirt
 362/50,Malignance Tabard
-363/54,Mithkabob Shirt
+366/108,Ikenga's Vest
+366/109,Gleti's Cuirass
+366/110,Sakpata's Breastplate
+366/111,Mpaca's Doublet
+366/112,Agwu's Robe
+366/113,Bunzi's Robe
+368/107,Nyame Mail
