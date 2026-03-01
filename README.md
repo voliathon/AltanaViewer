@@ -39,19 +39,33 @@ The original Altana Viewer was created around 2006 by an anonymous Japanese deve
 
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
+## Current Work and Road map
+- Perform Copyedits(edits by checking consistency and accuracy) against ALL files first 
+- Move all Level 1 equipment to the top of each list
+- Level 1 equipment will be ordered based on it's FFXI Release.
+- Implement known dat locations up until mid-2024 (This includes Odyssey gear)
+- Identify anything and everything gear past mid-2024 and implement
+ **At this point Altana Viewer will be done with Gear up until 2026** 
+
+- Identify missing mounts and implement
+- Identify missing furniture and implement
+- Identify further NPC stuff
+- Figure out why the Music doesn't work post a certain expansion and provide a solution
+- Figure out animations further... maybe... That's a lot of work.
+
 ## 2026 Change Log
 <!-- START_LOG -->
-- Full Update & Copyediting - All Body Files - No New Limbus Gear Added Yet (Mar-01-2026)
+- Full Update & Copyediting - All Body files up until Mid-2024 (Mar-01-2026)
 - Mithra/Body.csv - Copyedited and moved position of level one lockstyles based on when implemented in FFXI (Feb-28-2026)
-- Full Update & Copyediting - All Feet Files - No New Limbus Gear Added Yet (Feb-28-2026)
-- Copyediting - All Mithra Files, All Head Files, HumeF Body, & HumeM Body. Some Ark Angel lockstyles (Feb-28-2026)
-- Mithra/Hands.csv - Full Update to Hand Equipment - No 2025/2026 Limbus Gear, Clarity to Unobtainable gear (Feb-27-2026)
+- Full Update & Copyediting - All Feet files up until Mid-2024 (Feb-28-2026)
+- Copyediting - All Mithra files up until Mid-2024 (Feb-28-2026)
+- Mithra/Hands.csv - Full Update to Hand Equipment files up until Mid-2024, Clarity to Unobtainable gear (Feb-27-2026)
 - Mithra/Body.csv - Identified Hebenus Top (Feb-27-2026)
 - Mithra/Legs.csv - Identified Nanaa Mihgo's Pantsu (Feb-27-2026)
 - Mithra/Legs.csv - Identified Hebenus Shorts (Feb-27-2026)
 - Mithra/Body.csv - Copyediting (Feb-26-2026)
 - Mithra/Head.csv - Copyediting (Feb-26-2026)
-- Mithra/Legs.csv - Full Update to Legs Equipment - No 2025/2026 Limbus Gear (Feb-26-2026)
+- Mithra/Legs.csv - Full Update to Legs Equipment files up until Mid-2024 (Feb-26-2026)
 - README.md - Corrections to Change Log Notes prior to Automation (Feb-26-2026)
 - HumeF/Face.csv - New Faces and Corrections (Feb-26-2026)
 - HumeM/Face.csv - New Faces and Corrections (Feb-26-2026)
@@ -60,10 +74,10 @@ Because the original author disappeared and the software was never made open-sou
 - Galka/Face.csv - New Faces and Corrections (Feb-26-2026) 
 - Mithra/Face.csv - New Faces and Corrections (Feb-26-2026)
 - Tarutaru/Face.csv - New Faces and Corrections (Feb-26-2026)
-- Mithra/Head.csv - Full Update to Head Equipment - No 2025/2026 Limbus Gear (Feb-26-2026)
+- Mithra/Head.csv - Full Update to Head Equipment files up until Mid-2024 (Feb-26-2026)
 - Mithra/Main.csv - Full Update to Weapons including Prime Weapons (Feb-26-2026)
 - Mithra/Sub.csv - Full Update to Off-Handed Weapons and Shields including Prime Shield (Feb-20-2026) 
 - Mithra/Action.csv - Animations are now alphabatized(Feb-20-2026)
 - Mithra/Range.csv - Full Update to Range Everything. Primes Included. Un-Implemented .DAT files shown (Feb-20-2026)
-- Mithra/Body.csv - Full Update to Body Equipment. No 2025/2026 Limbus Gear (Feb-20-2026)
+- Mithra/Body.csv - Full Update to Body Equipment files up until Mid-2024 (Feb-20-2026)
 - Creation of Repo (Feb-20-2026)
