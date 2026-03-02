@@ -1,5 +1,59 @@
 47/92,None
 157/48,Invisible
+47/100,Tarutaru Braccae
+157/34,Tarutaru Trunks
+157/35,Tarutaru Shorts
+204/72,Wonder Trunks (Male)
+204/73,Wonder Shorts (Female)
+239/1,Dinner Hose
+263/72,Novennial Hose
+264/3,Novennial Boots
+270/97,Dream Trousers
+270/98,Dream Pants
+281/114,Creek Boxers
+281/122,Creek Shorts
+282/22,Decennial Hose
+282/23,Decennial Tights
+290/127,Morass Pants (Male)
+291/0,Morass Pants (Female)
+304/47,Rustic Trunks (Male)
+304/48,Rustic Trunks (Female)
+317/59,Kengyu Hanmomohiki
+317/60,Shokujo Hanmomohiki
+327/109,Pupil's Trousers (Male)
+327/110,Pupil's Trousers (Female)
+335/12,Swimming Togs
+335/13,Cossie Bottom
+336/71,Agent Pants
+336/72,Starlet Skirt
+339/31,Track Pants (Male)
+339/32,Track Pants (Female)
+307/55,Alliance Pants (Male)
+307/56,Alliance Pants (Female)
+355/61,Pretty Pink Subligar
+357/66,Swim Trunks (Male)
+357/67,Swim Trunks (Female)
+364/49,Morbol Subligar 
+364/105,Cait Sith Subligar
+373/51,Mystery Pants <--
+369/115,Ziamet Salvars
+374/75,Denim Pants
+374/76,Esthete's Hose
+379/87,Sapphire Trousers
+379/88,Jadeite Chausses
+380/95,Diamond Hizayoroi
+380/96,Emerald Shalwar
+379/89,Ruby Slops
+381/82,Arrogance Brais
+381/83,Hebenus Boxers
+381/84,Hebenus Shorts
+382/58,Cowardice Tonban
+,Envy Flanchard
+,Apathy Brais
+,Rage Brais
+
+47/107,Bronze Subligar
+47/112,Slops
 47/93,Leather Trousers
 47/94,Cuisses
 47/95,Slacks
@@ -7,19 +61,16 @@
 47/97,Chain Hose
 47/98,Lizard Trousers
 47/99,Raptor Trousers
-47/100,Tarutaru Braccae
 47/101,Haidate
 47/102,Linen Slacks
 47/103,White Slacks
 47/104,Royal Squire's Breeches
 47/105,Royal Knight's Breeches
 47/106,Iron Subligar
-47/107,Bronze Subligar
 47/108,Bone Subligar
 47/109,Sitabaki
 47/110,Wool Slops
 47/111,Tactician Magician's Slops
-47/112,Slops
 47/113,Brais
 47/114,Darksteel Cuisses
 47/115,Hose
@@ -30,27 +81,27 @@
 47/120,Scale Cuisses
 47/121,Mythril Cuisses
 47/122,Wonder Braccae
-94/36,Fighter's Cuisses (WAR AF1)
-94/37,Temple Gaiters (MNK AF1)
-94/38,Healer's Pantaloons (WHM AF1)
-94/39,Wizard's Tonban (BLM AF1)
-94/40,Warlock's Tights (RDM AF1)
-94/41,Rogue's Culotte (THF AF1)
-96/74,Gallant Breeches (PLD AF1)
-96/75,Chaos Flanchard (DRK AF1)
-96/76,Beast Trousers (BST AF1)
-96/77,Choral Cannions (BRD AF1)
-96/78,Hunter's Braccae (RNG AF1)
-99/38,Myochin Haidate (SAM AF1)
-99/39,Ninja Hakama (NIN AF1)
-99/40,Drachen Brais (DRG AF1)
-99/41,Evoker's Spats (SMN AF1)
-157/105,Magus Shalwar (BLU AF1)
-163/55,Corsair's Culotte (COR AF1)
-163/56,Puppetry Churidars (PUP AF1)
-198/79,Dancer's Tights (Male) (DNC AF1)
-198/80,Dancer's Tights (Female) (DNC AF1)
-198/81,Scholar's Pants (SCH AF1)
+94/36,Fighter's Cuisses (WAR Artifact)
+94/37,Temple Gaiters (MNK Artifact)
+94/38,Healer's Pantaloons (WHM Artifact)
+94/39,Wizard's Tonban (BLM Artifact)
+94/40,Warlock's Tights (RDM Artifact)
+94/41,Rogue's Culotte (THF Artifact)
+96/74,Gallant Breeches (PLD Artifact)
+96/75,Chaos Flanchard (DRK Artifact)
+96/76,Beast Trousers (BST Artifact)
+96/77,Choral Cannions (BRD Artifact)
+96/78,Hunter's Braccae (RNG Artifact)
+99/38,Myochin Haidate (SAM Artifact)
+99/39,Ninja Hakama (NIN Artifact)
+99/40,Drachen Brais (DRG Artifact)
+99/41,Evoker's Spats (SMN Artifact)
+157/105,Magus Shalwar (BLU Artifact)
+163/55,Corsair's Culotte (COR Artifact)
+163/56,Puppetry Churidars (PUP Artifact)
+198/79,Dancer's Tights (Male) (DNC Artifact)
+198/80,Dancer's Tights (Female) (DNC Artifact)
+198/81,Scholar's Pants (SCH Artifact)
 119/30,Tiger Trousers
 119/31,Iron Cuisses
 121/40,Steel Cuisses
@@ -71,10 +122,6 @@
 127/19,Byakko's Haidate
 127/20,Hecatomb Subligar
 127/21,Errant Slops
-127/22,Fisherman's Hose
-127/23,Chocobo Hose
-127/24,Vagabond's Hose
-129/111,Field Hose
 129/112,Shura Haidate
 129/113,Zenith Slacks
 129/114,Dusk Trousers
@@ -114,7 +161,7 @@
 146/97,Igqira Lappa
 148/31,Eisendiechlings
 149/46,Lord's Cuisses
-150/0,Zodiac Subligar
+150/0,Zodiac Subligars (Obtained from Phomiuna Aqueducts)
 149/121,Vir / Femina Subligar
 150/71,Hachiman Hakama
 150/72,Blessed Trousers
@@ -134,8 +181,6 @@
 166/49,Amir Dirs
 166/50,Pahluwan Seraweels
 166/51,Yigit Seraweels
-157/34,Tarutaru Trunks
-157/35,Tarutaru Shorts
 174/102,Ares's Flanchard
 174/103,Skadi's Chausses
 176/10,Usukane Hizayoroi
@@ -150,9 +195,7 @@
 196/95,Cobra Unit Slops
 201/40,Iron Ram Breeches
 199/13,Fourth Division Breeches
-199/12,Bastokan Armor
-204/72,Wonder Trunks (Male)
-204/73,Wonder Shorts (Female)
+199/12,Bastokan Campaign Armor (Unobtainable)
 207/45,Hachiryu Haidate
 219/76,Benedight Hose
 225/25,Blizter Poleyn
@@ -194,7 +237,6 @@
 233/106,Ebon Slops
 233/107,Furia Slops
 233/108,Ebur Slops
-239/1,Dinner Hose
 248/80,Teutates Subligar
 248/81,Torrent Subligar
 248/82,Wicca Subligar
@@ -225,15 +267,11 @@
 254/101,Charis Tights (Female) (DNC Empyrean)
 256/63,Sylvan Brague (RNG Empyrean)
 256/64,Caller's Spats (SMN Empyrean)
-263/72,Novennial Hose
-264/3,Novennial Boots
 264/54,Calmecac Trousers
 264/55,Calmecac Subligar
 264/56,Jingang Hose
 264/57,Menhit Slacks
 270/96,Triplus Subligar
-270/97,Dream Trousers
-270/98,Dream Pants
 271/115,Ogier's Breeches
 271/116,Athos's Tights
 271/117,Rubeus Spats
@@ -244,76 +282,57 @@
 278/29,Auspex Slops
 278/30,Hrafn Hose
 278/31,Tenryu Hakama
-280/124,Akasha chaps
-280/125,Alcedo cuisses
-281/114,Creek Boxers
-281/122,Creek Shorts
-281/127,Abatteur subligar?
-282/22,Decennial Hose
-282/23,Decennial Tights
+280/124,Akasha Chaps
+280/125,Alcedo Cuisses
+281/127,Abatteur Subligar
 282/78,Dux Cuisses
 282/79,Chelona Trousers
-291/100,Geomany pants (Male) (GEO AF1)
-291/101,Geomany pants (Female) (GEO Relic)
-292/73,Runeist trousers (RUN AF1)
-288/127,Orvail pants
+291/100,Geomany Pants (Male) (GEO Artifact)
+291/101,Geomany Pants (Female) (GEO Relic)
+292/73,Runeist Trousers (RUN Artifact)
+288/127,Orvail Pants
 290/125,Karieyh Brayettes
 290/126,Thurandaut Tights
-290/127,Morass pants (Male)
-291/0,Morass pants (Female)
 292/74,Xux / Nahtirah
 301/45,Mikinaak Cuisses
 301/46,Manibozho Brais
 301/47,Bokwus Slops
-304/47,Rustic Trunks (Male)
-304/48,Rustic Trunks (Female)
-305/12,Bagua pants (Male) (GEO Relic)
-305/13,Bagua pants (Female) (GEO Relic)
-305/118,Futhark trousers (RUN Relic)
+305/12,Bagua Pants (Male) (GEO Relic)
+305/13,Bagua Pants (Female) (GEO Relic)
+305/118,Futhark Trousers (RUN Relic)
 305/119,Gorney Brayettes
 305/120,Shneddick Tights
 305/121,Weatherspoon Pants 
-308/86,Quiahuiz leggings
+308/86,Quiahuiz Leggings
 312/83,Qaaxo Tights
 312/84,Artsieq Hose
 312/85,Xaddi Cuisses
-315/84,Erilaz leg guards (RUN Empyrean)
-317/59,Kengyu hanmomohiki
-317/60,Shokujo hanmomohiki
+315/84,Erilaz Leg Guards (RUN Empyrean)
 325/30,Miasmic Pants
 327/44,Azimuth Tights (GEO Empyrean)
-327/109,Pupil's trousers (Male)
-327/110,Pupil's trousers (Female)
-330/81,Despair cuisses
-330/82,Pursuer's pants
-330/83,Psycloth lappas
-330/84,Eschite cuisses,
-330/85,Rawhide trousers
-330/86,Naga hakama
-330/87,Vanya slops
-335/12,Swimming togs
-335/13,Cossie bottom
+330/81,Despair Cuisses
+330/82,Pursuer's Pants
+330/83,Psycloth Lappas
+330/84,Eschite Cuisses,
+330/85,Rawhide Trousers
+330/86,Naga Hakama
+330/87,Vanya Slops
 336/69,Founder's Hose
-336/70,Samnuha tights
-336/71,Agent pants
-336/72,Starlet skirt
-339/12,Gyve trousers
-339/31,Track pants (Male)
-339/32,Track pants (Female)
-344/42,Odyssean cuisses
-344/43,Valorus hose
-344/44,Composer's sabots
-346/33,Merlinic shalwar
-348/68,Chironic hose
-349/31,Dashing subligar
-349/63,Herculean trousers (Male)
-349/64,Herculean trousers (Female)
-307/55,Alliance pants (Male)
-307/56,Alliance pants (Female)
-355/61,Pink Panties
-357/66,Swim Trunks (Male)
-357/67,Swim Trunks (Female)
+336/70,Samnuha Tights
+339/12,Gyve Trousers
+344/42,Odyssean Cuisses
+344/43,Valorous Hose
+344/44,Composer's Sabots
+346/33,Merlinic Shalwar
+348/68,Chironic Hose
+349/31,Dashing Subligar
+349/63,Herculean Trousers (Male)
+349/64,Herculean Trousers (Female)
 362/59,Malignance Tights
-
-381/82,Arrogance Brais
-382/58,Cowardice Tonban
+367/37,Ikenga's Trousers
+367/38,Gleti's Breeches
+367/39,Sakpata's Cuisses
+367/40,Mpaca's Hose
+367/41,Agwu's Slops
+367/42,Bunzi's Pants
+368/114,Nyame Flanchard

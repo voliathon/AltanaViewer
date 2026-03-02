@@ -68,7 +68,6 @@
 357/102,Royal Chocobo Beret
 358/37,Karakul Cap
 362/109,Byakko Masque
-382/45,Cowardice Petasos
 ,Sandogasa
 ,Adenium Masque 
 ,Ziamet Khud
@@ -85,6 +84,7 @@
 ,Ruby Coronal
 ,Eyre Cap
 381/63,Arrogance Crown
+382/45,Cowardice Petasos
 ,Envy Crown
 
 37/63,Bronze Cap
@@ -212,7 +212,7 @@
 160/66,Hydra Cap
 163/19,Sipahi Turban
 162/56,Jaridah Khud
-165/97,Aht Urghan Armor (Unobtainable)
+165/97,Rughadjeen Armor (Unobtainable)
 166/8,Amir Puggaree
 166/9,Pahluwan Qalansuwa
 166/10,Yigit Turban
@@ -368,7 +368,7 @@
 336/12,Jumalik Helm
 339/1,Terminal Helm
 343/95,Odyssean Helm
-343/96,Valorus Mask
+343/96,Valorous Mask
 346/20,Merlinic Hood
 348/55,Chironic Hat
 349/47,Herculean Helm

@@ -40,18 +40,16 @@ The original Altana Viewer was created around 2006 by an anonymous Japanese deve
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
 ## Current Work and Road map
-- Perform Copyedits(edits by checking consistency and accuracy) against ALL files first 
-- Move all Level 1 equipment to the top of each list
-- Level 1 equipment will be ordered based on it's FFXI Release.
-- Implement known dat locations up until mid-2024 (This includes Odyssey gear)
-- Identify anything and everything gear past mid-2024 and implement
- **At this point Altana Viewer will be done with Gear up until 2026** 
-
-- Identify missing mounts and implement
-- Identify missing furniture and implement
-- Identify further NPC stuff
-- Figure out why the Music doesn't work post a certain expansion and provide a solution
-- Figure out animations further... maybe... That's a lot of work.
+* Perform Copyedits(Checking consistency and accuracy then editing) against ALL files first 
+* Move all Level 1 equipment to the top of each list
+* Level 1 equipment will be ordered based on it's FFXI Release.
+* Implement known dat locations up until mid-2024 (This includes Odyssey gear)
+* Identify anything and everything gear past mid-2024 and implement **At this point Altana Viewer will be done with Gear up until 2026** 
+* Identify missing mounts and implement
+* Identify missing furniture and implement
+* Identify further NPC stuff
+* Figure out why the Music doesn't work post a certain expansion and provide a solution
+* Figure out animations further... maybe... That's a lot of work.
 
 ## 2026 Change Log
 <!-- START_LOG -->
