@@ -53,6 +53,7 @@ Because the original author disappeared and the software was never made open-sou
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Massive Copyedits - Leg Gear done up until Sin Sets (Mar-02-2026)
 - Massive Copyedits - Head Gear done up until Sin Sets (Mar-01-2026)
 - Full Update & Copyediting - All Body files up until Mid-2024 (Mar-01-2026)
 - Mithra/Body.csv - Copyedited and moved position of level one lockstyles based on when implemented in FFXI (Feb-28-2026)
