@@ -1,5 +1,31 @@
 42/100,None
 133/63,Invisible
+42/108,Elvaan Gauntlets
+126/99,Fisherman's Gloves
+126/100,Chocobo Gloves
+126/101,Vagabond's Gloves
+129/75,Field Gloves
+137/113,Carpenter's Gloves
+137/114,Smithy's Mitts 
+225/78,Synergy Gloves
+287/76,Dream Mittens 
+310/81,Work Gloves
+336/43,Starlet Gloves
+352/91,Delegate's Cuffs
+369/104,Ziamet Bazubands
+379/65,Sapphire Gauntlets
+379/66,Jadeite Gloves
+380/82,Diamond Kote
+380/83,Emerald Dastanas
+379/67,Ruby Cuffs
+381/73,Arrogance Gauntlets
+,Envy Gauntlets
+,Apathy Gauntlets
+,Rage Gauntles
+382/52,Cowardice Gloves
+
+42/115,Bronze Mittens
+42/120,Cuffs
 42/101,Leather Gloves
 42/102,Gauntlets
 42/103,Mitts
@@ -7,19 +33,16 @@
 42/105,Chain Mittens
 42/106,Lizard Gloves
 42/107,Raptor Gloves
-42/108,Elvaan Gauntlets
 42/109,Kote
 42/110,Linen Mitts
 42/111,Black Mitts
 42/112,Royal Squire's Mufflers
 42/113,Royal Knight's Mufflers
 42/114,Iron Mittens
-42/115,Bronze Mittens
 42/116,Bone Mittens
 42/117,Tekko
 42/118,Wool Cuffs
 42/119,Tactician Magician's Cuffs
-42/120,Cuffs
 42/121,Gloves
 42/122,Darksteel Gauntlets
 42/123,Bracers
@@ -30,26 +53,26 @@
 43/0,Scale Finger Gauntlets
 43/1,Mythril Gauntlets
 43/2,Magna Gauntlets
-93/123,Fighter's Mufflers (WAR AF1)
-93/124,Temple Gloves (MNK AF1)
-93/125,Healer's Mitts (WHM AF1)
-93/126,Wizard's Gloves (BLM AF1)
-93/127,Warlock's Gloves (RDM AF1)
-94/0,Rogue's Armlets (THF AF1)
-96/44,Gallant Gauntlets (PLD AF1)
-96/45,Chaos Gauntlets (DRK AF1)
-96/46,Beast Gloves (BST AF1)
-96/47,Choral Cuffs (BRD AF1)
-96/48,Hunter's Bracers (RNG AF1)
-99/0,Myochin Kote (SAM AF1)
-99/1,Ninja Tekko (NIN AF1)
-99/2,Drachen Finger Gauntlets (DRG AF1)
-99/3,Evoker's Bracers (SMN AF1)
-162/67,Magus Bazubands (BLU AF1)
-162/68,Corsair's Gants (COR AF1)
-162/69,Puppetry Dastanas (PUP AF1)
-198/64,Dancer's Bangles (DNC AF1)
-198/65,Scholar's Bracers (SCH AF1)
+93/123,Fighter's Mufflers (WAR Artifact)
+93/124,Temple Gloves (MNK Artifact)
+93/125,Healer's Mitts (WHM Artifact)
+93/126,Wizard's Gloves (BLM Artifact)
+93/127,Warlock's Gloves (RDM Artifact)
+94/0,Rogue's Armlets (THF Artifact)
+96/44,Gallant Gauntlets (PLD Artifact)
+96/45,Chaos Gauntlets (DRK Artifact)
+96/46,Beast Gloves (BST Artifact)
+96/47,Choral Cuffs (BRD Artifact)
+96/48,Hunter's Bracers (RNG Artifact)
+99/0,Myochin Kote (SAM Artifact)
+99/1,Ninja Tekko (NIN Artifact)
+99/2,Drachen Finger Gauntlets (DRG Artifact)
+99/3,Evoker's Bracers (SMN Artifact)
+162/67,Magus Bazubands (BLU Artifact)
+162/68,Corsair's Gants (COR Artifact)
+162/69,Puppetry Dastanas (PUP Artifact)
+198/64,Dancer's Bangles (DNC Artifact)
+198/65,Scholar's Bracers (SCH Artifact)
 119/20,Tiger Gloves
 119/21,Iron Finger Gauntlets
 120/115,Steel Finger Gauntlets
@@ -70,40 +93,33 @@
 126/96,Seiryu's Kote
 126/97,Hecatomb Mittens
 126/98,Errant Cuffs
-126/99,Fisherman's Gloves
-126/100,Chocobo Gloves
-126/101,Vagabond's Gloves
-129/75,Field Gloves
 129/76,Shura Kote
 129/77,Zenith Mitts
 129/78,Carapace Gauntlets
 129/79,Dusk Gloves
 129/80,Dragon Mittens
-133/46,Warrior's Mufflers (WAR AF2)
-133/47,Melee Gloves (MNK AF2)
-133/48,Cleric's Mitts (WHM AF2)
-133/49,Sorcerer's Gloves (BLM AF2)
-133/50,Duelist's Gloves (RDM AF2)
-133/51,Assassin's Armlets (THF AF2)
-133/52,Valor Gauntlets (PLD AF2)
-133/53,Abyss Gauntlets (DRK AF2)
-133/54,Monster Gloves (BST AF2)
-133/55,Bard's Cuffs (BRD AF2)
-133/56,Scout's Bracers (RNG AF2)
-133/57,Saotome Kote (SAM AF2)
-133/58,Koga Tekko (NIN AF2)
-133/59,Wyrm Finger Gauntlets (DRG AF2)
-133/60,Summoner's Bracers (SMN AF2)
-214/31,Mirage Bazubands (BLU AF2)
-214/32,Commodore Gants (COR AF2)
-214/33,Pantin Dastanas (PUP AF2)
-217/127,Etoile Bangles (DNC AF2)
-217/87,Argute Bracers (SCH AF2)
+133/46,Warrior's Mufflers (WAR Relic)
+133/47,Melee Gloves (MNK Relic)
+133/48,Cleric's Mitts (WHM Relic)
+133/49,Sorcerer's Gloves (BLM Relic)
+133/50,Duelist's Gloves (RDM Relic)
+133/51,Assassin's Armlets (THF Relic)
+133/52,Valor Gauntlets (PLD Relic)
+133/53,Abyss Gauntlets (DRK Relic)
+133/54,Monster Gloves (BST Relic)
+133/55,Bard's Cuffs (BRD Relic)
+133/56,Scout's Bracers (RNG Relic)
+133/57,Saotome Kote (SAM Relic)
+133/58,Koga Tekko (NIN Relic)
+133/59,Wyrm Finger Gauntlets (DRG Relic)
+133/60,Summoner's Bracers (SMN Relic)
+214/31,Mirage Bazubands (BLU Relic)
+214/32,Commodore Gants (COR Relic)
+214/33,Pantin Dastanas (PUP Relic)
+217/127,Etoile Bangles (DNC Relic)
+217/87,Argute Bracers (SCH Relic)
 133/61,Scorpion Gauntlets
 133/62,Austere Cuffs
-133/63,-for Opaline Dress-
-137/113,Carpenter's Gloves
-137/114,Smithy's Mitts 
 144/65,Hydra Mitts
 144/66,Shade Mittens
 144/67,Garish Mitts
@@ -134,7 +150,6 @@
 166/30,Amir Kolluks
 166/31,Pahluwan Dastanas
 166/32,Yigit Gages
-133/63,-for Elvaan Top-
 174/90,Ares's Gauntlets
 174/91,Skadi's Bazubands
 175/120,Usukane Gote
@@ -148,14 +163,12 @@
 199/60,Cobra Unit Gloves
 200/94,Cobra Unit Mittens
 201/33,Iron Ram Dastanas
+196/72,San d'Orian Campaign Armor (Unobtainable)
 199/1,Fourth Division Hentzes
-199/0,Bastokan Armor
+199/0,Bastokan Campaign Armor (Unobtainable)
 195/86,Orcish Gauntlets
-196/72,San d'Orian Armor
-133/63,-for Magna Top-
 207/40,Hachiryu Kote
 219/71,Gothic Gauntlets
-225/78,Synergy Gloves
 236/79,Ebon Dastanas
 236/80,Furia Dastanas
 236/81,Ebur Dastanas
@@ -192,7 +205,6 @@
 233/34,Ebon Mitts
 233/35,Furia Mitts
 233/36,Ebur Mitts
-133/63,-for Dinner Jacket-
 248/36,Serpentes Cuffs
 248/37,Praeda Gauntlets
 248/38,Timarli Dastanas
@@ -201,27 +213,26 @@
 248/41,Perle Moufles
 248/42,Teal Cuffs
 248/43,Aurore Gloves
-241/38,Goetia Gloves (BLM AF3)
-241/39,Creed Gauntlets (PLD AF3)
-244/21,Ravager's Mufflers (WAR AF3)
-244/22,Estoqueur's Gantherots (RDM AF3)
-252/42,Tantra Gloves (MNK AF3)
-252/43,Raider's Armlets (THF AF3)
-252/44,Bale Gauntlets (DRK AF3)
-252/45,Ferine Manoplas (BST AF3)
-252/46,Aoidos' Manchettes (BRD AF3)
-252/47,Unkai Kote (SAM AF3)
-252/48,Iga Tekko (NIN AF3)
-252/49,Lancer Vambraces (DRG AF3)
-252/50,Mavi Bazuband (BLU AF3)
-252/51,Navarch's Gants (COR AF3)
-252/52,Cirque Guanti (PUP AF3)
-252/53,Savant's Bracers (SCH AF3)
-254/35,Orison Mitts (WHM AF3)
-254/91,Charis Bangles (DNC AF3)
-256/51,Sylvan Glovelettes (RNG AF3)
-256/52,Caller's Bracers (SMN AF3)
-133/63,-for Novennial Dress-
+241/38,Goetia Gloves (BLM Empyrean)
+241/39,Creed Gauntlets (PLD Empyrean)
+244/21,Ravager's Mufflers (WAR Empyrean)
+244/22,Estoqueur's Gantherots (RDM Empyrean)
+252/42,Tantra Gloves (MNK Empyrean)
+252/43,Raider's Armlets (THF Empyrean)
+252/44,Bale Gauntlets (DRK Empyrean)
+252/45,Ferine Manoplas (BST Empyrean)
+252/46,Aoidos' Manchettes (BRD Empyrean)
+252/47,Unkai Kote (SAM Empyrean)
+252/48,Iga Tekko (NIN Empyrean)
+252/49,Lancer Vambraces (DRG Empyrean)
+252/50,Mavi Bazuband (BLU Empyrean)
+252/51,Navarch's Gants (COR Empyrean)
+252/52,Cirque Guanti (PUP Empyrean)
+252/53,Savant's Bracers (SCH Empyrean)
+254/35,Orison Mitts (WHM Empyrean)
+254/91,Charis Bangles (DNC Empyrean)
+256/51,Sylvan Glovelettes (RNG Empyrean)
+256/52,Caller's Bracers (SMN Empyrean)
 270/88,Brego Gloves
 271/93,Ogier's Gauntlets
 271/94,Athos's Gloves
@@ -231,52 +242,52 @@
 277/126,Auspex Gages
 277/127,Hrafn Gauntlets
 278/0,Tenryu Tekko
-280/112, Paalaka gloves
-280/113, Aneirin's gloves
-280/114, Alcedo gauntlets
+280/112,Paalaka Gloves
+280/113,Aneirin's Gloves
+280/114,Alcedo Gauntlets
 282/66,Dux Finger Gauntlets
 282/67,Chelona Gloves
-287/76,Dream Mittens 
-291/86, Geomancy mitaines (GEO AF1)
-292/61, Runeist mitons (RUN AF1)
-290/100, Karieyh Moufles
-290/101, Thurandaut Gloves
-290/102, Orvail Cuffs
-290/103, Councilor's cuffs
-292/60, Yaoyotl / Quauhpilli
-301/27, Mikinaak Gauntlets
-301/28, Manibozho Gloves
-301/29, Bokwus Gloves
-304/37, Buremte Gloves
-305/3, Bagua mitaines (GEO AF2)
-305/94, Futhark mitons (RUN AF2)
-305/95, Gorney Moufles
-305/96, Shneddick Gloves
-305/97, Weatherspoon Cuffs
-310/81, Work Gloves
-312/65, Qaaxo Mitaines
-312/66, Artsieq Cuffs
-312/67, Xaddi Gauntlets
-315/75, Erilaz gauntlets (RUN AF3)
-325/16, Crusher's Gauntlets
-327/31, Azimuth Gloves (GEO AF3)
-330/18, Despair finger gauntlets
-330/19, Pursuer's cuffs
-330/20, Psycloth manillas
-330/21, Eschite gauntlets
-330/22, Rawhide gloves
-330/23, Naga tekko
-330/24, Vanya cuffs
-336/42, Founder's gauntlets
-336/43, Starlet gloves
-344/8, Composer's mitts
-344/9, Odyssean gauntlets 
-344/10, Valorus mitts
-346/27, Merlinic dastanas
-348/62, Chironic gloves
-349/54, Herculean gloves
-352/91,Delegate's Cuffs
+291/86,Geomancy Mitaines (GEO Artifact)
+292/61,Runeist Mitons (RUN Artifact)
+290/100,Karieyh Moufles
+290/101,Thurandaut Gloves
+290/102,Orvail Cuffs
+290/103,Councilor's Cuffs
+292/60,Yaoyotl / Quauhpilli
+301/27,Mikinaak Gauntlets
+301/28,Manibozho Gloves
+301/29,Bokwus Gloves
+304/37,Buremte Gloves
+305/3,agua Mitaines (GEO Relic)
+305/94,Futhark Mitons (RUN Relic)
+305/95,Gorney Moufles
+305/96,Shneddick Gloves
+305/97,Weatherspoon Cuffs
+312/65,Qaaxo Mitaines
+312/66,Artsieq Cuffs
+312/67,Xaddi Gauntlets
+315/75,Erilaz Gauntlets (RUN Empyrean)
+325/16,Crusher's Gauntlets
+327/31,Azimuth Gloves (GEO Empyrean)
+330/18,Despair finger Gauntlets
+330/19,Pursuer's Cuffs
+330/20,Psycloth Manillas
+330/21,Eschite Gauntlets
+330/22,Rawhide Gloves
+330/23,Naga Tekko
+330/24,Vanya Cuffs
+336/42,Founder's Gauntlets
+344/8,Composer's Mitts
+344/9,Odyssean Gauntlets 
+344/10,Valorus Mitts
+346/27,Merlinic Dastanas
+348/62,Chironic Gloves
+349/54,Herculean Gloves
 362/51,Malignance Gloves
-
-381/73,Arrogance Gauntlets
-382/52,Cowardice Gloves
+366/114,Ikenga's Gloves
+366/115,Gleti's Gauntlets
+366/116,Sakpata's Gauntlets
+366/117,Mpaca's Gloves
+366/118,Agwu's Gages
+366/119,Bunzi's Gloves
+368/108,Nyame Gauntlets

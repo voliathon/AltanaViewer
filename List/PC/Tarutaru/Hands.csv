@@ -1,5 +1,34 @@
 47/61,None
 134/23,Invisible
+47/69,Tarutaru Mitts
+127/15,Fisherman's Gloves
+127/16,Chocobo Gloves
+127/17,Vagabond's Gloves
+129/105,Field Gloves
+138/32,Carpenter's Gloves
+138/33,Smithy's Mitts 
+225/89,Synergy Gloves
+287/77,Dream Mittens
+290/124,Councilor's Cuffs
+310/90,Work Gloves (Male)
+310/91,Work Gloves (Female)
+336/67,Agent's Cuffs
+336/68,Starlet Gloves
+352/93,Delegate's Cuffs
+369/114,Ziamet Bazubands
+379/84,Sapphire Gauntlets
+379/85,Jadeite Gloves
+380/93,Diamond Kote
+380/94,Emerald Dastanas
+379/86,Ruby Cuffs
+381/81,Arrogance Gauntlets
+,Envy Gauntlets
+,Apathy Gauntlets
+,Rage Gauntles
+382/57,Cowardice Gloves
+
+47/76,Bronze Mittens
+47/81,Cuffs
 47/62,Leather Gloves
 47/63,Gauntlets
 47/64,Mitts
@@ -7,19 +36,16 @@
 47/66,Chain Mittens
 47/67,Lizard Gloves
 47/68,Raptor Gloves
-47/69,Tarutaru Mitts
 47/70,Kote
 47/71,Linen Mitts
 47/72,Black Mitts
 47/73,Royal Squire's Mufflers
 47/74,Royal Knight's Mufflers
 47/75,Iron Mittens
-47/76,Bronze Mittens
 47/77,Bone Mittens
 47/78,Tekko
 47/79,Wool Cuffs
 47/80,Tactician Magician's Cuffs
-47/81,Cuffs
 47/82,Gloves
 47/83,Darksteel Gauntlets
 47/84,Bracers
@@ -71,10 +97,6 @@
 127/12,Seiryu's Kote
 127/13,Hecatomb Mittens
 127/14,Errant Cuffs
-127/15,Fisherman's Gloves
-127/16,Chocobo Gloves
-127/17,Vagabond's Gloves
-129/105,Field Gloves
 129/106,Shura Kote
 129/107,Zenith Mitts
 129/108,Carapace Gauntlets
@@ -103,8 +125,6 @@
 217/93,Argute Bracers (SCH Relic)
 134/21,Scorpion Gauntlets
 134/22,Austere Cuffs
-138/32,Carpenter's Gloves
-138/33,Smithy's Mitts 
 144/101,Hydra Mitts
 144/102,Shade Mittens
 144/103,Garish Mitts
@@ -149,11 +169,10 @@
 196/94,Cobra Unit Mittens
 201/39,Iron Ram Dastanas
 199/11,Fourth Division Hentzes
-199/10,Bastokan Armor
+199/10,Bastokan Campaign Armor (Unobtainable)
 195/88,Orcish Gauntlets
 207/44,Hachiryu Kote
 219/75,Gothic Gauntlets
-225/89,Synergy Gloves
 237/11,Ebon Dastanas
 237/12,Furia Dastanas
 237/13,Ebur Dastanas
@@ -229,56 +248,54 @@
 278/24,Auspex Gages
 278/25,Hrafn Gauntlets
 278/26,Tenryu Tekko
-280/121,Palaaka gloves
-280/122,Aneirin's gloves
-280/123,Alcedo gauntlets
+280/121,Palaaka Gloves
+280/122,Aneirin's Gloves
+280/123,Alcedo Gauntlets
 282/76,Dux Finger Gauntlets
 282/77,Chelona Gloves
-287/77,Dream Mittens
-291/98,Geomancy mitaines (Male) (GEO Artifact)
-291/99,Geomancy mitaines (Female) (GEO Artifact)
-292/72,Runeist mitons (RUN Artifact)
+291/98,Geomancy Mitaines (Male) (GEO Artifact)
+291/99,Geomancy Mitaines (Female) (GEO Artifact)
+292/72,Runeist Mitons (RUN Artifact)
 290/121,Karieyh Moufles
 290/122,Thurandaut Gloves
 290/123,Orvail Cuffs
-290/124,Councilor's cuffs
 292/71,Yaoyotl / Quauhpilli
 301/42,Mikinaak Gauntlets
 301/43,Manibozho Gloves
 301/44,Bokwus Gloves
 304/46,Buremte Gloves
-305/10,Bagua mitaines (Male) (GEO Relic)
-305/11,Bagua mitaines (Female) (GEO Relic)
-305/114,Futhark mitons (RUN Relic)
+305/10,Bagua Mitaines (Male) (GEO Relic)
+305/11,Bagua Mitaines (Female) (GEO Relic)
+305/114,Futhark Mitons (RUN Relic)
 305/115,Gorney Moufles
 305/116,Shneddick Gloves
 305/117,Weatherspoon Cuffs
-310/90,Work Gloves (Male)
-310/91,Work Gloves (Female)
 312/80,Qaaxo Mitaines
 312/81,Artsieq Cuffs
 312/82,Xaddi Gauntlets
-315/83,Erilaz gauntlets (RUN Empyrean)
+315/83,Erilaz Gauntlets (RUN Empyrean)
 325/29,Crusher's Gauntlets
 327/43,Azimuth Gloves (GEO Empyrean)
-330/74,Despair finger gauntlets
-330/75,Pursuer's cuffs
-330/76,Psycloth manillas
-330/77,Eschite gauntlets
-330/78,Rawhide gloves
-330/79,Naga tekko
-330/80,Vanya cuffs
-336/66,Founder's gauntlets
-336/67,Agent's cuffs
-336/68,Starlet gloves
-344/39,Composer's mitts
-344/40,Odyssean gauntlets 
-344/41,Valorus mitts
-346/32,Merlinic dastanas
-348/67,Chironic gloves
-349/61,Herculean gloves (Male)
-349/62,Herculean gloves (Female)
-352/93,Delegate's Cuffs
+330/74,Despair finger Gauntlets
+330/75,Pursuer's Cuffs
+330/76,Psycloth Manillas
+330/77,Eschite Gauntlets
+330/78,Rawhide Gloves
+330/79,Naga Tekko
+330/80,Vanya Cuffs
+336/66,Founder's Gauntlets
+344/39,Composer's Mitts
+344/40,Odyssean Gauntlets 
+344/41,Valorus Mitts
+346/32,Merlinic Dastanas
+348/67,Chironic Gloves
+349/61,Herculean Gloves (Male)
+349/62,Herculean Gloves (Female)
 362/58,Malignance Gloves
-381/81,Arrogance Gauntlets
-382/57,Cowardice Gloves
+367/31,Ikenga's Gloves
+367/32,Gleti's Gauntlets
+367/33,Sakpata's Gauntlets
+367/34,Mpaca's Gloves
+367/35,Agwu's Gages
+367/36,Bunzi's Gloves
+368/113,Nyame Gauntlets
