@@ -22,10 +22,10 @@
 380/54,Emerald Crackows
 379/16,Ruby Pigaches
 381/55,Arrogance Sabatons
+381/104,Apathy Sabatons
 382/39,Cowardice Sabots
-,Envy Sollerets
-,Apathy Sabatons
-,Rage Sabatons
+382/28,Rage Sabatons
+382/105,Envy Sollerets
 
 @--------------------------------
 
@@ -208,8 +208,6 @@
 232/6,Ebon Clogs
 232/7,Furia Clogs
 232/8,Ebur Clogs
-
-239/43,Purple Boots
 247/75,Serpentes Sabots
 247/76,Praeda Sabatons
 247/77,Augur's Gaiters
