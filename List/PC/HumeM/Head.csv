@@ -68,25 +68,28 @@
 357/96,Royal Chocobo Beret
 358/25,Karakul Cap
 362/99,Byakko Masque
-,Sandogasa
-,Adenium Masque 
-,Ziamet Khud
-,Aucuba Crown
-,Vaquero Hat
-,Esthete's Masque
-,Knit Cap
-,Magh Bihu's Masque
-,Boudox's Masque
-,Sapphire Mask
-,Jadeite Visor
-,Diamond Somen
-,Emerald Tiara
-,Ruby Coronal
-,Eyre Cap
+364/70,Sandogasa
+365/32,Adenium Masque 
+369/72,Ziamet Khud
+373/15,Aucuba Crown
+374/52,Vaquero Hat
+374/53,Esthete's Masque
+376/17,Knit Cap
+378/126,Magh Bihu's Masque
+378/127,Boudox's Masque
+379/0,Sapphire Mask
+379/1,Jadeite Visor
+380/44,Diamond Somen
+380/45,Emerald Tiara
+379/2,Ruby Coronal
+381/35,Eyre Cap
+
 381/49,Arrogance Crown
 ,Apathy Mask
 382/35,Cowardice Petasos
 382/70,Envy Crown
+
+@--------------------------------
 
 27/114,Bronze Cap
 27/119,Circlet
@@ -376,10 +379,10 @@
 349/37,Herculean Helm
 361/94,Cath Palug Crown
 362/28,Malignance Chapeau
-,Ikenga's Hat
-,Gleti's Mask
-,Sakpata's Helm
-,Mpaca's Cap
-,Agwu's Cap
-,Bunzi's Hat
-,Nyame Helm
+365/95,Ikenga's Hat
+365/96,Gleti's Mask
+365/97,Sakpata's Helm
+365/98,Mpaca's Cap
+365/99,Agwu's Cap
+365/100,Bunzi's Hat
+368/91,Nyame Helm

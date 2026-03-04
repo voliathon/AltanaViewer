@@ -61,11 +61,12 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 * [ ] Identify missing mounts and implement
 * [ ] Identify missing furniture and implement
 * [ ] Identify further NPC stuff
-* [ ] Figure out why the Music doesn't work post a certain expansion and provide a solution
+* [COMPLETED] Figure out why the Music doesn't work post a certain expansion
 * [ ] Figure out animations further... maybe... That's a lot of work.
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Updates to README - Credit & Special Thanks. Music Notice (Mar-03-2026)
 - Massive Copyedits - Hand Gear done up until Sin Sets (Mar-03-2026)
 - Massive Copyedits - Leg Gear done up until Sin Sets (Mar-02-2026)
 - Massive Copyedits - Head Gear done up until Sin Sets (Mar-01-2026)
