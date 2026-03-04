@@ -66,7 +66,6 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- Sin Gear - All races got Arrogance, Cowardice, and Envy equip (Mar-04-2026)
 - Updates to README - Credit & Special Thanks. Music Notice (Mar-03-2026)
 - Massive Copyedits - Hand Gear done up until Sin Sets (Mar-03-2026)
 - Massive Copyedits - Leg Gear done up until Sin Sets (Mar-02-2026)
