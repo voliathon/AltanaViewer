@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./AltanaViewer.png" alt="Altana Viewer" width="800">
+  <img src="./AltanaViewerOrig.png" alt="Altana Viewer" width="800">
 </p>
 
 AltanaViewer is a dedicated 3D model and asset viewer for Final Fantasy XI (FFXI). It allows users to explore the game's extensive catalog of player characters, monsters, equipment, animations, and visual effects outside of the game client.
