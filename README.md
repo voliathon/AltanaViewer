@@ -67,6 +67,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Image/Maps/System UI Overhaul - Entire Copyedit and Alphabatize (Mar-05-2026)
 - AltanaView.ini - Added Back... (Mar-05-2026)
 - NPC/automaton.csv - Fixed this and added it to the NPC/ (Mar-05-2026)
 - NPC/limbus.csv - Created with Forerunner Mobs (Mar-05-2026)
