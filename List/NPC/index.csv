@@ -1,30 +1,31 @@
-npcs,Story NPCs
-misc,Other NPCs
+abyssea,Abyssea
+sea,Al'Taieu
 trusts,Alter Egos
-mounts,Mounts
-gods,Supreme Beings
+amorphs,Amorphs
+aquans,Aquans
+arcana,Arcana
 avatars,Avatars
-naakuals,Naakuals
-odyssey,Odyssey Bosses
 beastmen,Beastmen
 beasts,Beasts
-lizards,Lizards
-vermin,Vermin
-plantoids,Plantoids
-aquans,Aquans
-amorphs,Amorphs
 birds,Birds
-undead,Undead
-arcana,Arcana
-dragons,Dragons
-demons,Demons
-elementals,Elementals
-empty,Promyvion
-sea,Al'Taieu
-abyssea,Abyssea
-peculiar_foes,Peculiar Foes
-creatures,Misc
-event,Event NPCs/Objects
 chairs,Chairs
+demons,Demons
+dragons,Dragons
+elementals,Elementals
+event,Event NPCs/Objects
+limbus,Limbus
+lizards,Lizards
+creatures,Misc
+mounts,Mounts
+naakuals,Naakuals
 objects,Objects
+odyssey,Odyssey Bosses
+misc,Other NPCs
+peculiar_foes,Peculiar Foes
+plantoids,Plantoids
+empty,Promyvion
+npcs,Story NPCs
+gods,Supreme Beings
+undead,Undead
 unidentified,Unidentified Monster/NPCs
+vermin,Vermin
