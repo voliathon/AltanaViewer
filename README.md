@@ -57,7 +57,8 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 * [COMPLETED] Move all Level 1 equipment to the top of each list
 * [COMPLETED] Level 1 equipment will be ordered based on its FFXI Release
 * [COMPLETED] Implement known dat locations up until mid-2024 (This includes Odyssey gear)
-* [ ] Identify anything and everything gear past mid-2024 and implement **At this point Altana Viewer will be done with Gear up until 2026**
+* [COMPLETED] Include all equipment to Limbus and current Login Campaigns **At this point Altana Viewer will be done with Gear up until 2026**
+* [ ] Identify further Weapon/Sub stuff
 * [ ] Identify missing mounts and implement
 * [ ] Identify missing furniture and implement
 * [ ] Identify further NPC stuff
