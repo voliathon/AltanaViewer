@@ -67,6 +67,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Merge branch 'main' of https://github.com/voliathon/AltanaViewer (Mar-05-2026)
 - All Equipment and Races - All Limbus and current Login Campaign Equipment Implemented. (Mar-05-2026)
 - Added Seperators to Lv1/Lockstyle Gear - All Files. Finished Sin Gear (Mar-04-2026)
 - Added Original HQ Image & left Gemini Pro Watermark on purpose (Mar-04-2026)
