@@ -1,16 +1,14 @@
-ffxi,Final Fantasy XI Maps
-dynamis, Dynamis Maps
-zilart, Rise of the Zilart Maps
-promathia, Chains of Promathia Maps
-treasures, Treasures of Aht Urhgan Maps
-salvage, Salvage Maps
-goddess,  Wings of the Goddess Maps
-campaign, Campaign Ops Maps
-seekers, Seekers of Adoulin Maps
-skirmish, Skirmish Maps
-rhapsodies, Rhapsodies of Vana'diel Maps
+base-game, Base Game (Starter Zones) Maps
+rise-of-the-zilart, Rise of the Zilart Maps
+chains-of-promathia, Chains of Promathia Maps
+treasures-of-aht-urhgan, Treasures of Aht Urhgan Maps
+wings-of-the-goddess, Wings of the Goddess Maps
+seekers-of-adoulin, Seekers of Adoulin Maps
+rhapsodies-of-vanadiel, Rhapsodies of Vana'diel Maps
+addons-and-scenarios, Add-ons & Scenarios Maps
 abyssea, Abyssea Maps
-cs, Cutscene Images
-other, Other Maps/Images
-ui,UI
-unused, Unused
+dynamis, Dynamis Maps
+salvage, Salvage Maps
+ui-and-system, UI & System Images
+cutscenes, Cutscene Images
+misc, Miscellaneous Maps
