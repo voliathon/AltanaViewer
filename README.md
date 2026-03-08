@@ -31,6 +31,12 @@ The repository is organized to neatly categorize the massive amount of FFXI game
 2. Run `AltanaView.exe`.
 3. Use the application's interface to navigate through the PC, NPC, or Effect lists to load and view the desired assets.
 
+### 🎵 A Note on Music Playback
+
+You may have noticed that the built-in audio player in AltanaViewer can be buggy or unstable. Because AltanaViewer was built primarily as a 3D model viewer, optimizing the audio engine was difficult. 
+
+**If you are looking to listen to the FFXI soundtrack, I highly recommend downloading my new, dedicated tool: [AltanaListener](https://github.com/voliathon/AltanaListener).** AltanaListener is a completely open-source, highly stable audio player built from the ground up specifically for FFXI `.bgw` files, featuring custom playlists, favorites, and WAV file exporting!
+
 ## Contributing
 
 Because Final Fantasy XI continues to receive updates, the CSV lists require periodic maintenance to include newly added armor, weapons, and monster models. If you are updating the lists, please ensure you place the new item IDs and DAT mappings in their respective CSV files within the `List/` directory.
@@ -50,7 +56,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 * **The Old Codec (ADPCM):** The `sound`, `sound2`, and `sound3` folders use `.bgw` files that contain audio compressed in a proprietary ADPCM format. Altana Viewer has a built-in decoder specifically written to play this exact format.
 * **The New Codec (ATRAC3):** Starting with `sound4`, Square Enix shifted to Sony's ATRAC3 audio compression to save space. They kept the exact same `.bgw` file wrapper, meaning Altana Viewer recognizes the file but tries (and fails) to feed the new ATRAC3 data into its old ADPCM decoder.
 
-**Future Plans:** The application logic is fully capable of reading from the newer sound folders. Options to fix this issue are currently being explored, including reverse-engineering the executable to hook into modern audio libraries (like vgmstream) or patching the file-loading routines to accept converted `.wav` files.
+[AltanaListener](https://github.com/voliathon/AltanaListener) was created to address this problem and do a better job.
 
 ## Current Work and Road map
 * [COMPLETED] Perform Copyedits (Checking consistency and accuracy then editing) against ALL files first
@@ -126,3 +132,12 @@ While the original author's identity remains a mystery, the following individual
 * **Final Fantasy XI:** All assets and designs are property of Square Enix.
 
 > "To any developer, DAT-miner, or community member who contributed to this project over the last 20 years whose name may not appear on this list: please accept our sincerest apologies. Your hard work in documenting the world of Vana'diel has not gone unnoticed, and we are deeply grateful for your dedication to the community."
+
+
+---
+### 🛠️ Other Projects by Voliathon
+
+If you enjoy AltanaViewer, check out my other Final Fantasy XI utilities:
+
+* **[AltanaListener](https://github.com/voliathon/AltanaListener):** The ultimate, open-source FFXI audio player. It automatically finds your local installation and lets you build custom playlists, loop tracks, and export FFXI music directly to `.wav` files with a modern, stable UI.
+
