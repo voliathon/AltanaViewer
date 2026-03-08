@@ -73,6 +73,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Music/ & Main.csv files- Corrections to Music and Pre-aligning updates to main weapons (Mar-08-2026)
 - Music/ - All Music Updated (Mar-08-2026)
 - NPC/ - Spelling corrections (Mar-06-2026)
 - Image/Maps/System UI Overhaul - Entire Copyedit and Alphabatize (Mar-05-2026)
