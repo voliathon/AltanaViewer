@@ -14,7 +14,7 @@
 44/16,Cesti
 44/17,Lizard Cesti
 44/18,Poison Cesti
-44/19,Dst. Knuckles
+,Darksteel Knuckles
 44/20,Bronze Knuckles
 44/21,Brass Knuckles
 44/22,Metal Knuckles
@@ -30,7 +30,7 @@
 44/32,Baghnakhs
 44/33,Rune Baghnakhs
 138/2,Spharai
-273/97,Spharai (99)
+273/97,Spharai (119 AG)
 149/43,Adargas
 166/39,Sainti
 169/118,Darksteel Sainti
@@ -38,12 +38,12 @@
 172/21,Black Adargas
 173/70,Hades Sainti
 205/18,Glanzfaust
-273/96,Glanzfaust (99)
+273/96,Glanzfaust (119 AG)
 205/19,Kenkonken
-273/95,Kenkonken (99)
+273/95,Kenkonken (119 AG)
 210/51,Shenlong's Baghnakhs
 242/1,Verethragna
-273/94,Verethragna (99)
+273/94,Verethragna (119 AG)
 245/62,Afflictors
 268/55,Girru
 280/119,Blutkrallen
@@ -57,9 +57,16 @@
 342/108,Godhands
 352/102,Aphelion Knuckles
 355/70,Premium Mogti
-356/0,Sagitta (su5)
+356/0,Sagitta (SU5)
 359/7,Kaja Knuckles
 360/18,Karambit
+,Ethereal Fists
+,Dazbog's Knuckles
+,Dragon Fangs
+356/0,Sagitta (SU5)
+,Sakpata's Fists
+,Varga Purnikawa
+,Varga Purnikawa (Stage 5)
 
 @Dagger
 44/47,Valiant Knife
@@ -88,7 +95,7 @@
 44/70,Bone Knife
 99/19,Kard
 137/116,Mandau
-274/120,Mandau (99)
+274/120,Mandau (119 AG)
 138/0,Raetic Kris
 147/125,Harpe
 163/117,Jambiya
@@ -98,16 +105,16 @@
 200/11,Darksteel Jambiya
 200/12,Thug's Jambiya
 205/10,Vajra
-275/7,Vajra (99)
+275/7,Vajra (119 AG)
 205/15,Carnwenhan
-275/11,Carnwenhan (99)
+275/11,Carnwenhan (119 AG)
 205/16,Terpsichore
-275/17,Terpsichore (99)
+275/17,Terpsichore (119 AG)
 210/40,Azoth
 219/24,Ermine's Tail
 227/9,Machismo
 245/60,Twashtar
-275/19,Twashtar (99)
+275/19,Twashtar (119 AG)
 246/0,Auric Dagger
 262/6,Twilight Dagger
 264/103,Mantodea Harpe
@@ -116,17 +123,17 @@
 269/46,Asteria
 280/19,Blustery Dagger
 281/39,Sandung
-289/103,Coalition Dirk 
+289/103,Coalition Dirk
 291/89,Izhiikoh
-308/13,Camaraderie dagger
 319/63,Ipetam
 325/22,Rhadamanthus
 327/36,Odium
 330/39,Nibiru knife
 344/16,Sangoma
 344/18,Aeneas
+308/13,Camaraderie dagger
 354/24,Chicken Knife II
-356/64,Gandring (su5)
+356/64,Gandring (SU5)
 358/45,Aern Dagger
 358/103,Qutrub Dagger
 359/60,Kaja Knife
@@ -134,6 +141,15 @@
 362/54,Wind Knife
 362/115,Norgish Dagger
 362/116,Esikuva
+,Hedron Dagger
+,Aern Dagger II
+,Ethereal Dagger
+,Esoteric Athame
+,Camaraderie Dagger
+356/64,Gandring (SU5)
+,Gleti's Knife
+,Mpu Gandring (Non AG)
+,Mpu Gandring (Stage 5)
 
 @Sword
 44/71,Colichemarde
@@ -190,35 +206,35 @@
 45/49,Gluttony Sword
 45/50,Wing Sword
 121/13,Excalibur
-274/121,Excalibur (99)
+274/121,Excalibur (119 AG)
 150/63,Shotel
 162/101,Kilij
 164/113,Macuahuitl
 169/117,Darksteel Kilij
 170/111,Adaman Kilij
 171/67,Sanguine Sword
-175/10,Hauteclaire 
+175/10,Hauteclaire
 183/81,Cermet Kilij
 184/88,Hofud
 205/6,Unknown Sword
 205/7,Tizona
-275/16,Tizona (99)
+275/16,Tizona (119 AG)
 205/8,Murgleis
-275/6,Murgleis (99)
+275/6,Murgleis (119 AG)
 205/14,Burtgang
-275/8,Burtgang (99)
+275/8,Burtgang (119 AG)
 210/41,Fragarach
 211/64,Organics
 227/10,Concordia
 241/126,Almace
-275/20,Almace (99)
+275/20,Almace (119 AG)
 246/1,Tyrfing
 263/101,Sagasinger
 266/100,Ephemeron
 279/36,Sanus Ensis
 279/38,Ark Saber
 279/39,Ark Sword
-289/104,Coalition Sword 
+,Coalition blade
 291/90,Buramenk'ah
 308/14,Camaraderie blade
 319/64,Claidheamh Soluis
@@ -237,11 +253,24 @@
 354/98,Blizzard Brand
 355/15,Save the Queen II
 355/88,Kam'lanaut's Sword
-356/69,Crocea Mors (su5)
+356/69,Crocea Mors (SU5)
 357/22,Holy Sword (Unused)
 358/44,Aern Sword
 359/61,Kaja Sword
 360/68,Naegling
+,Macana
+,Aern Sword II
+,Ethereal Sword
+,Extinction
+,Nihility
+,Twinned Blade
+,Archduke's Sword
+,Coalition Blade
+,Camaraderie Blade
+356/69,Crocea Mors (SU5)
+,Sakpata's Sword
+,Caliburnus (Non AG)
+,Caliburnus (Stage 5)
 
 @G.Sword
 43/82,Reserve Captain's Greatsword
@@ -256,11 +285,11 @@
 43/91,Ascalon
 43/92,Flamberge
 43/93,Faussar
+,Judge's Sword (GM)
 121/11,Unknown Ragnarok Variant
 121/12,Ragnarok
-274/122,Ragnarok (99)
+274/122,Ragnarok (119 AG)
 121/14,Balmung
-
 144/87,Falx
 149/38,Darksteel Falx
 149/39,Scheherazade
@@ -271,13 +300,13 @@
 228/122,Galatyn
 238/125,Nightfall
 241/127,Caladbolg
-275/21,Caladbolg (99)
+275/21,Caladbolg (119 AG)
 249/41,Ferus Algol
 264/99,Jingang Greatsword
 270/52,Hoarfrost Blade
 270/59,Borealis
 281/40,Foreshock Sword
-289/105,Coalition Blade
+,Coalition sword
 303/101,Voay Sword
 308/15,Camaraderie claymore
 308/20,Kaquljaan
@@ -291,12 +320,20 @@
 344/20,Lionheart
 352/33,Irradiance Blade
 355/87,Brave Blade II
-356/60,Morgelai (su5)
+356/60,Morgelai (SU5)
 357/62,Lament
 359/62,Kaja Claymore
 360/69,Nandaka
 361/78,Zantetsuken X
 362/117,Ophidian Sword
+,Goujian
+,Coalition Sword
+,Camaraderie Claymore
+356/60,Morgelai (SU5)
+,Epeolatry (119 AG)
+,Agwu's Claymore
+,Helheim (Non AG)
+,Helheim (Stage 5)
 
 @Axe
 43/94,Bronze Axe
@@ -316,20 +353,20 @@
 43/108,Bone Pick
 43/109,Orcish Axe
 138/1,Guttler
-274/123,Guttler (99)
+274/123,Guttler (119 AG)
 144/88,Tomahawk
 171/64,Sirius Axe
 205/1,Aymur
-275/10,Aymur (99)
+275/10,Aymur (119 AG)
 210/43,Labrys
 245/61,Farsha
-275/22,Farsha (99)
+275/22,Farsha (119 AG)
 246/2,Glyph Axe
 264/101,Tonatiuh Axe
-279/41,Ark Tabar
+361/24,Ark Tabar
 279/112,Aytanri
 281/42,Ravana's Axe
-289/106,Coalition Axe 
+289/106,Coalition Axe
 291/91,Kerehcatl
 303/96,Hunahpu
 308/16,Camaraderie axe
@@ -338,12 +375,22 @@
 330/50,Blurred axe
 344/21,Tri-edge
 354/120,Demonic Axe
-356/61,Pangu (su5)
+356/61,Pangu (SU5)
 357/107,Gramk's Axe
 358/46,Aern Axe
 359/63,Kaja Axe
 360/70,Dolichenus
 361/24,Ark Tabar
+,Gramk's axe
+,Aern Axe II
+,Dullahan axe
+,Ethereal Axe
+,Camaraderie Axe
+356/61,Pangu (SU5)
+,Agwu's Axe
+,Ikenga's Axe
+,Spalirisos (Non AG)
+,Spalirisos (Stage 5)
 
 @G.Axe
 43/110,Centurion's Axe
@@ -356,7 +403,7 @@
 43/117,Za'Dha Chopper
 137/117,Rune Chopper
 137/121,Bravura
-274/124,Bravura (99)
+274/124,Bravura (119 AG)
 144/83,Voulge
 149/40,Darksteel Voulge
 149/41,Leucous Voulge
@@ -364,12 +411,12 @@
 170/112,Dark Amood
 200/8,Wootz Amood
 205/2,Conqueror
-275/3,Conqueror (99)
+275/3,Conqueror (119 AG)
 210/44,Foolkiller
 212/20,Balestorius
 219/25,Eventreuse
 247/14,Ukonvasara
-275/23,Ukonvasara (99)
+275/23,Ukonvasara (119 AG)
 246/3,Vermeil Bhuj
 303/94,Forefront Labrys
 303/98,Ixtab
@@ -379,10 +426,16 @@
 330/51,Blurred chopper
 341/79,Reikiono
 344/22,Chango
-356/62,Labraunda (su5)
+356/62,Labraunda (SU5)
 359/64,Kaja Chopper
 360/71,Lycurgos
 362/118,Ophidian Axe
+,Autarch's Axe
+,Helgoland
+,Ethereal Great Axe
+,Bunzi's Chopper
+,Laphria (Non AG)
+,Laphria (Stage 5)
 
 @Scythe
 44/84,Darksteel Scythe
@@ -395,18 +448,18 @@
 44/91,Demonslicer
 121/15,Bone Scythe
 137/120,Apocalypse
-274/126,Apocalypse (99)
+274/126,Apocalypse (119 AG)
 137/127,Unknown Scythe
 144/85,Mandibular Sickle
 149/42,Ivory Sickle
 158/41,Orichalcum Scythe
 172/18,Naigama
 205/13,Liberator
-275/9,Liberator (99)
+275/9,Liberator (119 AG)
 210/45,Enforcer
 227/7,D. Shantotto's Scythe
 242/0,Redemption
-275/24,Redemption (99)
+275/24,Redemption (119 AG)
 246/4,Plaga Scythe
 261/106,Twilight Scythe
 279/40,Ark Scythe
@@ -420,10 +473,16 @@
 341/80,Dacnomania
 344/17,Misanthropy
 344/23,Anguta
-356/65,Father Time (su5)
+356/65,Father Time (SU5)
 357/106,Lost Sickle
 359/66,Kaja Scythe
 360/73,Drepanum
+,Unknown Scythe 1
+,Ethereal Scythe
+356/65,Father Time (SU5)
+,Agwu's Scythe
+,Foenaria (Non AG)
+,Foenaria (Stage 5)
 
 @Polearm
 44/92,Halberd
@@ -442,7 +501,7 @@
 44/105,Wyvern Spear
 44/106,Trident
 44/107,Gungnir
-274/125,Gungnir (99)
+274/125,Gungnir (119 AG)
 137/119,Rune Halberd
 144/84,Couse
 157/98,Pitchfork
@@ -453,30 +512,40 @@
 184/89,Valkyrie's Fork
 200/10,Thalassocrat
 205/11,Ryunohige
-275/14,Ryunohige (99)
+275/14,Ryunohige (119 AG)
 210/46,Cletine
 211/63,Tomoe
 219/26,Zaide
 219/27,Dabo
 227/11,Sarissa
 247/32,Rhongomiant
-275/25,Rhongomiant (99)
+275/25,Rhongomiant (119 AG)
 279/44,Delphinius
-289/107,Coalition Lance 
+,coalition Lance
 291/93,Upukirex
 308/17,Camaraderie lance
 314/11,Escritorio
 319/69,Olyndicus
 330/45,Nibiru lance
 344/24,Trishula
-356/67,Aram (su5)
+356/67,Aram (SU5)
 356/71,Tzee Xicu's Blade
 357/61,Mizukage-no-naginata
 358/47,Aern Spear
 359/65,Kaja Lance
 360/72,Shining One
-361/77,Sha Wujing's Lance
 361/25,Hotengeki
+361/77,Sha Wujing's Lance
+,Aern Spear II
+,Iapetus
+,Ethereal Spear
+,Celestial Spear
+289/107,Coalition Lance
+,Camaraderie Lance
+356/67,Aram (SU5)
+,Ikenga's Lance
+,Gae Buide (Non AG)
+,Gae Buide (Stage 5)
 
 @Katana
 99/12,Fudo
@@ -487,17 +556,17 @@
 99/17,Ganko
 99/18,Kunai
 137/126,Kikoku
-274/127,Kikoku (99)
+274/127,Kikoku (119 AG)
 152/10,Sai
 158/40,Hirenjaku
 171/66,Ryumon
 172/19,Hayabusa
 205/9,Nagi
-275/13,Nagi (99)
+275/13,Nagi (119 AG)
 210/49,Shusui
 211/66,Oninohocho
 247/33,Kannagi
-275/26,Kannagi (99)
+275/26,Kannagi (119 AG)
 246/5,Hochomasamune
 279/43,Ikarigiri
 288/22,Uguisu
@@ -507,9 +576,14 @@
 330/46,Mijin
 330/53,Kujaku
 344/25,Heishi Shorinken
-356/66,Fudo Masamune (su5)
+356/66,Fudo Masamune (SU5)
 359/67,Kaja Katana
 360/74,Gokotai
+,Ethereal Katana
+356/66,Fudo Masamune (SU5)
+,Kunimitsu
+,Dokoku (Non AG)
+,Dokoku (Stage 5)
 
 @G.Katana
 44/34,Nukemaru
@@ -527,17 +601,17 @@
 44/46,Honebami
 126/116,Kazaridachi
 137/122,Amanomurakumo
-275/0,Amanomurakumo (99)
+275/0,Amanomurakumo (119 AG)
 144/86,Kumokirimaru
 154/72,Wooden Katana
 172/17,Shirogatana
 183/119,Shinai
 205/12,Kogarasumaru
-275/12,Kogarasumaru (99)
+275/12,Kogarasumaru (119 AG)
 210/50,Pachipachio
 211/62,Nanatsusaya
 242/41,Masamune
-275/27,Masamune (99)
+275/27,Masamune (119 AG)
 246/6,Scathacha
 266/93,Murasamemaru
 279/42,Ark Tachi
@@ -549,10 +623,16 @@
 330/54,Kunitsuna
 344/26,Dojikiri Yasutsuna
 356/59,Zanmato
-356/63,Fusenaikyo (su5)
+356/63,Fusenaikyo (SU5)
 359/68,Kaja Tachi
 360/75,Hachimonji
 363/76,Mutsunokami
+,Ethereal Tachi
+,Ohakari
+356/63,Fusenaikyo (SU5)
+,Gekkei
+,Kusanagi-no-Tsurugi (Non AG)
+,Kusanagi-no-Tsurugi (Stage 5)
 
 @Club
 43/81,Chocobo Wand
@@ -589,11 +669,11 @@
 44/121,Chestnut Wand
 44/122,Willow Wand
 44/123,Caduceus
-44/124,Chocobo Wand (Unused)
-44/125,Chocobo Wand (Unused)
-44/126,Chocobo Wand (Unused)
-44/127,Chocobo Wand (Unused)
-45/0,Chocobo Wand (Unused)
+45/1,Chocobo Wand (Unused)
+45/1,Chocobo Wand (Unused)
+45/1,Chocobo Wand (Unused)
+45/1,Chocobo Wand (Unused)
+45/1,Chocobo Wand (Unused)
 45/1,Chocobo Wand (Unused)
 45/2,Star Rod
 45/3,Asklepios
@@ -605,7 +685,7 @@
 45/9,Pilgrim's Wand
 45/10,Fey Wand
 45/69,Mjollnir
-275/1,Mjollnir (99)
+275/1,Mjollnir (119 AG)
 137/118,Rune Rod
 137/125,Trial Club
 149/36,Morgenstern
@@ -616,14 +696,14 @@
 170/30,Nomad Moogle Rod
 183/80,Brass Jadagna
 205/3,Yagrush
-275/4,Yagrush (99)
+275/4,Yagrush (119 AG)
 210/47,Antares
 211/65,Flanged Mace
 218/27,Dream Bell
 220/24,Club Hammer
 220/124,Lady Bell
 242/42,Gambanteinn
-275/28,Gambanteinn (99)
+275/28,Gambanteinn (119 AG)
 246/7,Owleyes
 264/102,Tefnut Wand
 266/52,Rounsey Wand
@@ -633,7 +713,7 @@
 281/41,Solstice
 286/36,Shell Scepter
 286/37,Gobbie Gavel
-289/108,Coalition Rod 
+289/108,Coalition Rod
 303/102,Tamaxchi
 308/18,Camaraderie wand
 313/95,Red Spriggan Club
@@ -643,7 +723,7 @@
 317/56,Kyuka uchiwa
 319/72,Nehushtan
 325/21,Leafkin bopper
-326/38,Heartbeater 
+326/38,Heartbeater
 330/48,Nibiru cudgel
 330/55,Blurred rod
 336/50,Divinity
@@ -652,7 +732,7 @@
 344/27,Tishtrya
 352/73,Seika Uchiwa
 353/7,Jingly Rod
-356/68,Asclepius (su5)
+356/68,Asclepius (SU5)
 357/63,Soulflayer's Wand
 358/104,Floral Hagoita
 359/69,Kaja Rod
@@ -660,6 +740,22 @@
 361/101,Cath Palug Hammer
 362/55,Daybreak
 363/39,Burrower's Wand
+,Green Spriggan Club
+,Ethereal Club
+,Chac-Chacs
+,Summer Uchiwa
+,Adenium Mallet
+,Lycopodium Mallet
+,Korrigan Mallet
+,Tengu War Fan
+,Apkallu Scepter
+,Thunder Hammer
+,Feline Hagoita
+,Camaraderie Wand
+356/68,Asclepius (SU5)
+,Bunzi's Rod
+,Lorg Mor (Non AG)
+,Lorg Mor (Stage 5)
 
 @Staff
 45/51,Elm Staff
@@ -691,17 +787,17 @@
 126/125,Trick Staff
 137/123,Iron-splitter
 137/124,Claustrum
-275/2,Claustrum (99)
+275/2,Claustrum (119 AG)
 148/52,Kingdom Signet Staff
 148/53,Federation Signet Staff
 148/54,Republic Signet Staff
 149/37,Primate Staff
 205/4,Laevateinn
-275/5,Laevateinn (99)
+275/5,Laevateinn (119 AG)
 205/5,Nirvana
-275/15,Nirvana (99)
+275/15,Nirvana (119 AG)
 205/17,Tupsimati
-275/18,Tupsimati (99)
+275/18,Tupsimati (119 AG)
 210/48,Alkalurops
 211/60,Mekki Shakki
 211/61,Dorje
@@ -709,24 +805,38 @@
 227/8,B. Shantotto's Staff
 227/12,Majestas
 242/43,Hvergelmir
-275/29,Hvergelmir (99)
+275/29,Hvergelmir (119 AG)
 264/100,Fulcrum Pole
 279/37,Plenitas Virga
 282/112,Iridal Staff
 288/21,Zamzummim staff
-303/99,Forefront Scepter
 303/100,Voay Staff
+303/99,Forefront Scepter
 308/19,Baqil staff
 319/73,Keraunos
 325/24,Mindmelter
 330/49,Nibiru staff
-336/53,Malice Masher
+,Malice masher
 344/28,Khatvanga
 349/30,Exemplar
 353/88,Hapy Staff
-356/70,Kaumodaki (su5)
 357/91,Lamia Staff
+356/70,Kaumodaki (SU5)
 358/48,Aern Staff
 359/70,Kaja Staff
 360/77,Xoanon
 361/123,Ranine Staff
+,Treat Staff
+,Aern Staff II
+,Savagelands Pole
+,Sophistry
+,Levin
+,Profane Staff
+,Garazu-Horeizu's Staff
+,Garazu-Horeizu's Staff II
+,Ethereal Staff
+,Baqil Staff
+356/70,Kaumodaki (SU5)
+,Mpaca's Staff
+,Opashoro (Non AG)
+,Opashoro (Stage 5)
