@@ -60,12 +60,13 @@
 356/3,Sagitta (SU5)
 359/10,Kaja Knuckles
 360/20,Karambit
-,Dazbog's Knuckles
-,Dragon Fangs
-,Ethereal Fists
-,Sakpata's Fists
-,Varga Purnikawa
-,Varga Purnikawa (Stage 5)
+365/50,Dragon Fangs
+365/76,Sakpata's Fists
+371/20,Tokkosho
+374/30,Varga Purnikawa
+376/54,Varga Purnikawa (Stage 5)
+377/83,Ethereal Fists
+378/116,Dazbog's Knuckles
 
 @Dagger
 49/8,Valiant Knife
@@ -143,11 +144,12 @@
 362/121,Esikuva
 365/8,Infiltrator
 367/55,Gleti's Knife
+369/118,Aern Dagger II
+378/62,Ethereal Dagger
+375/53,Mpu Gandring (Non AG)
+377/38,Mpu Gandring (Stage 5)
 380/32,Hedron Dagger
-,Aern Dagger II
-,Ethereal Dagger
-,Mpu Gandring (Non AG)
-,Mpu Gandring (Stage 5)
+381/32,Esoteric Athame
 
 @Sword
 49/32,Colichemarde
@@ -256,15 +258,15 @@
 358/50,Aern Sword
 359/72,Kaja Sword
 360/79,Naegling
+364/51,Nihility
 367/57,Sakpata's Sword
 369/13,Twinned Blade
-,Aern Sword II
-,Caliburnus (Non AG)
-,Caliburnus (Stage 5)
-,Ethereal Sword
-,Extinction
-,Macana
-,Nihility
+370/76,Extinction
+369/117,Aern Sword II
+375/54,Caliburnus (Non AG)
+377/39,Caliburnus (Stage 5)
+378/63,Ethereal Sword
+380/125,Macana
 
 @G.Sword
 48/43,Reserve Captain's Greatsword
@@ -321,8 +323,8 @@
 362/122,Ophidian Sword
 367/59,Agwu's Claymore
 371/36,Goujian
-,Helheim (Non AG)
-,Helheim (Stage 5)
+375/55,Helheim (Non AG)
+377/40,Helheim (Stage 5)
 
 @Axe
 48/55,Bronze Axe
@@ -373,10 +375,10 @@
 361/26,Dullahan axe
 367/52,Ikenga's Axe
 367/60,Agwu's Axe
-,Aern Axe II
-,Ethereal Axe
-,Spalirisos (Non AG)
-,Spalirisos (Stage 5)
+369/119,Aern Axe II
+375/56,Spalirisos (Non AG)
+377/41,Spalirisos (Stage 5)
+378/64,Ethereal Axe
 
 @G.Axe
 48/71,Centurion's Axe
@@ -419,10 +421,10 @@
 365/6,Poison Axe
 367/51,Helgoland
 367/63,Bunzi's Chopper
+375/57,Laphria (Non AG)
+377/42,Laphria (Stage 5)
+378/65,Ethereal Great Axe
 381/46,Dispatcher's Axe
-,Ethereal Great Axe
-,Laphria (Non AG)
-,Laphria (Stage 5)
 
 @Scythe
 49/45,Darksteel Scythe
@@ -465,9 +467,9 @@
 359/77,Kaja Scythe
 360/84,Drepanum
 367/61,Agwu's Scythe
-,Ethereal Scythe
-,Foenaria (Non AG)
-,Foenaria (Stage 5)
+375/59,Foenaria (Non AG)
+377/44,Foenaria (Stage 5)
+378/67,Ethereal Scythe
 
 @Polearm
 49/53,Halberd
@@ -522,12 +524,13 @@
 361/27,Hotengeki
 361/79,Sha Wujing's Lance
 367/53,Ikenga's Lance
+369/54,Iapetus
+369/119,Aern Spear II
+375/58,Gae Buide (Non AG)
+377/43,Gae Buide (Stage 5)
+378/66,Ethereal Spear
 381/18,Celestial Spear
-,Aern Spear II
-,Ethereal Spear
-,Gae Buide (Non AG)
-,Gae Buide (Stage 5)
-,Iapetus
+
 
 @Katana
 99/46,Fudo
@@ -563,9 +566,9 @@
 360/85,Gokotai
 367/49,Yagyu Shortblade
 367/54,Kunimitsu
-,Dokoku (Non AG)
-,Dokoku (Stage 5)
-,Ethereal Katana
+375/60,Dokoku (Non AG)
+377/45,Dokoku (Stage 5)
+378/68,Ethereal Katana
 
 @G.Katana
 48/123,Nukemaru
@@ -610,10 +613,10 @@
 360/86,Hachimonji
 363/77,Mutsunokami
 367/56,Gekkei
+375/61,Kusanagi-No-Tsurugi (Non AG)
+377/46,Kusanagi-No-Tsurugi (Stage 5)
+378/69,Ethereal Tachi
 381/11,Ohakari
-,Ethereal Tachi
-,Kusanagi-No-Tsurugi (Non AG)
-,Kusanagi-No-Tsurugi (Stage 5)
 
 @Club
 48/42,Chocobo Wand
@@ -721,19 +724,20 @@
 367/62,Bunzi's Rod
 372/41,Citrullus Mallet
 380/14,Arthro's Scepter
-,Adenium Mallet
-,Apkallu Scepter
-,Badrod
-,Chac-Chacs
-,Ethereal Club
-,Feline Hagoita
-,Korrigan Mallet
-,Lorg Mor (Non AG)
-,Lorg Mor (Stage 5)
-,Lycopodium Mallet
-,Summer Uchiwa
-,Tengu War Fan
-,Thunder Hammer
+370/104,Thunder Hammer
+371/9,Apkallu Scepter
+371/87,Tengu War Fan
+371/101,Feline Hagoita
+372/4,TVR Rod?
+372/123,Chac-Chacs
+372/82,Korrigan Mallet
+372/83,Adenium Mallet
+372/122,Lycopodium Mallet
+373/11,Summer Uchiwa
+375/62,Lorg Mor (Non AG)
+377/47,Lorg Mor (Stage 5)
+378/70,Ethereal Club
+384/127,Badrod
 
 @Staff
 50/12,Elm Staff
@@ -810,9 +814,9 @@
 369/53,Sophistry
 370/75,Levin
 371/111,Profane Staff
-,Aern Staff II
-,Ethereal Staff
-,Garazu-Horeizu's Staff
-,Garazu-Horeizu's Staff II
-,Opashoro (Non AG)
-,Opashoro (Stage 5)
+369/121,Aern Staff II
+373/52,Garazu-Horeizu's Staff
+375/63,Opashoro (Non AG)
+375/120,Garazu-Horeizu's Staff II
+377/48,Opashoro (Stage 5)
+378/71,Ethereal Staff

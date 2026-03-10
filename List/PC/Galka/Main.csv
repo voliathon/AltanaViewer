@@ -60,12 +60,13 @@
 356/9,Sagitta (SU5)
 359/16,Kaja Knuckles
 360/24,Karambit
-,Dazbog's Knuckles
-,Dragon Fangs
-,Ethereal Fists
-,Sakpata's Fists
-,Varga Purnikawa
-,Varga Purnikawa (Stage 5)
+365/52,Dragon Fangs
+365/84,Sakpata's Fists
+371/22,Tokkosho
+374/39,Varga Purnikawa
+376/62,Varga Purnikawa (Stage 5)
+377/89,Ethereal Fists
+378/118,Dazbog's Knuckles
 
 @Dagger
 58/102,Valiant Knife
@@ -144,10 +145,11 @@
 365/14,Infiltrator
 368/17,Gleti's Knife
 380/34,Hedron Dagger
-,Aern Dagger II
-,Ethereal Dagger
-,Mpu Gandring (Non AG)
-,Mpu Gandring (Stage 5)
+370/10,Aern Dagger II
+375/75,Mpu Gandring (Non AG)
+377/60,Mpu Gandring (Stage 5)
+378/82,Ethereal Dagger
+381/34,Esoteric Athame
 
 @Sword
 58/126,Colichemarde
@@ -255,16 +257,15 @@
 358/62,Aern Sword
 359/94,Kaja Sword
 360/101,Naegling
+364/57,Nihility
 368/19,Sakpata's Sword
 369/15,Twinned Blade
-,Aern Sword II
-,Caliburnus (Non AG)
-,Caliburnus (Stage 5)
-,Ethereal Sword
-,Extinction
-,Macana
-,Murgleis (119 AG)
-,Nihility
+370/80,Extinction
+370/9,Aern Sword II
+375/76,Caliburnus (Non AG)
+377/61,Caliburnus (Stage 5)
+378/83,Ethereal Sword
+380/127,Macana
 
 @G.Sword
 58/9,Reserve Captain's Greatsword
@@ -321,8 +322,8 @@
 363/4,Ophidian Sword
 368/21,Agwu's Claymore
 371/38,Goujian
-,Helheim (Non AG)
-,Helheim (Stage 5)
+375/77,Helheim (Non AG)
+377/62,Helheim (Stage 5)
 
 @Axe
 58/21,Bronze Axe
@@ -372,10 +373,10 @@
 361/30,Dullahan axe
 368/14,Ikenga's Axe
 368/21,Agwu's Axe
-,Aern Axe II
-,Ethereal Axe
-,Spalirisos (Non AG)
-,Spalirisos (Stage 5)
+370/11,Aern Axe II
+375/78,Spalirisos (Non AG)
+377/63,Spalirisos (Stage 5)
+378/84,Ethereal Axe
 
 @G.Axe
 58/37,Centurion's Axe
@@ -419,9 +420,9 @@
 368/13,Helgoland
 368/25,Bunzi's Chopper
 381/48,Dispatcher's Axe
-,Ethereal Great Axe
-,Laphria (Non AG)
-,Laphria (Stage 5)
+375/79,Laphria (Non AG)
+377/64,Laphria (Stage 5)
+378/85,Ethereal Great Axe
 
 @Scythe
 59/11,Darksteel Scythe
@@ -463,9 +464,9 @@
 359/99,Kaja Scythe
 360/106,Drepanum
 368/23,Agwu's Scythe
-,Ethereal Scythe
-,Foenaria (Non AG)
-,Foenaria (Stage 5)
+375/81,Foenaria (Non AG)
+377/66,Foenaria (Stage 5)
+378/87,Ethereal Scythe
 
 @Polearm
 59/19,Halberd
@@ -519,13 +520,12 @@
 361/31,Hotengeki
 361/83,Sha Wujing's Lance
 368/15,Ikenga's Lance
+369/58,Iapetus
+370/12,Aern Spear II
+375/80,Gae Buide (Non AG)
+377/65,Gae Buide (Stage 5)
+378/86,Ethereal Spear
 381/20,Celestial Spear
-,Aern Spear II
-,Coalition Lance
-,Ethereal Spear
-,Gae Buide (Non AG)
-,Gae Buide (Stage 5)
-,Iapetus
 
 @Katana
 99/109,Fudo
@@ -561,9 +561,9 @@
 360/107,Gokotai
 368/11,Yagyu Shortblade
 368/16,Kunimitsu
-,Dokoku (Non AG)
-,Dokoku (Stage 5)
-,Ethereal Katana
+375/82,Dokoku (Non AG)
+377/67,Dokoku (Stage 5)
+378/88,Ethereal Katana
 
 @G.Katana
 58/89,Nukemaru
@@ -580,6 +580,7 @@
 58/100,Murasame
 58/101,Honebami
 127/120,Kazaridachi
+139/16,Amanomurakumo
 145/66,Kumokirimaru
 154/93,Wooden Katana
 172/35,Shirogatana
@@ -606,11 +607,11 @@
 360/108,Hachimonji
 363/79,Mutsunokami
 368/18,Gekkei
+275/114,Amanomurakumo (119 AG)
+375/83,Kusanagi-No-Tsurugi (Non AG)
+377/68,Kusanagi-No-Tsurugi (Stage 5)
+378/89,Ethereal Tachi
 381/13,Ohakari
-,Amanomurakumo (119 AG)
-,Ethereal Tachi
-,Kusanagi-No-Tsurugi (Non AG)
-,Kusanagi-No-Tsurugi (Stage 5)
 
 @Club
 58/8,Chocobo Wand
@@ -716,21 +717,22 @@
 363/42,Burrower's Wand
 368/12,Magician's Rod
 368/24,Bunzi's Rod
+370/106,Thunder Hammer
+371/11,Apkallu Scepter
+371/89,Tengu War Fan
+371/103,Feline Hagoita
+372/6,TVR Rod?
 372/43,Citrullus Mallet
+372/86,Korrigan Mallet
+372/87,Adenium Mallet
+372/126,Lycopodium Mallet
+372/127,Chac-Chacs
+373/13,Summer Uchiwa
+375/84,Lorg Mor (Non AG)
+377/69,Lorg Mor (Stage 5)
+378/90,Ethereal Club
 380/18,Arthro's Scepter
-,Adenium Mallet
-,Apkallu Scepter
-,Badrod
-,Chac-Chacs
-,Ethereal Club
-,Feline Hagoita
-,Korrigan Mallet
-,Lorg Mor (Non AG)
-,Lorg Mor (Stage 5)
-,Lycopodium Mallet
-,Summer Uchiwa
-,Tengu War Fan
-,Thunder Hammer
+385/1,Badrod
 
 @Staff
 59/106,Elm Staff
@@ -805,11 +807,12 @@
 365/13,Erudite's Staff
 368/20,Mpaca's Staff
 369/57,Sophistry
+370/13,Aern Staff II
 370/79,Levin
 371/113,Profane Staff
-,Aern Staff II
-,Ethereal Staff
-,Garazu-Horeizu's Staff
-,Garazu-Horeizu's Staff II
-,Opashoro (Non AG)
-,Opashoro (Stage 5)
+371/12,White Levin (Glow Effects)
+373/54,Garazu-Horeizu's Staff
+375/122,Garazu-Horeizu's Staff II
+375/85,Opashoro (Non AG)
+377/70,Opashoro (Stage 5)
+378/91,Ethereal Staff

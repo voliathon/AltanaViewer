@@ -60,12 +60,13 @@
 356/0,Sagitta (SU5)
 359/7,Kaja Knuckles
 360/18,Karambit
-,Dazbog's Knuckles
-,Dragon Fangs
-,Ethereal Fists
-,Sakpata's Fists
-,Varga Purnikawa
-,Varga Purnikawa (Stage 5)
+365/49,Dragon Fangs
+365/72,Sakpata's Fists
+371/19,Tokkosho
+374/26,Varga Purnikawa
+376/50,Varga Purnikawa (Stage 5)
+377/80,Ethereal Fists
+378/115,Dazbog's Knuckles
 
 @Dagger
 44/47,Valiant Knife
@@ -144,10 +145,11 @@
 365/5,Infiltrator
 367/10,Gleti's Knife
 380/31,Hedron Dagger
-,Aern Dagger II
-,Ethereal Dagger
-,Mpu Gandring (Non AG)
-,Mpu Gandring (Stage 5)
+369/108,Aern Dagger II
+378/52,Ethereal Dagger
+375/42,Mpu Gandring (Non AG)
+377/27,Mpu Gandring (Stage 5)
+381/31,Esoteric Athame
 
 @Sword
 44/71,Colichemarde
@@ -256,15 +258,15 @@
 358/44,Aern Sword
 359/61,Kaja Sword
 360/68,Naegling
+364/48,Nihility
 367/12,Sakpata's Sword
 369/12,Twinned Blade
-,Aern Sword II
-,Caliburnus (Non AG)
-,Caliburnus (Stage 5)
-,Ethereal Sword
-,Extinction
-,Macana
-,Nihility
+369/107,Aern Sword II
+370/74,Extinction
+375/43,Caliburnus (Non AG)
+377/28,Caliburnus (Stage 5)
+378/53,Ethereal Sword
+380/124,Macana
 
 @G.Sword
 43/82,Reserve Captain's Greatsword
@@ -321,9 +323,8 @@
 362/117,Ophidian Sword
 367/14,Agwu's Claymore
 371/35,Goujian
-,Judge's Sword (GM)
-,Helheim (Non AG)
-,Helheim (Stage 5)
+375/44,Helheim (Non AG)
+377/29,Helheim (Stage 5)
 
 @Axe
 43/94,Bronze Axe
@@ -374,10 +375,10 @@
 361/24,Dullahan axe
 367/7,Ikenga's Axe
 367/15,Agwu's Axe
-,Aern Axe II
-,Ethereal Axe
-,Spalirisos (Non AG)
-,Spalirisos (Stage 5)
+369/109,Aern Axe II
+375/45,Spalirisos (Non AG)
+377/30,Spalirisos (Stage 5)
+378/54,Ethereal Axe
 
 @G.Axe
 43/110,Centurion's Axe
@@ -420,10 +421,10 @@
 365/3,Poison Axe
 367/6,Helgoland
 367/18,Bunzi's Chopper
+375/46,Laphria (Non AG)
+377/31,Laphria (Stage 5)
+378/55,Ethereal Great Axe
 381/45,Dispatcher's Axe
-,Ethereal Great Axe
-,Laphria (Non AG)
-,Laphria (Stage 5)
 
 @Scythe
 44/84,Darksteel Scythe
@@ -466,10 +467,9 @@
 359/66,Kaja Scythe
 360/73,Drepanum
 367/16,Agwu's Scythe
-,Ethereal Scythe
-,Foenaria (Non AG)
-,Foenaria (Stage 5)
-,Unknown Scythe 1
+375/48,Foenaria (Non AG)
+377/33,Foenaria (Stage 5)
+378/57,Ethereal Scythe
 
 @Polearm
 44/92,Halberd
@@ -524,12 +524,12 @@
 361/25,Hotengeki
 361/77,Sha Wujing's Lance
 367/8,Ikenga's Lance
+369/52,Iapetus
+369/110,Aern Spear II
+375/47,Gae Buide (Non AG)
+377/32,Gae Buide (Stage 5)
+378/56,Ethereal Spear
 381/17,Celestial Spear
-,Aern Spear II
-,Ethereal Spear
-,Gae Buide (Non AG)
-,Gae Buide (Stage 5)
-,Iapetus
 
 @Katana
 99/12,Fudo
@@ -565,9 +565,9 @@
 360/74,Gokotai
 367/4,Yagyu Shortblade
 367/9,Kunimitsu
-,Dokoku (Non AG)
-,Dokoku (Stage 5)
-,Ethereal Katana
+375/49,Dokoku (Non AG)
+377/34,Dokoku (Stage 5)
+378/58,Ethereal Katana
 
 @G.Katana
 44/34,Nukemaru
@@ -612,10 +612,10 @@
 360/75,Hachimonji
 363/76,Mutsunokami
 367/11,Gekkei
+375/50,Kusanagi-No-Tsurugi (Non AG)
+377/35,Kusanagi-No-Tsurugi (Stage 5)
+378/59,Ethereal Tachi
 381/10,Ohakari
-,Ethereal Tachi
-,Kusanagi-No-Tsurugi (Non AG)
-,Kusanagi-No-Tsurugi (Stage 5)
 
 @Club
 43/81,Chocobo Wand
@@ -723,19 +723,20 @@
 367/17,Bunzi's Rod
 372/40,Citrullus Mallet
 380/11,Arthro's Scepter
-,Adenium Mallet
-,Apkallu Scepter
-,Badrod
-,Chac-Chacs
-,Ethereal Club
-,Feline Hagoita
-,Korrigan Mallet
-,Lorg Mor (Non AG)
-,Lorg Mor (Stage 5)
-,Lycopodium Mallet
-,Summer Uchiwa
-,Tengu War Fan
-,Thunder Hammer
+370/103,Thunder Hammer
+371/8,Apkallu Scepter
+371/86,Tengu War Fan
+371/100,Feline Hagoita
+372/3,TVR Rod?
+372/121,Chac-Chacs
+372/80,Korrigan Mallet
+372/81,Adenium Mallet
+372/120,Lycopodium Mallet
+373/10,Summer Uchiwa
+375/51,Lorg Mor (Non AG)
+377/36,Lorg Mor (Stage 5)
+378/60,Ethereal Club
+384/126,Badrod
 
 @Staff
 45/51,Elm Staff
@@ -812,9 +813,10 @@
 369/51,Sophistry
 370/73,Levin
 371/110,Profane Staff
-,Aern Staff II
-,Ethereal Staff
-,Garazu-Horeizu's Staff
-,Garazu-Horeizu's Staff II
-,Opashoro (Non AG)
-,Opashoro (Stage 5)
+369/111,Aern Staff II
+373/49,Garazu-Horeizu's Staff
+375/52,Opashoro (Non AG)
+375/119,Garazu-Horeizu's Staff II
+377/37,Opashoro (Stage 5)
+378/61,Ethereal Staff
+

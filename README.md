@@ -59,22 +59,19 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 [AltanaListener](https://github.com/voliathon/AltanaListener) was created to address this problem and do a better job.
 
 ## Current Work and Road map
-* [COMPLETED] Perform Copyedits (Checking consistency and accuracy then editing) against ALL files first
-* [COMPLETED] Move all Level 1 equipment to the top of each list
-* [COMPLETED] Level 1 equipment will be ordered based on its FFXI Release
-* [COMPLETED] Implement known dat locations up until mid-2024 (This includes Odyssey gear)
-* [COMPLETED] Include all equipment to Limbus and current Login Campaigns **At this point Altana Viewer will be done with Gear up until 2026**
-* [ ] Identify further Weapon/Sub stuff
+* [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
+* [COMPLETED] Figure out why the Music doesn't work post a certain expansion
+* [COMPLETED] All Main Weapons added up to March-10-2026
+* [WIP] Identify missing sub weapons, ranged, and implement
 * [ ] Identify missing mounts and implement
 * [ ] Identify missing furniture and implement
 * [ ] Identify further NPC stuff
-* [COMPLETED] Figure out why the Music doesn't work post a certain expansion
-* [ ] Figure out animations further... maybe... That's a lot of work.
+* [] Figure out animations further... maybe... That's a lot of work.
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- All Main.csv - Updated all Odyssey Weapons (Mar-10-2026)
-- Main.csv - Updates to all races - Pre-TVR Gear (Mar-09-2026)
+- All Main.csv - Updated all Odyssey Weapons and organized all weapons based on release(Mar-10-2026)
+- All Main.csv - Updated all Pre-Odyssey Weapons (Mar-09-2026)
 - Music/ & Main.csv files- Corrections to Music and Pre-aligning updates to main weapons (Mar-08-2026)
 - Music/ - All Music Updated (Mar-08-2026)
 - NPC/ - Spelling corrections (Mar-06-2026)
