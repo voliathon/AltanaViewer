@@ -70,6 +70,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- All Main Weapons Done. This includes Badrod that released Mar-10-2026 (Mar-10-2026)
 - All Main.csv - Updated all Odyssey Weapons and organized all weapons based on release(Mar-10-2026)
 - All Main.csv - Updated all Pre-Odyssey Weapons (Mar-09-2026)
 - Music/ & Main.csv files- Corrections to Music and Pre-aligning updates to main weapons (Mar-08-2026)
