@@ -60,17 +60,17 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## Current Work and Road map
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
-* [COMPLETED] Figure out why the Music doesn't work post a certain expansion
+* [COMPLETED] Figure out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
 * [COMPLETED] All Main Weapons added up to March-10-2026
 * [WIP] Identify missing sub weapons, ranged, and implement
 * [ ] Identify missing mounts and implement
 * [ ] Identify missing furniture and implement
 * [ ] Identify further NPC stuff
-* [] Figure out animations further... maybe... That's a lot of work.
+* [ ] Figure out animations further... maybe... That's a lot of work.
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- All Main Weapons Done. This includes Badrod that released Mar-10-2026 (Mar-10-2026)
+- All Main Weapons Done. This includes Badrod that released March 2026 (Mar-10-2026)
 - All Main.csv - Updated all Odyssey Weapons and organized all weapons based on release(Mar-10-2026)
 - All Main.csv - Updated all Pre-Odyssey Weapons (Mar-09-2026)
 - Music/ & Main.csv files- Corrections to Music and Pre-aligning updates to main weapons (Mar-08-2026)
