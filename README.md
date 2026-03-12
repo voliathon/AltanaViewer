@@ -71,6 +71,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Sub.csv - HumeM Sub Done Entirely with a Jushimatsu fixes to Mains. (Mar-12-2026)
 - res/ - Section Added Back (Mar-12-2026)
 - DATAnalysis Section - Added Powershell Scripts (Mar-12-2026)
 - All Main.csv & Sub.csv - Badrod has been updated to Budrod (Mar-11-2026)
