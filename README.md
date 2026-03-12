@@ -17,6 +17,7 @@ AltanaViewer is a dedicated 3D model and asset viewer for Final Fantasy XI (FFXI
 The repository is organized to neatly categorize the massive amount of FFXI game data:
 
 * `AltanaView.exe` - The main executable application.
+* `DATAnalysis/` - PowerShell tools for sanitizing CSV data and reverse-engineering unmapped FFXI `.dat` files via hex headers.
 * `List/` - The core database of the viewer, containing CSV files that map assets:
   * `Effect/` - Spell effects, job abilities, and weapon skill visuals.
   * `Image/` - UI elements, zone images, and miscellaneous 2D graphics.
