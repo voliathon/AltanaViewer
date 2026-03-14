@@ -12,6 +12,12 @@ AltanaViewer is a dedicated 3D model and asset viewer for Final Fantasy XI (FFXI
 * **Animation & Effects Playback:** View weapon skills, magic casting effects (White Magic, Black Magic, Ninjutsu, etc.), and standard character motions.
 * **Asset Mapping:** Comprehensive CSV lists that map raw game DAT files to human-readable names.
 
+## History & Origins
+
+The original Altana Viewer was created around 2006 by an anonymous Japanese developer (often associated with the copyright "Tiamat"). It was built upon the foundation of an older Japanese model viewer known as `FFXITool`. Both programs were unique at the time for being able to decipher and play back FFXI's complex effect animations.
+
+Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
+
 ## Directory Structure
 
 The repository is organized to neatly categorize the massive amount of FFXI game data:
@@ -38,15 +44,22 @@ You may have noticed that the built-in audio player in AltanaViewer can be buggy
 
 **If you are looking to listen to the FFXI soundtrack, I highly recommend downloading my new, dedicated tool: [AltanaListener](https://github.com/voliathon/AltanaListener).** AltanaListener is a completely open-source, highly stable audio player built from the ground up specifically for FFXI `.bgw` files, featuring custom playlists, favorites, and WAV file exporting!
 
-## Contributing
 
-Because Final Fantasy XI continues to receive updates, the CSV lists require periodic maintenance to include newly added armor, weapons, and monster models. If you are updating the lists, please ensure you place the new item IDs and DAT mappings in their respective CSV files within the `List/` directory.
+### 🧠 Understanding the Animation Engine: Action.csv vs. Motion.csv
 
-## History & Origins
+When dealing with playable characters and monsters, AltanaViewer handles animations using two completely different files that talk to each other.
 
-The original Altana Viewer was created around 2006 by an anonymous Japanese developer (often associated with the copyright "Tiamat"). It was built upon the foundation of an older Japanese model viewer known as `FFXITool`. Both programs were unique at the time for being able to decipher and play back FFXI's complex effect animations.
+**1. `Action.csv` (The User Interface)**
+This file defines what the user sees in the AltanaViewer dropdown menus. It is a strict 1-to-1 mapping. 
+* *Format:* `[Folder/File],[UI Name]` (e.g., `206/106,Ascetic's Fury`)
+* When you click "Ascetic's Fury" in the UI, the engine looks at this file and triggers the starting animation `.dat`. 
 
-Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
+**2. `Motion.csv` (The Skeleton Engine)**
+This file is invisible to the user. It teaches the 3D engine how to *chain* animations together so the character does not freeze after a movement. 
+* *Format:* `[Start Block], [Next Block]` (e.g., `56/14-22, 56/23-40`)
+* Final Fantasy XI rarely uses one file for a continuous movement. Drawing a weapon involves a transition animation, followed by an infinite idle loop. `Motion.csv` tells the engine: *"As soon as the animation block 56/14-22 finishes, seamlessly transition into the loop block 56/23-40."*
+
+**The "Test" Override:** If you want to view a hidden engine animation from `Motion.csv` in the actual UI, you can append a name to it (e.g., `209/39,test #244`). This forces AltanaViewer to bypass the chaining logic and expose the raw file directly in the Action dropdown.
 
 ## 🎵 The Missing Music: Why Post-Promathia Audio Fails
 
@@ -124,6 +137,11 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 - Creation of Repo (Feb-20-2026)
 
 ---
+
+
+## Contributing
+
+Because Final Fantasy XI continues to receive updates, the CSV lists require periodic maintenance to include newly added armor, weapons, and monster models. If you are updating the lists, please ensure you place the new item IDs and DAT mappings in their respective CSV files within the `List/` directory.
 
 ## Credits & Special Thanks
 

@@ -2,10 +2,15 @@
 32/13-21;98/55,Battle
 108/100-103,Dual Wield (Sub)
 108/112-115,Dual Wield (Main)
+
 @Emote
 32/40-44;123/15;136/119-121,Emote
 259/82;111-119,Job Emotes
+
 @General
+27/82,66 Schedules and 70 Motions
+27/83,Various Movements
+27/85,69 Motions
 32/45,Logging
 90/14,Chocobo
 90/15,Fishing
@@ -14,6 +19,7 @@
 143/47;143/68,Goldfish Scooping
 198/3,Dancing
 223/84-86,Bell Ringing
+
 @Ability
 76/104-105,Steal
 76/106-107,Mug
@@ -21,6 +27,7 @@
 100/56-70,Jump
 168/26,Tomahawk
 168/27,Angon
+
 @Hand-to-Hand
 76/39,Combo
 76/40,Shoulder Tackle
@@ -37,6 +44,7 @@
 242/67,Tornado Kick
 255/47,Victory Smite
 272/32,Shijin Spiral
+
 @Dagger
 76/46,Wasp Sting
 76/47,Viper Bite
@@ -55,6 +63,7 @@
 242/68,Aeolian Edge
 257/78,Rudra's Storm
 268/63,Exenterator
+
 @Sword
 76/30,Fast Blade
 76/31,Burning Blade
@@ -76,6 +85,7 @@
 244/61,Sanguine Blade
 255/51,Chant du Cygne
 268/62,Requiescat
+
 @Club
 76/68,Shining Strike
 76/69,Seraph Strike
@@ -92,6 +102,7 @@
 242/70,Flash Nova
 257/75,Dagan
 269/71,Realmrazer
+
 @Axe
 76/54,Raging Axe
 76/55,Smash Axe
@@ -107,6 +118,7 @@
 244/58,Bora Axe
 255/48,Cloudsplitter
 269/93,Ruinator
+
 @Katana
 100/38,Blade: Rin
 100/39,Blade: Retsu
@@ -122,6 +134,7 @@
 242/73,Blade: Yu
 256/91,Blade: Hi
 270/113,Blade: Shun
+
 @G. Sword
 76/83,Hard Slash
 76/84,Power Slash
@@ -136,6 +149,7 @@
 242/72,Herculean Slash
 255/49,Torcleaver
 270/7,Resolution
+
 @Staff
 76/97,Heavy Swing
 76/98,Rock Crusher
@@ -154,6 +168,7 @@
 244/62,Cataclysm
 257/77,Myrkr
 270/8,Shattersoul
+
 @G. Axe
 76/76,Shield Break
 76/77,Iron Tempest
@@ -169,6 +184,7 @@
 242/71,Fell Cleave
 257/76,Ukko's Fury
 272/33,Upheaval
+
 @G. Katana
 100/47,Tachi: Enpi
 100/48,Tachi: Hobaku
@@ -184,6 +200,7 @@
 244/60,Tachi: Ageha
 255/50,Tachi: Fudo
 268/61,Tachi: Shoha
+
 @Scythe
 76/61,Slice
 76/62,Dark Harvest
@@ -199,6 +216,7 @@
 242/69,Infernal Scythe
 256/89,Quietus
 268/59,Entropy
+
 @Polearm
 76/90,Double Thrust
 76/91,Thunder Thrust
@@ -214,6 +232,7 @@
 244/59,Sonic Thrust
 256/90,Camlann's Torment
 268/60,Stardiver
+
 @Archery
 76/109,Eagle Eye Shot
 76/111,Shadowbind
@@ -229,6 +248,7 @@
 245/37,Refulgent Arrow
 256/92,Jishnu's Radiance
 269/94,Apex Arrow
+
 @Marksmanship
 76/110,Eagle Eye Shot
 76/112,Shadowbind
@@ -246,9 +266,11 @@
 242/74,Numbing Shot
 256/93,Wildfire
 270/114,Last Stand
+
 @Mannequin
 143/9,Mannequin
 153/91-92,Mannequin
+
 @Others
 68/81-82,mot_
 70/50-54;73-84,mot_
@@ -278,6 +300,7 @@
 3/8/65;98-102,mot_
 3/9/76-78,mot_
 6/0/32-33;50,mot_
+
 @NPC WS
 152/41,Amatsu: Tsukikage
 197/77,Iainuki
@@ -285,6 +308,7 @@
 199/82,Glory Slash
 204/17,Warden Of Terror
 239/54,Altair Bullet
+
 @Dancer
 191/54,Drain Samba
 191/55,Drain Samba II
@@ -304,9 +328,103 @@
 191/67,Chocobo Jig
 191/68-76,Steps
 191/77-85,Flourishes
-268/37,New samba?
+268/37,New samba
+
 @Unknown
 295/53-57, Wards?
 295/58-66, Runefencer animation type 1
 295/67-75, Runefencer animation type 2
 295/76-84, Runefencer animation type 3
+
+
+@Variations
+70/8,HumeM - Stance, Dash, Teleport Up, Falling Hammer Fist
+70/9,HumeM - Hand to the sky
+70/20,HumeM - Various Animations
+70/21,HumeM - Various Animations
+70/22,HumeM - Various Animations
+70/23,HumeM - Various Animations
+70/24,HumeM - Various Animations
+151/18,HumeM - SuperMan Punch Animation
+171/29,HumeM - Crouching Animations, Unsheathing Weapon
+171/30,HumeM - Various Animations
+173/61,HumeM - Various Animations
+180/96,HumeM - Various Animations
+184/33,HumeM - Various Animations
+184/34,HumeM - Various Animations
+184/35,HumeM - Singing Animation with hands behind back
+184/38,Dramatized Catching Animation
+184/55,HumeM - Knocked Out!
+184/57,HumeM - Various Battle Animations
+184/59,HumeM - Various Animations - Sitting Down
+187/27,HumeM - Various Animations
+187/28,HumeM - Various Animations - Knockback
+187/29,HumeM - Various Animation
+187/30,HumeM - Various Animations
+188/81,HumeM - Various Jig Animations
+188/82,HumeM - Various Animations
+188/83,HumeM - Various Animations
+189/44,HumeM - Various Animations
+189/45,HumeM - Various Animations -Epic Pose
+189/46,HumeM - Various Animations
+189/47,HumeM - Various Animations
+189/50,HumeM - Various Animations
+189/51,HumeM - Various Animations
+189/52,HumeM - Various Animations
+189/60,HumeM - Various Animation
+197/45,HumeM - Various Animations
+197/46,HumeM - Various Animations
+197/47,HumeM - Various Animations
+215/23,HumeM - Various Animations
+215/25,HumeM - Various Animations
+215/27,HumeM - Various Animations
+215/28,HumeM - Chocobo Riding Animations
+216/114,HumeM - Various Animations
+216/115,HumeM - Various Animations
+216/116,HumeM - Various Chocobo Riding Animations
+216/117,HumeM - Various Animations
+216/118,HumeM - Summersault and Various Animations
+216/119,HumeM - Various Animations
+216/120,HumeM - Dancer CS Various Animations
+216/121,HumeM - Dancer CS Various Animations
+216/122,HumeM - Mayakov Various Animations
+218/60,HumeM - Crawling Animations
+221/19,HumeM - Various Animations
+221/20,HumeM - Various Animations
+221/21,HumeM - Various Animations
+230/106,HumeM - CatWalk Various Animations
+230/107,HumeM - Totally You - Various Animations
+230/108,HumeM - Various Animations
+230/109,HumeM - Various Animations
+230/110,HumeM - Various Animations
+230/111,HumeM - Various Animations
+230/112,HumeM - Crying Animations
+293/101,HumeM - Various Slowed Animations
+293/102,HumeM - Various Animations
+293/103,HumeM - Various Animations
+293/104,HumeM - Various Animations
+293/107,HumeM - Various Animations
+293/108,HumeM - Various Animations
+332/86,HumeM - Various Animations
+332/87,HumeM - Various Animations
+332/88,HumeM - Various Animations
+332/89,HumeM - Why Gawd? Various Animations
+332/90,HumeM - Various Animations
+332/91,HumeM - Various Animations
+332/92,HumeM - Various Animations
+332/93,HumeM - Various Animations
+332/94,HumeM - Various Animations
+332/95,HumeM - Various Animations
+338/89,HumeM - Various Animations
+338/95,HumeM - Various Animations
+339/41,HumeM - Various Animations
+339/42,HumeM - Various Animations
+339/43,HumeM - Various Animations
+339/44,HumeM - Various Animations
+339/45,HumeM - Various Animations
+339/46,HumeM - Various Animations
+2/20/24,HumeM - Samurai Animation
+2/20/26,HumeM - Various Animations
+3/4/120,HumeM - Various Animations
+3/9/79,HumeM - Various Animations
+3/9/80,HumeM - Various Animations

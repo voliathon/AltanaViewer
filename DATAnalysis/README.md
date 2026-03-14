@@ -1,55 +1,71 @@
-# FFXI DAT Explorer & Rosetta Stone
+# 🔬 FFXI DAT Explorer Laboratory
 
-A suite of PowerShell tools designed to clean community-driven AltanaViewer data, cross-reference it with a local Final Fantasy XI installation, and reverse-engineer unmapped `.dat` files using hex header inspection.
+Welcome to the **DatAnalysis** suite. 
 
-## 🚀 Overview
+Final Fantasy XI contains over 100,000 `.dat` files on your local hard drive. These files have no file extensions (like `.png` or `.mp3`) and no human-readable names. Community tools like AltanaViewer rely on `.csv` lists to map these raw numerical folders (e.g., `ROM/68/76.DAT`) to visual 3D models (e.g., `Hume Male - Basic Attack`).
 
-Final Fantasy XI has over 100,000 `.dat` files organized in various `ROM` folders. Community tools like AltanaViewer map these files to 3D models and equipment using CSV lists. However, these lists are often incomplete, inconsistently formatted, or contain errors. 
+This directory contains a suite of automated Windows PowerShell scripts designed to extract, reverse-engineer, cross-reference, and map the thousands of expansion files that the community missed.
 
-This project solves that by:
-1. **Sanitizing** messy community CSV data into a clean, uniform format.
-2. **Cross-Referencing** the clean data against a local FFXI installation using high-speed Hash Tables.
-3. **Isolating** files that exist on the hard drive but are missing from AltanaViewer.
-4. **Reverse-Engineering** the unknown files by inspecting their 4-byte Hexadecimal "Magic Numbers" to categorize them.
+---
 
-## 🛠️ The Pipeline
+## ⚠️ Prerequisites
+* **Windows PowerShell 5.1:** This suite relies heavily on reading raw Hexadecimal bytes. Do **NOT** run these scripts in modern PowerShell Core (PS6+), as the way the `-Encoding Byte` command is handled was fundamentally changed and will break the hex parsers.
+* **Local FFXI Installation:** You must have the game installed on your PC. The scripts will automatically search your Windows Registry to find your installation path.
 
-### Phase 1: Data Sanitization & Local Cross-Checking (`Find-UnmappedDATs.ps1`)
-Community CSV files contain heavy shorthand and formatting quirks. This script parses the `AltanaViewer` folder, applies strict formatting rules (expanding semicolons, standardizing `ROM#/Folder/File` paths), and quarantines broken entries. It then locates the local FFXI install directory via the Windows Registry and performs an instantaneous `O(1)` Hash Table lookup against the local hard drive.
+---
 
-**Outputs:**
-* `AltanaViewer_CleanedData.txt` - The pure, verified master list.
-* `AltanaViewer_UncertainData.txt` - The quarantine list of unparsed/messy data.
-* `FFXI_Unmapped_Local_DATs.txt` - A complete list of local `.dat` files missing from AltanaViewer.
+## 📂 The Laboratory Layout (Phases 1-4)
 
-### Phase 2: Hex Signature Profiling (`SignatureReport-UnmappedDATs.ps1`)
-To identify the unmapped files without a 3D viewer, this script quietly opens every *unknown* file and extracts the first 4 bytes (the Hex Signature) using `-Encoding Byte` (Windows PowerShell 5.1 compatible). It then groups thousands of unknown files by their signature to establish foundational profiles.
+The scripts are broken down into four distinct phases. For a complete mapping run, you should progress through the folders sequentially.
 
-**Output:**
-* `FFXI_Unknown_Signatures.txt` - A breakdown of unmapped files grouped strictly by their magic numbers.
+### 📁 1_Core_Pipeline (Extraction & Verification)
+These scripts form the foundation of the laboratory. They analyze what AltanaViewer *already* knows, and scan your hard drive to find out what is missing.
 
-### Phase 3: The Rosetta Stone (`RosettaStone-UnmappedDATs.ps1`)
-The final script builds the translation matrix. It reads the 4-byte headers of *known* files mapped in Phase 1 to link signatures to AltanaViewer categories (e.g., `Head.csv`, `Main.csv`). It then cross-references the unknown signatures from Phase 2 against this dictionary, applying developer guesses and translating readable ASCII tags (like `mot_` for Motion files).
+* **`Find-UnmappedDATs.ps1`**
+  * **What it does:** Scans every `Action.csv` and `Motion.csv` in AltanaViewer's `List` folder to build a Master Hash Table of known files. It then scans your entire FFXI installation directory and subtracts the known files.
+  * **Output:** Generates `FFXI_Unmapped_Local_DATs.txt` — a massive target list of every FFXI file (~18,000+) that currently has no visual mapping.
+* **`Run-FFXIDatPipeline.ps1`**
+  * **What it does:** The master automation script. Simply run this script, and it will automatically execute `Find-UnmappedDATs.ps1` and seamlessly pass the results into the Phase 2 Hex Exploration scripts. 
 
-**Output:**
-* `FFXI_Rosetta_Signatures.txt` - A comprehensive report grouping unknown `.dat` files by their magic numbers, complete with file lists, developer guesses, and AltanaViewer category matches.
+### 📁 2_Hex_Exploration (The Detective Work)
+Because `.dat` files lack standard extensions, we must read the internal code of the files to figure out what they are.
 
-## 📋 Requirements
-* **Windows PowerShell 5.1** (Required for `-Encoding Byte` file reading).
-* A local installation of **FINAL FANTASY XI**.
-* An **AltanaViewer** folder containing the community `.csv` lists.
+* **`SignatureReport-UnmappedDATs.ps1`**
+  * **What it does:** Opens all 18,000+ unknown files and extracts their first 4 bytes (the "Magic Number"). It groups files by their signatures (e.g., `mot_` for animations, `sqle` for sound effects).
+* **`RosettaStone-UnmappedDATs.ps1`**
+  * **What it does:** Cross-references the Magic Numbers of our *unknown* files against the Magic Numbers of our *known* files to make intelligent developer guesses about what category unmapped files belong to.
+* **`Analyze-MotionHeaders.ps1`**
+  * **What it does:** Performs deep 32-byte hex inspection on known animation files to locate Byte 19. Byte 19 is the FFXI engine's "Skeleton ID" (e.g., `A0` means Humanoid, `18` means Chocobo).
+* **`Sort-MotionsBySkeleton.ps1`**
+  * **What it does:** Reads Byte 19 of every unknown animation file and groups them by their physical skeleton. This prevents the viewer from crashing or models from "exploding" when the wrong animation is applied to a model.
+* **`Profile-A0-Motions.ps1`**
+  * **What it does:** Because `A0` is a shared humanoid skeleton (used by Humes, Elvaan, Tarutaru, etc.), this script uses "Guilt by Association" folder-profiling logic to figure out exactly which race a generic `A0` animation actually belongs to.
 
-## ⚙️ Usage
+### 📁 3_Altana_Test_Blocks (The Sandbox)
+Once we have grouped unknown files together, we need to view them. These scripts generate copy-pasteable UI code for AltanaViewer.
 
-**The Automated Way (Recommended):**
-1. Place all scripts in the same folder.
-2. Run `Run-FFXIDatPipeline.ps1`.
-3. Select your `AltanaViewer` folder when prompted. The master script will sequentially execute all three phases automatically.
+* **`Generate-TestCSV.ps1`**
+  * **What it does:** Prompts you for a 4-byte Hex Signature (e.g., `6D 6F 74 5F`). It scoops up all unknown files matching that signature and formats them into an AltanaViewer-ready CSV block.
+* **`Generate-SkeletonTestCSV.ps1`**
+  * **What it does:** Prompts you for a 2-byte Skeleton ID (e.g., `A0`). It formats all unknown files matching that skeleton into an AltanaViewer-ready CSV block.
+  * **How to use:** Open the generated `AltanaViewer_AutoTest_Block.csv`, copy the contents, paste them to the bottom of any character's `Action.csv`, and launch AltanaViewer to instantly play the unknown animations.
 
-**The Manual Way:**
-If you prefer to run the tools individually, execute them in this strict order:
-1. Run `Find-UnmappedDATs.ps1`
-2. Run `SignatureReport-UnmappedDATs.ps1`
-3. Run `RosettaStone-UnmappedDATs.ps1`
+### 📁 4_XIData_Tools (The Precision Pivot)
+Rather than guessing what a file is via hex inspection, this final phase cross-references our missing files against precise JSON database dumps from the FFXI Client (provided by the `vekien/xidata` project).
 
-*(Note: If your FFXI installation cannot be found automatically via the Windows Registry, you will be prompted to select your installation folder manually during execution).*
+* **`Parse-XIDataJSON.ps1`**
+  * **What it does:** Prompts the user to select a single JSON developer database (e.g., `anims_hume_male.json`). It cross-references our master list of missing DATs against this JSON to extract the exact developer names for the missing animations.
+* **`Parse-BulkXIData.ps1`**
+  * **What it does:** The nuclear option. Prompts the user to select the entire `xidata-v2-py/data/` folder. It aggressively scans all 18,000 missing files against the entire game database in one go.
+  * **Output:** Generates `XIData_Bulk_Mapped_Results.csv`, instantly recovering and perfectly categorizing hundreds of missing armor pieces, zones, monsters, and animations into ready-to-paste UI blocks.
+
+---
+
+## 🚀 How to Run the Laboratory (Recommended Workflow)
+
+If you are starting from scratch or wish to update the viewer with new game files:
+
+1. **Extract Base Data:** Navigate to `1_Core_Pipeline` and right-click -> **Run with PowerShell** on `Run-FFXIDatPipeline.ps1`. Allow the script a few minutes to sanitize your lists and generate the hex signature reports.
+2. **Execute Bulk Recovery:** Navigate to `4_XIData_Tools` and run `Parse-BulkXIData.ps1`. Point the prompt to your local `xidata` JSON folder.
+3. **Upgrade AltanaViewer:** Open the resulting `XIData_Bulk_Mapped_Results.csv`. Copy the newly recovered, perfectly named asset blocks and paste them into their respective `.csv` files inside the root `List/` directory.
+4. **Sandbox Exploration:** If you want to manually look at files that the JSON databases couldn't identify, navigate to `3_Altana_Test_Blocks`, run the generator scripts, and paste the output into AltanaViewer to view the raw 3D geometry yourself!
