@@ -32,7 +32,7 @@
 122/85,Koenig Shield
 130/63,Acheron Shield
 155/88,Aegis
-274/39,Aegis (99)
+274/39,Aegis (119 AG)
 155/102,Genbu's Shield
 165/7,Tariqah
 165/8,Januwiyah
@@ -40,7 +40,7 @@
 215/123,Nomad Shield
 245/100,Seigneur Shield
 261/100,Ochain
-274/40,Ochain (99)
+274/40,Ochain (119 AG)
 279/0,Adamas
 284/13,Mandraguard
 288/99,Janus Guard
@@ -94,7 +94,7 @@
 60/49,Baghnakhs
 60/50,Rune Baghnakhs
 142/62,Spharai
-274/43,Spharai (99)
+274/43,Spharai (119 AG)
 149/93,Adargas
 166/94,Sainti
 170/14,Darksteel Sainti
@@ -102,12 +102,12 @@
 172/60,Black Adargas
 173/80,Hades Sainti
 206/28,Glanzfaust
-274/42,Glanzfaust (99)
+274/42,Glanzfaust (119 AG)
 206/29,Kenkonken
-280/14,Kenkonken (99)
+280/14,Kenkonken (119 AG)
 211/8,Shenlong's Baghnakhs
 242/31,Verethragna
-274/41,Verethragna (99)
+274/41,Verethragna (119 AG)
 245/103,Afflictors
 269/42,Girru
 281/26,Blutkrallen
@@ -121,7 +121,7 @@
 343/2,Godhands
 352/112,Aphelion Knuckles
 355/80,Premium Mogti
-356/18,Sharanga (su5)
+356/18,Sharanga (SU5)
 359/25,Kaja Knuckles
 360/32,Karambit
 
@@ -152,7 +152,7 @@
 117/55,Bone Knife
 118/20,Kard
 142/56,Mandau
-276/111,Mandau (99)
+276/111,Mandau (119 AG)
 142/60,Raetic Kris
 148/7,Harpe
 164/43,Jambiya
@@ -162,16 +162,16 @@
 200/64,Darksteel Jambiya
 200/65,Thug's Jambiya
 206/12,Vajra
-276/118,Vajra (99)
+276/118,Vajra (119 AG)
 206/14,Carnwenhan
-276/121,Carnwenhan (99)
+276/121,Carnwenhan (119 AG)
 206/15,Terpsichore
-276/124,Terpsichore (99)
+276/124,Terpsichore (119 AG)
 211/3,Azoth
 219/42,Ermine's Tail
 227/43,Machismo
 245/101,Twashtar
-276/125,Twashtar (99)
+276/125,Twashtar (119 AG)
 246/62,Auric Dagger
 262/16,Twilight Dagger
 265/11,Mantodea Harpe
@@ -190,7 +190,7 @@
 345/37,Sangoma
 345/38,Aeneas
 354/90,Chicken Knife II 
-357/14,Gandring (su5)
+357/14,Gandring (SU5)
 358/86,Aern Dagger
 358/123,Qutrub Dagger
 360/6,Kaja Knife
@@ -254,7 +254,7 @@
 118/10,Gluttony Sword
 118/11,Wing Sword
 142/55,Excalibur
-276/112,Excalibur (99)
+276/112,Excalibur (119 AG)
 150/120,Shotel
 164/42,Kilij
 165/9,Macuahuitl
@@ -266,16 +266,16 @@
 184/102,Hofud
 206/20,Unknown Sword
 206/21,Tizona
-276/123,Tizona (99)
+276/123,Tizona (119 AG)
 206/22,Murgleis
-276/117,Murgleis (99)
+276/117,Murgleis (119 AG)
 206/25,Burtgang
-276/119,Burtgang (99)
+276/119,Burtgang (119 AG)
 211/4,Fragarach
 211/106,Organics
 227/44,Concordia
 242/30,Almace
-276/126,Almace (99)
+276/126,Almace (119 AG)
 246/63,Tyrfing
 263/111,Sagasinger
 266/110,Ephemeron
@@ -301,11 +301,12 @@
 354/108,Blizzard Brand
 355/25,Save the Queen II
 355/118,Kam'lanaut's Sword
-357/17,Crocea Mors (su5)
-357/32,Unused Sword (su5)
+357/17,Crocea Mors (SU5)
+357/32,Unused Sword (SU5)
 358/85,Aern Sword
 360/7,Kaja Sword
 361/14,Naegling
+383/5,Kyukoto
 
 @Axe
 116/127,Bronze Axe
@@ -325,14 +326,14 @@
 117/13,Bone Pick
 117/14,Orcish Axe
 142/61,Guttler
-276/113,Guttler (99)
+276/113,Guttler (119 AG)
 145/78,Tomahawk
 171/121,Sirius Axe
 206/18,Aymur
-276/120,Aymur (99)
+276/120,Aymur (119 AG)
 211/5,Labrys
 245/102,Farsha
-276/127,Farsha (99)
+276/127,Farsha (119 AG)
 246/64,Glyph Axe
 265/9,Tonatiuh Axe
 279/105,Ark Tabar
@@ -347,7 +348,7 @@
 332/35,Blurred axe
 345/40,Tri-edge
 355/2,Demonic Axe
-357/13,Pangu (su5)
+357/13,Pangu (SU5)
 357/123,Gramk's Axe
 358/87,Aern Axe
 360/8,Kaja Axe
@@ -363,17 +364,17 @@
 118/18,Ganko
 118/19,Kunai
 142/59,Kikoku
-276/114,Kikoku (99)
+276/114,Kikoku (119 AG)
 152/20,Sai
 158/72,Hirenjaku
 171/122,Ryumon
 172/58,Hayabusa
 206/23,Nagi
-276/122,Nagi (99)
+276/122,Nagi (119 AG)
 211/7,Shusui
 211/108,Oninohocho
 247/46,Kannagi
-277/0,Kannagi (99)
+277/0,Kannagi (119 AG)
 246/65,Hochomasamune
 279/106,Ikarigiri
 304/91,Ichijintanto
@@ -383,7 +384,7 @@
 332/36,Kujaku
 288/35,Uguisu
 345/41,Heishi Shorinken
-357/15,Fudo Masamune (su5)
+357/15,Fudo Masamune (SU5)
 360/9,Kaja Katana
 361/16,Gokotai
 
@@ -438,7 +439,7 @@
 117/98,Pilgrim's Wand
 117/99,Fey Wand
 118/12,Mjollnir
-276/115,Mjollnir (99)
+276/115,Mjollnir (119 AG)
 142/57,Rune Rod
 142/58,Trial Club
 149/92,Morgenstern
@@ -449,14 +450,14 @@
 170/40,Nomad Moogle Rod
 183/114,Brass Jadagna
 206/19,Yagrush
-276/116,Yagrush (99)
+276/116,Yagrush (119 AG)
 211/6,Antares
 211/107,Flanged Mace
 218/36,Dream Bell
 220/38,Club Hammer
 221/6,Lady Bell
 242/59,Gambanteinn
-277/1,Gambanteinn (99)
+277/1,Gambanteinn (119 AG)
 246/66,Owleyes
 265/10,Tefnut Wand
 266/62,Rounsey Wand
@@ -472,8 +473,8 @@
 313/115,Red Spriggan Club
 313/116,Purple Spriggan Club
 317/23,Idris
-358/17,Idris (119)
-317/74,Kyuka uchiwa
+358/17,Idris (119 AG)
+317/74,Kyuka Uchiwa
 320/20,Nehushtan
 325/91,Leafkin bopper
 326/48,Heartbeater
@@ -485,7 +486,7 @@
 345/42,Tishtrya
 352/83,Seika Uchiwa
 353/17,Jingly Rod
-357/16,Asclepius (su5)
+357/16,Asclepius (SU5)
 357/87,Soulflayer's Wand
 358/124,Floral Hagoita
 360/10,Kaja Rod
