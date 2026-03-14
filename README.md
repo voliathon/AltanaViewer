@@ -84,6 +84,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Main.csv & Sub.csv - Added Kyukoto (Mar-14-2026)
 - All NPC.csv - Large Additions and Copyedits ordering .dats based on implementation (Mar-14-2026)
 - Action.csv - Added More Animations for HumeM, HumeF, Mithra, and Galka (Mar-14-2026)
 - Sub.csv - Mithra order was corrected based on .dat # / Release (Mar-12-2026)
