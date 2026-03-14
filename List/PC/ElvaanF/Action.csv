@@ -2,10 +2,15 @@
 46/57-62;99/20-21,Battle
 112/113-114,Dual Wield (Sub)
 112/119-120,Dual Wield (Main)
+
 @Emote
 46/75-79;123/42;138/5-7,Emote
 259/91;260/52-60,Job Emotes
+
 @General
+42/4,67 Schedules and 70 Motions
+42/5,5 Moving Animations
+42/8,69 Motions
 46/80,Logging
 90/32,Chocobo
 90/33,Fishing
@@ -14,6 +19,7 @@
 143/56;143/71,Goldfish Scooping
 197/88,Dancing
 223/93-95,Bell Ringing
+
 @Ability
 82/105-106,Steal
 82/107-108,Mug
@@ -21,6 +27,7 @@
 104/15-29,Jump
 168/38,Tomahawk
 168/39,Angon
+
 @Hand-to-Hand
 82/40,Combo
 82/41,Shoulder Tackle
@@ -37,6 +44,7 @@
 243/11,Tornado Kick
 255/92,Victory Smite
 272/50,Shijin Spiral
+
 @Dagger
 82/47,Wasp Sting
 82/48,Viper Bite
@@ -55,6 +63,7 @@
 243/12,Aeolian Edge
 257/114,Rudra's Storm
 268/108,Exenterator
+
 @Sword
 82/31,Fast Blade
 82/32,Burning Blade
@@ -76,6 +85,7 @@
 244/106,Sanguine Blade
 255/96,Chant du Cygne
 268/107,Requiescat
+
 @Club
 82/69,Shining Strike
 82/70,Seraph Strike
@@ -92,6 +102,7 @@
 243/14,Flash Nova
 257/111,Dagan
 269/80,Realmrazer
+
 @Axe
 82/55,Raging Axe
 82/56,Smash Axe
@@ -107,6 +118,7 @@
 244/103,Bora Axe
 255/93,Cloudsplitter
 269/111,Ruinator
+
 @Katana
 103/125,Blade: Rin
 103/126,Blade: Retsu
@@ -122,6 +134,7 @@
 243/17,Blade: Yu
 257/8,Blade: Hi
 271/3,Blade: Shun
+
 @G. Sword
 82/84,Hard Slash
 82/85,Power Slash
@@ -136,6 +149,7 @@
 243/16,Herculean Slash
 255/94,Torcleaver
 270/25,Resolution
+
 @Staff
 82/98,Heavy Swing
 82/99,Rock Crusher
@@ -154,6 +168,7 @@
 244/107,Cataclysm
 257/113,Myrkr
 270/26,Shattersoul
+
 @G. Axe
 82/77,Shield Break
 82/78,Iron Tempest
@@ -169,6 +184,7 @@
 243/15,Fell Cleave
 257/112,Ukko's Fury
 272/51,Upheaval
+
 @G. Katana
 104/6,Tachi: Enpi
 104/7,Tachi: Hobaku
@@ -184,6 +200,7 @@
 244/105,Tachi: Ageha
 255/95,Tachi: Fudo
 268/106,Tachi: Shoha
+
 @Scythe
 82/62,Slice
 82/63,Dark Harvest
@@ -199,6 +216,7 @@
 243/13,Infernal Scythe
 257/6,Quietus
 268/104,Entropy
+
 @Polearm
 82/91,Double Thrust
 82/92,Thunder Thrust
@@ -214,6 +232,7 @@
 244/104,Sonic Thrust
 257/7,Camlann's Torment
 268/105,Stardiver
+
 @Archery
 82/110,Eagle Eye Shot
 82/112,Shadowbind
@@ -229,6 +248,7 @@
 245/37,Refulgent Arrow
 257/9,Jishnu's Radiance
 269/112,Apex Arrow
+
 @Marksmanship
 82/111,Eagle Eye Shot
 82/113,Shadowbind
@@ -246,9 +266,11 @@
 243/18,Numbing Shot
 257/10,Wildfire
 271/4,Last Stand
+
 @Mannequin
 143/24,Mannequin
 153/124-125,Mannequin
+
 @Others
 69/88-90,mot_
 71/5-10,mot_
@@ -264,10 +286,12 @@
 213/13-22,mot_
 3/4/54-58,mot_
 3/8/93-97,mot_
+
 @NPC WS
 202/39,Prominence
 204/32,Arrow of Apathy
 204/33,Unknown WS
+
 @Dancer
 193/26,Drain Samba
 193/27,Drain Samba II
@@ -287,8 +311,9 @@
 193/39,Chocobo Jig
 139/40-48,Steps
 139/49-57,Flourishes
-268/40,New samba?
-@unknown
+268/40,New samba
+
+@Variations
 297/85-89, Wards?
 297/90-98, Runefencer animation type 1
 297/99-109, Runefencer animation type 2
