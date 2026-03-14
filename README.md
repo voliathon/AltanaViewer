@@ -84,6 +84,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Action.csv - Added More Animations for HumeM, HumeF, Mithra, and Galka (Mar-14-2026)
 - Sub.csv - Mithra order was corrected based on .dat # / Release (Mar-12-2026)
 - Sub.csv - HumeM Sub Done Entirely with a Jushimatsu fixes to Mains. (Mar-12-2026)
 - res/ - Section Added Back (Mar-12-2026)
