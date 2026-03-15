@@ -84,6 +84,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Added Chocobo Racing Section (Mar-15-2026)
 - NPC Additions - Sortie, Misc TVR, and Chaos (Mar-15-2026)
 - All Sub.csv - Fully Updated (Mar-15-2026)
 - Main.csv & Sub.csv - Added Kyukoto (Mar-14-2026)
