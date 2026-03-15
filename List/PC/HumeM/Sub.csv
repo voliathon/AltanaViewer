@@ -44,7 +44,7 @@
 278/122,Adamas
 284/7,Mandraguard
 288/93,Janus Guard
-291/46,Purple Shield
+291/46,Coalition Shield
 293/92,Leafkin Shield
 301/81,Moogle Guard
 301/82,Chocobo Shield
@@ -81,7 +81,6 @@
 374/87,Duban (Non AG)
 376/73,Duban (Stage 5)
 376/74,Ageist
-
 
 @Hand
 31/53,Avengers
@@ -208,7 +207,6 @@
 290/3,Coalition Dirk
 292/1,Izhiikoh
 308/49,Camaraderie dagger
-318/44,Jushimatsu
 319/108,Ipetam
 325/68,Rhadamanthus
 327/74,Odium
@@ -224,6 +222,7 @@
 362/77,Wind Knife
 363/6,Norgish Dagger
 363/7,Esikuva
+365/15,Infiltrator
 368/31,Gleti's Knife
 370/15,Aern Dagger II
 374/102,Mpu Gandring (Non AG)
@@ -316,17 +315,17 @@
 279/72,Sanus Ensis
 279/73,Ark Saber
 279/74,Ark Sword
-290/4,Coalition blade
+290/4,Coalition Blade
 292/2,Buramenk'ah
-308/50,Camaraderie blade 
+308/50,Camaraderie Blade 
 319/109,Claidheamh Soluis
 325/69,Acclimator
 327/73,Excalipoor
-331/99,Nibiru blade
+331/99,Nibiru Blade
 334/112,Medeina kilij
 336/126,Brilliance
 337/0,Vampirism
-341/31,Fettering blade
+341/31,Fettering Blade
 341/93,Reikiko
 344/125,Sequence
 352/4,Fermion sword
@@ -429,6 +428,7 @@
 279/76,Ikarigiri
 288/29,Uguisu
 304/73,Ichijintanto
+318/44,Jushimatsu
 319/111,Izuna
 325/70,Achiuchikapu
 331/101,Mijin
@@ -437,7 +437,7 @@
 356/113,Fudo Masamune (SU5)
 359/107,Kaja Katana
 360/114,Gokotai
-368/27,Yagyu Shortblade
+368/27,Yagyu ShortBlade
 368/30,Kunimitsu
 374/105,Dokoku (Non AG)
 376/90,Dokoku (Stage 5)
@@ -524,18 +524,18 @@
 286/59,Gobbie Gavel
 290/6,Coalition Rod
 304/75,Tamaxchi
-308/52,Camaraderie wand
+308/52,Camaraderie Wand
 310/49,Green Spriggan Club
 313/103,Red Spriggan Club
 313/104,Purple Spriggan Club
 317/17,Idris
 358/11,Idris (119 AG)
-317/68,Kyuka uchiwa
+317/68,Kyuka Uchiwa
 319/112,Nehushtan
-325/67,Leafkin bopper
+325/67,Leafkin Bopper
 326/42,Heartbeater
-331/102,Nibiru cudgel
-331/105,Blurred rod
+331/102,Nibiru Cudgel
+331/105,Blurred Rod
 336/127,Divinity
 337/1,Rubicundity
 337/2,Heartstopper

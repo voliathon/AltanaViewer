@@ -51,8 +51,8 @@
 247/19,Gandiva
 264/82,Percept Bow
 55/91,Gendawa
-273/123,Yoichinoyumi (119)
-273/127,Gandiva (119)
+273/123,Yoichinoyumi (119 AG)
+273/127,Gandiva (119 AG)
 292/100,Coalition Bow 
 307/109,Camaraderie bow
 307/110,Ajjub bow
@@ -94,10 +94,10 @@
 205/62,Death Penalty
 169/125,Darksteel Hexagun
 242/12,Armageddon
-273/122,Annihilator (119)
-273/125,Gastraphetes (119)
-273/126,Death Penalty (119)
-274/0,Armageddon (119)
+273/122,Annihilator (119 AG)
+273/125,Gastraphetes (119 AG)
+273/126,Death Penalty (119 AG)
+274/0,Armageddon (119 AG)
 303/55,Forefront Blowgun
 313/85,Decazoom Mk-XI
 319/17,Doomsday
@@ -141,9 +141,9 @@
 56/13,Cythara Anglica
 261/89,Daurdabla
 274/1,Daurdabla (99)
-328/50, Nibiru harp
-328/53, Blurred harp
+328/50,Nibiru harp
+328/53,Blurred harp
 
 @Bell
-289/79, Matre Bell
-313/86, Filiae bell
+289/79,Matre Bell
+313/86,Filiae bell
