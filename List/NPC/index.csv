@@ -1,4 +1,6 @@
 abyssea,Abyssea
+sea,Al'Taieu
+trusts,Alter Egos
 amorphs,Amorphs
 aquans,Aquans
 arcana,Arcana
@@ -8,25 +10,24 @@ beastmen,Beastmen
 beasts,Beasts
 birds,Birds
 chairs,Chairs
-creatures,Misc
 demons,Demons
 dragons,Dragons
 dynamis,Dynamis
 elementals,Elementals
-empty,Promyvion
 event,Event NPCs/Objects
-gods,Supreme Beings
 limbus,Limbus
 lizards,Lizards
-misc,Other NPCs
+creatures,Misc
 mounts,Mounts
 naakuals,Naakuals
-npcs,Story NPCs
 objects,Objects
 odyssey,Odyssey Bosses
 peculiar_foes,Peculiar Foes
 plantoids,Plantoids
-sea,Al'Taieu
-trusts,Alter Egos
+empty,Promyvion
+gods,Supreme Beings
+misc,Other NPCs
+sortie,Sortie
+npcs,Story NPCs
 undead,Undead
 vermin,Vermin
