@@ -1,6 +1,9 @@
 @None
 57/120,None
 
+@Test
+
+
 @Hand
 58/62,Avengers
 58/63,Darksteel Katars
@@ -649,7 +652,12 @@
 59/48,Chestnut Wand
 59/49,Willow Wand
 59/50,Caduceus
-59/56,Chocobo Wand (Unused)
+59/51,Chocobo Wand (Unused) #1
+59/52,Chocobo Wand (Unused) #2
+59/53,Chocobo Wand (Unused) #3
+59/54,Chocobo Wand (Unused) #4
+59/55,Chocobo Wand (Unused) #5
+59/56,Chocobo Wand (Unused) #6
 59/57,Star Rod
 59/58,Asklepios
 59/59,Curse Wand
