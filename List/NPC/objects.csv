@@ -31,20 +31,20 @@
 225/11,Red Bow
 1/240/56,Map Table
 1/240/111;5/8/92-93,Conflux
-1/249/63;1/352/116-117;3/5/24-25;3/8/2;3/9/34;4/2/59;4/2/65;4/7/127;4/8/0-14;4/8/22-31;4/8/40-54;4/8/64-69;4/8/79-87;4/8/103-107;4/9/2;4/11/118-123;4/12/5-10;4/12/20-28;4/12/44-48;4/12/63;5/8/34;5/8/53;9/2/73;9/2/83;9/2/107-108,Weapon
-261/110,Transcendental Radiance
-1/261/45-46,Wedding Misc
+1/249/63;1/352/116-117;3/5/24-25;3/8/2;3/9/34;4/2/59;4/2/65;4/7/127;4/8/0-14;4/8/22-31;4/8/40-54;4/8/64-69;4/8/79-87;4/8/103-107;4/9/2;4/11/118-123;4/12/5-10;4/12/20-28;4/12/44-48;4/1261/110,Transcendental Radiance
+261/45-46,Wedding Misc
 267/58,Provenance Crystal
-1/288/107;9/2/55;9/2/61,Waypoint
+288/107;9/2/55;9/2/61,Waypoint
 306/52,Odyssean Passage
-1/311/33;9/2/56,Boat
-1/311/39-40,Fruit Basket
+311/33;9/2/56,Boat
+311/39-40,Fruit Basket
 317/117,Harvesting Point
 317/118,Logging Point
 317/119,Excavation Point
-1/320/102,Atomos Statue
-1/321/64,Stool
-1/326/64;2/1/44,Ifrit Statue
+320/102,Atomos Statue
+321/64,Stool
+326/64;2/1/44,Ifrit Statue
+326/27,Portal on da Ground
 333/35,Undulating Confluence
 333/58,Eschan Portal #1
 1/337/33,Tenzen's Sword
@@ -52,6 +52,7 @@
 343/15,Ethereal Ingress #1
 343/19,Swirling Vortex Entrance
 2/16/14,Shadow Lord's Head
+2/63;5/8/34;5/8/53;9/2/73;9/2/83;9/2/107-108,Weapon
 3/5/27,Promyvion Structure
 3/5/28,Promyvion Thingy
 3/5/110-111,Magicite

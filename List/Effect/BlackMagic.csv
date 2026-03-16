@@ -135,7 +135,7 @@
 97/94,Absorb-STR
 97/95,Absorb-VIT
 118/117,Dispel
-119/85,Meteor
+119/85,Behemoth's Meteor
 128/92,Death
 168/0,Blind II
 168/85,Absorb-TP
@@ -164,3 +164,9 @@
 266/65,Comet
 266/66,Kaustra
 268/44,METEOR
+326/84,Fire VI
+326/85,Blizzard VI
+326/86,Aero VI
+326/87,Stone VI
+326/88,Thunder VI
+326/89,Water IV
