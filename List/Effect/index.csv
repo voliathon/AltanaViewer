@@ -7,6 +7,7 @@ Skillchain
 Ability
 Item
 BlueMagic,Blue Magic
+SummoningMagic,Summoning Magic
 Corsair
 Geomancer
 Automaton,Automaton Weapon Skills
@@ -22,3 +23,5 @@ Effect9,"Seekers of Adoulin" Effects,9
 Others,Others
 Explosions,Explosions
 HelpIdentify,HelpIdentify
+Unknown,Unknown
+Unknown Effects,Unknown Effects
