@@ -83,6 +83,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Overhaul to NPC Section & Added Effects - Easier to find stuff (Mar-17-2026)
 - Removed deprecated WS.csv & added NPC & Effects (Mar-16-2026)
 - Effect/Explosion.csv - Created (Mar-16-2026)
 - Effect.csv - Loads Added. Chocobo Clubs Sorted. Blue Magic Spells added. Backed up PC. (Mar-16-2026)
