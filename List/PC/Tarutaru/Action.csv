@@ -2,11 +2,13 @@
 51/19-24;99/55,Battle
 114/20-22,Dual Wield (Sub)
 114/29-31,Dual Wield (Main)
+
 @Emote
 51/37-41;123/51;138/52-54,Emote (Male)
 51/71-75;123/60;138/61-63,Emote (Female)
 259/94;260/75-83,Job Emotes (Male)
 259/97;260/98-106,Job Emotes (Female)
+
 @General
 51/42,Logging (Male)
 51/76,Logging (Female)
@@ -21,6 +23,7 @@
 198/32,Dancing (Female)
 223/96-98,Bell Ringing (Male)
 223/99-101,Bell Ringing (Female)
+
 @Ability
 84/101-102,Steal
 84/103-104,Mug
@@ -28,6 +31,7 @@
 105/44-58,Jump
 168/44,Tomahawk
 168/45,Angon
+
 @Hand-to-Hand
 84/36,Combo
 84/37,Shoulder Tackle
@@ -44,6 +48,8 @@
 243/35,Tornado Kick
 255/107,Victory Smite
 272/56,Shijin Spiral
+141/10,Maru Kala
+
 @Dagger
 84/43,Wasp Sting
 84/44,Viper Bite
@@ -62,6 +68,8 @@
 243/36,Aeolian Edge
 257/126,Rudra's Storm
 268/123,Exenterator
+141/11,Ruthless Stroke
+
 @Sword
 84/27,Fast Blade
 84/28,Burning Blade
@@ -83,6 +91,126 @@
 244/121,Sanguine Blade
 255/111,Chant du Cygne
 268/122,Requiescat
+141/9,Imperator
+
+@G. Sword
+84/80,Hard Slash
+84/81,Power Slash
+84/82,Frostbite
+84/83,Freezebite
+84/84,Shockwave
+84/85,Crescent Moon
+84/86,Sickle Moon
+105/20,Spinning Slash
+105/21,Ground Strike
+141/16,Scourge
+243/40,Herculean Slash
+255/109,Torcleaver
+270/31,Resolution
+141/16,Fimbulvetr
+
+@Axe
+84/51,Raging Axe
+84/52,Smash Axe
+84/53,Gale Axe
+84/54,Avalanche Axe
+84/55,Spinning Axe
+84/56,Rampage
+84/57,Calamity
+105/12,Mistral Axe
+105/13,Decimation
+141/12,Onslaught
+206/93,Primal Rend
+244/118,Bora Axe
+255/108,Cloudsplitter
+269/117,Ruinator
+141/12,Blitz
+
+@G. Axe
+84/73,Shield Break
+84/74,Iron Tempest
+84/75,Sturmwind
+84/76,Armor Break
+84/77,Keen Edge
+84/78,Weapon Break
+84/79,Raging Rush
+105/18,Full Break
+105/19,Steel Cyclone
+141/15,Metatron Torment
+208/113,King's Justice
+243/39,Fell Cleave
+257/124,Ukko's Fury
+272/57,Upheaval
+141/15,Disaster
+
+@Scythe
+84/58,Slice
+84/59,Dark Harvest
+84/60,Shadow of Death
+84/61,Nightmare Scythe
+84/62,Spinning Scythe
+84/63,Vorpal Scythe
+84/64,Guillotine
+105/14,Cross Reaper
+105/15,Spiral Hell
+141/13,Catastrophe
+208/112,Insurgency
+243/37,Infernal Scythe
+257/21,Quietus
+268/119,Entropy
+141/13,Origin
+
+@Polearm
+84/87,Double Thrust
+84/88,Thunder Thrust
+84/89,Raiden Thrust
+84/90,Leg Sweep
+84/91,Penta Thrust
+84/92,Vorpal Thrust
+84/93,Skewer
+105/22,Wheeling Thrust
+105/23,Impulse Drive
+141/17,Geirskogul
+208/114,Drakesbane
+244/119,Sonic Thrust
+257/22,Camlann's Torment
+268/120,Stardiver
+141/17,Diarmuid
+
+@Katana
+105/26,Blade: Rin
+105/27,Blade: Retsu
+105/28,Blade: Teki
+105/29,Blade: To
+105/30,Blade: Chi
+105/31,Blade: Ei
+105/32,Blade: Jin
+105/33,Blade: Ten
+105/34,Blade: Ku
+141/19,Blade: Metsu
+208/118,Blade: Kamu
+243/41,Blade: Yu
+257/23,Blade: Hi
+271/9,Blade: Shun
+141/19,Zesho Meppo
+
+@G. Katana
+105/35,Tachi: Enpi
+105/36,Tachi: Hobaku
+105/37,Tachi: Goten
+105/38,Tachi: Kagero
+105/39,Tachi: Jinpu
+105/40,Tachi: Koki
+105/41,Tachi: Yukikaze
+105/42,Tachi: Gekko
+105/43,Tachi: Kasha
+141/20,Tachi Kaiten
+208/119,Tachi: Rana
+244/120,Tachi: Ageha
+255/110,Tachi: Fudo
+268/121,Tachi: Shoha
+141/20,Tachi: Mumei
+
 @Club
 84/65,Shining Strike
 84/66,Seraph Strike
@@ -99,50 +227,8 @@
 243/38,Flash Nova
 257/123,Dagan
 269/83,Realmrazer
-@Axe
-84/51,Raging Axe
-84/52,Smash Axe
-84/53,Gale Axe
-84/54,Avalanche Axe
-84/55,Spinning Axe
-84/56,Rampage
-84/57,Calamity
-105/12,Mistral Axe
-105/13,Decimation
-141/12,Onslaught
-206/93,Primal Rend
-244/118,Bora Axe
-255/108,Cloudsplitter
-269/117,Ruinator
-@Katana
-105/26,Blade: Rin
-105/27,Blade: Retsu
-105/28,Blade: Teki
-105/29,Blade: To
-105/30,Blade: Chi
-105/31,Blade: Ei
-105/32,Blade: Jin
-105/33,Blade: Ten
-105/34,Blade: Ku
-141/19,Blade: Metsu
-208/118,Blade: Kamu
-243/41,Blade: Yu
-257/23,Blade: Hi
-271/9,Blade: Shun
-@G. Sword
-84/80,Hard Slash
-84/81,Power Slash
-84/82,Frostbite
-84/83,Freezebite
-84/84,Shockwave
-84/85,Crescent Moon
-84/86,Sickle Moon
-105/20,Spinning Slash
-105/21,Ground Strike
-141/16,Scourge
-243/40,Herculean Slash
-255/109,Torcleaver
-270/31,Resolution
+141/14,Dagda
+
 @Staff
 84/94,Heavy Swing
 84/95,Rock Crusher
@@ -161,66 +247,8 @@
 244/122,Cataclysm
 257/125,Myrkr
 270/32,Shattersoul
-@G. Axe
-84/73,Shield Break
-84/74,Iron Tempest
-84/75,Sturmwind
-84/76,Armor Break
-84/77,Keen Edge
-84/78,Weapon Break
-84/79,Raging Rush
-105/18,Full Break
-105/19,Steel Cyclone
-141/15,Metatron Torment
-208/113,King's Justice
-243/39,Fell Cleave
-257/124,Ukko's Fury
-272/57,Upheaval
-@G. Katana
-105/35,Tachi: Enpi
-105/36,Tachi: Hobaku
-105/37,Tachi: Goten
-105/38,Tachi: Kagero
-105/39,Tachi: Jinpu
-105/40,Tachi: Koki
-105/41,Tachi: Yukikaze
-105/42,Tachi: Gekko
-105/43,Tachi: Kasha
-141/20,Tachi Kaiten
-208/119,Tachi: Rana
-244/120,Tachi: Ageha
-255/110,Tachi: Fudo
-268/121,Tachi: Shoha
-@Scythe
-84/58,Slice
-84/59,Dark Harvest
-84/60,Shadow of Death
-84/61,Nightmare Scythe
-84/62,Spinning Scythe
-84/63,Vorpal Scythe
-84/64,Guillotine
-105/14,Cross Reaper
-105/15,Spiral Hell
-141/13,Catastrophe
-208/112,Insurgency
-243/37,Infernal Scythe
-257/21,Quietus
-268/119,Entropy
-@Polearm
-84/87,Double Thrust
-84/88,Thunder Thrust
-84/89,Raiden Thrust
-84/90,Leg Sweep
-84/91,Penta Thrust
-84/92,Vorpal Thrust
-84/93,Skewer
-105/22,Wheeling Thrust
-105/23,Impulse Drive
-141/17,Geirskogul
-208/114,Drakesbane
-244/119,Sonic Thrust
-257/22,Camlann's Torment
-268/120,Stardiver
+141/18,Oshala
+
 @Archery
 84/106,Eagle Eye Shot
 84/108,Shadowbind
@@ -236,6 +264,8 @@
 245/37,Refulgent Arrow
 257/24,Jishnu's Radiance
 269/118,Apex Arrow
+141/21,Sarv
+
 @Marksmanship
 84/107,Eagle Eye Shot
 84/109,Shadowbind
@@ -253,11 +283,14 @@
 243/42,Numbing Shot
 257/25,Wildfire
 271/10,Last Stand
+141/22,Terminus
+
 @Mannequin
 143/30,Mannequin (Male)
 143/34,Mannequin (Female)
 154/7-8,Mannequin (Male)
 154/13-14,Mannequin (Female)
+
 @Others
 69/113-117,mot_
 71/25-30;32-42,mot_
@@ -277,12 +310,14 @@
 4/10/22,aht_
 6/0/51,mot_
 8/0/2-3;5;9-10;12-14;16-22;47-57,mot_
+
 @NPC WS
 199/88,Tartarus Torpor
 199/89,Death Knell
 226/19,Divine Malison
 226/20,Salvation Scythe
 247/23,Quietus Sphere
+
 @Dancer
 193/102,Drain Samba
 193/103,Drain Samba II
@@ -303,8 +338,4 @@
 193/116-124,Steps
 193/125-127;194/0-5,Flourishes
 268/41,New samba?
-@unknown
-298/53-57, Wards?
-298/58-66, Runefencer animation type 1
-298/67-75, Runefencer animation type 2
-298/76-84, Runefencer animation type 3
+

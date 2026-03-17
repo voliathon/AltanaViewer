@@ -45,6 +45,7 @@
 242/115,Tornado Kick
 255/77,Victory Smite
 272/44,Shijin Spiral
+140/30,Maru Kala
 
 @Dagger
 80/48,Wasp Sting
@@ -64,6 +65,7 @@
 242/116,Aeolian Edge
 257/102,Rudra's Storm
 268/93,Exenterator
+140/31,Ruthless Stroke
 
 @Sword
 80/32,Fast Blade
@@ -85,6 +87,125 @@
 244/91,Sanguine Blade
 255/81,Chant du Cygne
 268/92,Requiescat
+140/29,Imperator
+
+@G. Sword
+80/85,Hard Slash
+80/86,Power Slash
+80/87,Frostbite
+80/88,Freezebite
+80/89,Shockwave
+80/90,Crescent Moon
+80/91,Sickle Moon
+102/90,Spinning Slash
+102/91,Ground Strike
+140/36,Scourge
+242/120,Herculean Slash
+255/79,Torcleaver
+270/19,Resolution
+140/36,Fimbulvetr
+
+@Axe
+80/56,Raging Axe
+80/57,Smash Axe
+80/58,Gale Axe
+80/59,Avalanche Axe
+80/60,Spinning Axe
+80/61,Rampage
+80/62,Calamity
+102/82,Mistral Axe
+102/83,Decimation
+140/32,Onslaught
+206/63,Primal Rend
+244/88,Bora Axe
+255/78,Cloudsplitter
+269/105,Ruinator
+140/32,Blitz
+
+@G. Axe
+80/78,Shield Break
+80/79,Iron Tempest
+80/80,Sturmwind
+80/81,Armor Break
+80/82,Keen Edge
+80/83,Weapon Break
+80/84,Raging Rush
+102/88,Full Break
+102/89,Steel Cyclone
+140/35,Metatron Torment
+208/23,King's Justice
+242/119,Fell Cleave
+257/100,Ukko's Fury
+272/45,Upheaval
+140/35,Disaster
+
+@Polearm
+80/92,Double Thrust
+80/93,Thunder Thrust
+80/94,Raiden Thrust
+80/95,Leg Sweep
+80/96,Penta Thrust
+80/97,Vorpal Thrust
+80/98,Skewer
+102/92,Wheeling Thrust
+102/93,Impulse Drive
+140/37,Geirskogul
+208/24,Drakesbane
+244/89,Sonic Thrust
+256/120,Camlann's Torment
+268/90,Stardiver
+140/37,Diarmuid
+
+@Scythe
+80/63,Slice
+80/64,Dark Harvest
+80/65,Shadow of Death
+80/66,Nightmare Scythe
+80/67,Spinning Scythe
+80/68,Vorpal Scythe
+80/69,Guillotine
+102/84,Cross Reaper
+102/85,Spiral Hell
+140/33,Catastrophe
+208/22,Insurgency
+242/117,Infernal Scythe
+256/119,Quietus
+268/89,Entropy
+140/33,Origin
+
+@Katana
+102/96,Blade: Rin
+102/97,Blade: Retsu
+102/98,Blade: Teki
+102/99,Blade: To
+102/100,Blade: Chi
+102/101,Blade: Ei
+102/102,Blade: Jin
+102/103,Blade: Ten
+102/104,Blade: Ku
+140/39,Blade: Metsu
+208/28,Blade: Kamu
+242/121,Blade: Yu
+256/121,Blade: Hi
+270/125,Blade: Shun
+140/39,Zesho Meppo
+
+@G. Katana
+102/105,Tachi: Enpi
+102/106,Tachi: Hobaku
+102/107,Tachi: Goten
+102/108,Tachi: Kagero
+102/109,Tachi: Jinpu
+102/110,Tachi: Koki
+102/111,Tachi: Yukikaze
+102/112,Tachi: Gekko
+102/113,Tachi: Kasha
+140/40,Tachi Kaiten
+208/29,Tachi: Rana
+244/90,Tachi: Ageha
+255/80,Tachi: Fudo
+268/91,Tachi: Shoha
+140/40,Tachi: Mumei
 
 @Club
 80/70,Shining Strike
@@ -102,53 +223,7 @@
 242/118,Flash Nova
 257/99,Dagan
 269/77,Realmrazer
-
-@Axe
-80/56,Raging Axe
-80/57,Smash Axe
-80/58,Gale Axe
-80/59,Avalanche Axe
-80/60,Spinning Axe
-80/61,Rampage
-80/62,Calamity
-102/82,Mistral Axe
-102/83,Decimation
-140/32,Onslaught
-206/63,Primal Rend
-244/88,Bora Axe
-255/78,Cloudsplitter
-269/105,Ruinator
-
-@Katana
-102/96,Blade: Rin
-102/97,Blade: Retsu
-102/98,Blade: Teki
-102/99,Blade: To
-102/100,Blade: Chi
-102/101,Blade: Ei
-102/102,Blade: Jin
-102/103,Blade: Ten
-102/104,Blade: Ku
-140/39,Blade: Metsu
-208/28,Blade: Kamu
-242/121,Blade: Yu
-256/121,Blade: Hi
-270/125,Blade: Shun
-
-@G. Sword
-80/85,Hard Slash
-80/86,Power Slash
-80/87,Frostbite
-80/88,Freezebite
-80/89,Shockwave
-80/90,Crescent Moon
-80/91,Sickle Moon
-102/90,Spinning Slash
-102/91,Ground Strike
-140/36,Scourge
-242/120,Herculean Slash
-255/79,Torcleaver
-270/19,Resolution
+140/34,Dagda
 
 @Staff
 80/99,Heavy Swing
@@ -168,70 +243,7 @@
 244/92,Cataclysm
 257/101,Myrkr
 270/20,Shattersoul
-
-@G. Axe
-80/78,Shield Break
-80/79,Iron Tempest
-80/80,Sturmwind
-80/81,Armor Break
-80/82,Keen Edge
-80/83,Weapon Break
-80/84,Raging Rush
-102/88,Full Break
-102/89,Steel Cyclone
-140/35,Metatron Torment
-208/23,King's Justice
-242/119,Fell Cleave
-257/100,Ukko's Fury
-272/45,Upheaval
-
-@G. Katana
-102/105,Tachi: Enpi
-102/106,Tachi: Hobaku
-102/107,Tachi: Goten
-102/108,Tachi: Kagero
-102/109,Tachi: Jinpu
-102/110,Tachi: Koki
-102/111,Tachi: Yukikaze
-102/112,Tachi: Gekko
-102/113,Tachi: Kasha
-140/40,Tachi Kaiten
-208/29,Tachi: Rana
-244/90,Tachi: Ageha
-255/80,Tachi: Fudo
-268/91,Tachi: Shoha
-
-@Scythe
-80/63,Slice
-80/64,Dark Harvest
-80/65,Shadow of Death
-80/66,Nightmare Scythe
-80/67,Spinning Scythe
-80/68,Vorpal Scythe
-80/69,Guillotine
-102/84,Cross Reaper
-102/85,Spiral Hell
-140/33,Catastrophe
-208/22,Insurgency
-242/117,Infernal Scythe
-256/119,Quietus
-268/89,Entropy
-
-@Polearm
-80/92,Double Thrust
-80/93,Thunder Thrust
-80/94,Raiden Thrust
-80/95,Leg Sweep
-80/96,Penta Thrust
-80/97,Vorpal Thrust
-80/98,Skewer
-102/92,Wheeling Thrust
-102/93,Impulse Drive
-140/37,Geirskogul
-208/24,Drakesbane
-244/89,Sonic Thrust
-256/120,Camlann's Torment
-268/90,Stardiver
+140/38,Oshala
 
 @Archery
 80/111,Eagle Eye Shot
@@ -248,6 +260,7 @@
 245/37,Refulgent Arrow
 256/122,Jishnu's Radiance
 269/106,Apex Arrow
+140/41,Sarv
 
 @Marksmanship
 80/112,Eagle Eye Shot
@@ -266,6 +279,7 @@
 242/122,Numbing Shot
 256/123,Wildfire
 270/126,Last Stand
+140/42,Terminus
 
 @Mannequin
 143/19,Mannequin

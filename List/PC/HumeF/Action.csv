@@ -2,9 +2,11 @@
 36/117-124;98/86,Battle
 110/19-22,Dual Wield (Sub)
 110/31-34,Dual Wield (Main)
+
 @Emote
 37/13-17;123/24;137/38-40,Emote
 259/85;260/6-14,Job Emotes
+
 @General
 37/18,Logging
 90/20,Chocobo
@@ -14,6 +16,7 @@
 143/50;143/69,Goldfish Scooping
 198/6,Dancing
 223/87-89,Bell Ringing
+
 @Ability
 78/110-111,Steal
 78/112-113,Mug
@@ -21,6 +24,7 @@
 101/85-99,Jump
 168/32,Tomahawk
 168/33,Angon
+
 @Hand-to-Hand
 78/45,Combo
 78/46,Shoulder Tackle
@@ -37,6 +41,8 @@
 242/91,Tornado Kick
 255/62,Victory Smite
 272/38,Shijin Spiral
+139/116,Maru Kala
+
 @Dagger
 78/52,Wasp Sting
 78/53,Viper Bite
@@ -55,6 +61,8 @@
 242/92,Aeolian Edge
 257/90,Rudra's Storm
 268/78,Exenterator
+139/117,Ruthless Stroke
+
 @Sword
 78/36,Fast Blade
 78/37,Burning Blade
@@ -76,6 +84,126 @@
 244/76,Sanguine Blade
 255/66,Chant du Cygne
 268/77,Requiescat
+139/115,Imperator
+
+@G. Sword
+78/89,Hard Slash
+78/90,Power Slash
+78/91,Frostbite
+78/92,Freezebite
+78/93,Shockwave
+78/94,Crescent Moon
+78/95,Sickle Moon
+101/61,Spinning Slash
+101/62,Ground Strike
+139/122,Scourge
+242/96,Herculean Slash
+255/64,Torcleaver
+270/13,Resolution
+139/122,Fimbulvetr
+
+@Axe
+78/60,Raging Axe
+78/61,Smash Axe
+78/62,Gale Axe
+78/63,Avalanche Axe
+78/64,Spinning Axe
+78/65,Rampage
+78/66,Calamity
+101/53,Mistral Axe
+101/54,Decimation
+139/118,Onslaught
+206/48,Primal Rend
+244/73,Bora Axe
+255/63,Cloudsplitter
+269/99,Ruinator
+139/118,Blitz
+
+@G. Axe
+78/82,Shield Break
+78/83,Iron Tempest
+78/84,Sturmwind
+78/85,Armor Break
+78/86,Keen Edge
+78/87,Weapon Break
+78/88,Raging Rush
+101/59,Full Break
+101/60,Steel Cyclone
+139/121,Metatron Torment
+207/106,King's Justice
+242/95,Fell Cleave
+257/88,Ukko's Fury
+272/39,Upheaval
+139/121,Disaster
+
+@Scythe
+78/67,Slice
+78/68,Dark Harvest
+78/69,Shadow of Death
+78/70,Nightmare Scythe
+78/71,Spinning Scythe
+78/72,Vorpal Scythe
+78/73,Guillotine
+101/55,Cross Reaper
+101/56,Spiral Hell
+139/119,Catastrophe
+207/105,Insurgency
+242/93,Infernal Scythe
+256/104,Quietus
+268/74,Entropy
+139/119,Origin
+
+@Polearm
+78/96,Double Thrust
+78/97,Thunder Thrust
+78/98,Raiden Thrust
+78/99,Leg Sweep
+78/100,Penta Thrust
+78/101,Vorpal Thrust
+78/102,Skewer
+101/63,Wheeling Thrust
+101/64,Impulse Drive
+139/123,Geirskogul
+207/107,Drakesbane
+244/74,Sonic Thrust
+256/105,Camlann's Torment
+268/75,Stardiver
+139/123,Diarmuid
+
+@Katana
+101/67,Blade: Rin
+101/68,Blade: Retsu
+101/69,Blade: Teki
+101/70,Blade: To
+101/71,Blade: Chi
+101/72,Blade: Ei
+101/73,Blade: Jin
+101/74,Blade: Ten
+101/75,Blade: Ku
+139/125,Blade: Metsu
+207/111,Blade: Kamu
+242/97,Blade: Yu
+256/106,Blade: Hi
+270/119,Blade: Shun
+139/125,Zesho Meppo
+
+@G. Katana
+101/76,Tachi: Enpi
+101/77,Tachi: Hobaku
+101/78,Tachi: Goten
+101/79,Tachi: Kagero
+101/80,Tachi: Jinpu
+101/81,Tachi: Koki
+101/82,Tachi: Yukikaze
+101/83,Tachi: Gekko
+101/84,Tachi: Kasha
+139/126,Tachi Kaiten
+207/112,Tachi: Rana
+244/75,Tachi: Ageha
+255/65,Tachi: Fudo
+268/76,Tachi: Shoha
+139/126,Tachi: Mumei
+
 @Club
 78/74,Shining Strike
 78/75,Seraph Strike
@@ -92,50 +220,8 @@
 242/94,Flash Nova
 257/87,Dagan
 269/74,Realmrazer
-@Axe
-78/60,Raging Axe
-78/61,Smash Axe
-78/62,Gale Axe
-78/63,Avalanche Axe
-78/64,Spinning Axe
-78/65,Rampage
-78/66,Calamity
-101/53,Mistral Axe
-101/54,Decimation
-139/118,Onslaught
-206/48,Primal Rend
-244/73,Bora Axe
-255/63,Cloudsplitter
-269/99,Ruinator
-@Katana
-101/67,Blade: Rin
-101/68,Blade: Retsu
-101/69,Blade: Teki
-101/70,Blade: To
-101/71,Blade: Chi
-101/72,Blade: Ei
-101/73,Blade: Jin
-101/74,Blade: Ten
-101/75,Blade: Ku
-139/125,Blade: Metsu
-207/111,Blade: Kamu
-242/97,Blade: Yu
-256/106,Blade: Hi
-270/119,Blade: Shun
-@G. Sword
-78/89,Hard Slash
-78/90,Power Slash
-78/91,Frostbite
-78/92,Freezebite
-78/93,Shockwave
-78/94,Crescent Moon
-78/95,Sickle Moon
-101/61,Spinning Slash
-101/62,Ground Strike
-139/122,Scourge
-242/96,Herculean Slash
-255/64,Torcleaver
-270/13,Resolution
+139/120,Dagda
+
 @Staff
 78/103,Heavy Swing
 78/104,Rock Crusher
@@ -154,66 +240,8 @@
 244/77,Cataclysm
 257/89,Myrkr
 270/14,Shattersoul
-@G. Axe
-78/82,Shield Break
-78/83,Iron Tempest
-78/84,Sturmwind
-78/85,Armor Break
-78/86,Keen Edge
-78/87,Weapon Break
-78/88,Raging Rush
-101/59,Full Break
-101/60,Steel Cyclone
-139/121,Metatron Torment
-207/106,King's Justice
-242/95,Fell Cleave
-257/88,Ukko's Fury
-272/39,Upheaval
-@G. Katana
-101/76,Tachi: Enpi
-101/77,Tachi: Hobaku
-101/78,Tachi: Goten
-101/79,Tachi: Kagero
-101/80,Tachi: Jinpu
-101/81,Tachi: Koki
-101/82,Tachi: Yukikaze
-101/83,Tachi: Gekko
-101/84,Tachi: Kasha
-139/126,Tachi Kaiten
-207/112,Tachi: Rana
-244/75,Tachi: Ageha
-255/65,Tachi: Fudo
-268/76,Tachi: Shoha
-@Scythe
-78/67,Slice
-78/68,Dark Harvest
-78/69,Shadow of Death
-78/70,Nightmare Scythe
-78/71,Spinning Scythe
-78/72,Vorpal Scythe
-78/73,Guillotine
-101/55,Cross Reaper
-101/56,Spiral Hell
-139/119,Catastrophe
-207/105,Insurgency
-242/93,Infernal Scythe
-256/104,Quietus
-268/74,Entropy
-@Polearm
-78/96,Double Thrust
-78/97,Thunder Thrust
-78/98,Raiden Thrust
-78/99,Leg Sweep
-78/100,Penta Thrust
-78/101,Vorpal Thrust
-78/102,Skewer
-101/63,Wheeling Thrust
-101/64,Impulse Drive
-139/123,Geirskogul
-207/107,Drakesbane
-244/74,Sonic Thrust
-256/105,Camlann's Torment
-268/75,Stardiver
+139/124,Oshala
+
 @Archery
 78/115,Eagle Eye Shot
 78/117,Shadowbind
@@ -229,6 +257,8 @@
 245/37,Refulgent Arrow
 256/107,Jishnu's Radiance
 269/100,Apex Arrow
+139/127,Sarv
+
 @Marksmanship
 78/116,Eagle Eye Shot
 78/118,Shadowbind
@@ -246,9 +276,12 @@
 242/98,Numbing Shot
 256/108,Wildfire
 270/120,Last Stand
+140/0,Terminus
+
 @Mannequin
 143/14,Mannequin
 153/102-103,Mannequin
+
 @Others
 70/93-98,mot_
 71/100,def_
@@ -269,10 +302,12 @@
 221/29-31,mot_
 3/4/79-82,mot_
 6/0/31;35-36;42-44,mot_
+
 @NPC WS
 204/21,Unknown WS
 1/218/24,Prebackhand of Red Smash
 1/308/98,Backhand of Crystal Smash
+
 @Dancer
 192/2,Drain Samba
 192/3,Drain Samba II
@@ -293,15 +328,9 @@
 192/16-24,Steps
 192/25-33,Flourishes
 268/38,New samba?
-@Unknown
-296/21-25, Wards?
-296/26-34, Runefencer animation type 1
-296/35-43, Runefencer animation type 2
-296/44-52, Runefencer animation type 3
 
 @Variations
 173/48,HumeF Variations
 173/49,HumeF Variations
 173/50,HumeF Variations
 173/65,HumeF Variations
-
