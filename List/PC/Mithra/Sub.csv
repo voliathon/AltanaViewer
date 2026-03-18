@@ -79,7 +79,8 @@
 368/71,Troth
 369/3,Twinned Shield
 372/25,Ark Shield
-376/83,Duban
+374/92,Duban (Non AG)
+376/83,Duban (Stage 5)
 376/84,Ageist
 
 @Hand
@@ -141,7 +142,13 @@
 356/17,Sharanga (SU5)
 359/24,Kaja Knuckles
 360/31,Karambit
+365/58,Dragon Fangs
+365/93,Sakpata's Fists
+371/28,Tokkosho
 374/49,Varga Purnikawa
+376/71,Varga Purnikawa (Stage 5)
+377/97,Ethereal Fists
+378/124,Dazbog's Knuckles
 
 @Dagger
 115/119,Valiant Knife
@@ -219,7 +226,8 @@
 365/20,Infiltrator
 368/76,Gleti's Knife
 370/30,Aern Dagger II
-376/112,Mpu Gandring
+374/127,Mpu Gandring (Non AG)
+376/112,Mpu Gandring (Stage 5)
 378/12,Ethereal Dagger
 380/40,Hedron Dagger
 381/26,Esoteric Athame
@@ -336,7 +344,8 @@
 369/21,Twinned Blade
 370/29,Aern Sword II
 370/86,Extinction
-376/113,Caliburnus
+375/0,Caliburnus (Non AG)
+376/113,Caliburnus (Stage 5)
 378/13,Ethereal Sword
 381/5,Macana
 383/4,Kyukoto
@@ -388,8 +397,10 @@
 361/10,Dolichenus
 361/49,Ark Tabar
 368/74,Ikenga's Axe
+368/78,Agwu's Axe
 370/31,Aern Axe II
-376/114,Spalirisos
+375/1,Spalirisos (Non AG)
+376/114,Spalirisos (Stage 5)
 378/14,Ethereal Axe
 
 @Katana
@@ -427,7 +438,8 @@
 361/11,Gokotai
 368/72,Yagyu ShortBlade
 368/75,Kunimitsu
-376/115,Dokoku
+375/2,Dokoku (Non AG)
+376/115,Dokoku (Stage 5)
 378/15,Ethereal Katana
 
 @Club
@@ -542,7 +554,16 @@
 370/98,Thunder Hammer
 371/3,Apkallu Scepter
 371/81,Tengu War Fan
-376/116,Lorg Mor
+371/95,Feline Hagoita
+371/126,TVR Rod?
+372/49,Citrullus Mallet
+372/70,Korrigan Mallet
+372/71,Adenium Mallet
+372/110,Lycopodium Mallet
+372/111,Chac-Chacs
+373/5,Summer Uchiwa
+375/3,Lorg Mor (Non AG)
+376/116,Lorg Mor (Stage 5)
 378/16,Ethereal Club
 380/24,Arthro's Scepter
 385/7,Budrod
