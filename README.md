@@ -83,6 +83,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Missing Weapons and Effects Added (Mar-18-2026)
 - Action.csv - Added Prime WS/Organized. Added NPCs. Added Missing Base Map (Mar-17-2026)
 - Loads of Wicked Effects and NPC added (Mar-17-2026)
 - Overhaul to NPC Section & Added Effects - Easier to find stuff (Mar-17-2026)
