@@ -73,13 +73,13 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 [AltanaListener](https://github.com/voliathon/AltanaListener) was created to address this problem and do a better job.
 
 ## Current Work and Road map
-* [WIP] Add missing Ranged Weapons and Instruments
-* [WIP] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, and more.
+* [WIP] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
 * [WIP] Identify missings Effects. This includes spells and prime weaponskills
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
 * [COMPLETED] Figured out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
 * [COMPLETED] All Main Weapons added up to March-10-2026
 * [COMPLETED] All Sub Weapons and Shields added up to March-10-2026
+* [COMPLETED] All Ranged Weapons and Instruments added up to March-10-2026
 
 ## 2026 Change Log
 <!-- START_LOG -->

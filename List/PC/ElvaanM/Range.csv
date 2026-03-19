@@ -9,10 +9,10 @@
 41/30,Moonring Blade
 41/31,Grenade
 41/32,Juji Shuriken
-150/8,Fuma Shuriken
 148/111,Throwing Tomahawk
 148/112,Angon
-324/90, Leafkin grenade
+150/8,Fuma Shuriken
+324/90,Leafkin Grenade
 362/94,Grudge
 
 @Archery
@@ -22,7 +22,7 @@
 41/36,Great Bow
 41/37,Battle Bow
 41/38,Power Bow
-41/39,Longbow
+41/39,LongBow
 41/40,Rapid Bow
 41/41,Unknown Bow 1
 41/42,Self Bow
@@ -35,30 +35,34 @@
 41/49,Hunting Bow
 41/50,Composite Bow
 41/51,Unknown Bow 3
-41/52,Shortbow
+41/52,ShortBow
 41/53,Rune Bow
 120/99,Shigeto Bow
 144/54,Yoichinoyumi
-273/87,Yoichinoyumi (99)
 166/121,Lamian Kaman
-247/13,Gandiva
-273/91,Gandiva (99)
 245/59,Siege Bow
+247/13,Gandiva
 264/79,Percept Bow
+273/87,Yoichinoyumi (119 AG)
+273/91,Gandiva (119 AG)
 282/104,Unknown Bow 4
-292/100, Coalition Bow
-319/4, Phaosphaelia
-328/24, Nibiru bow
-328/27, Blurred bow
-341/0, Venery bow
-342/105, Fail-Not
-307/103, Camaraderie bow
-307/104, Ajjub bow
-355/126,Bow (su5)
+292/100,Coalition Bow
+307/103,Camaraderie Bow
+307/104,Ajjub Bow
+319/4,Phaosphaelia
+328/24,Nibiru Bow
+328/27,Blurred Bow
+341/0,Venery Bow
+342/105,Fail-Not
+355/126,Bow (SU5)
 357/39,Mizukage-no-yumi
 359/5,Artemis Bow
 359/6,Unused Ambu Bow
 360/17,Unused Ambu Bow
+365/71,Mpaca's Bow
+374/23,Pinaka
+376/47,Pinaka (Stage 5)
+377/78,Ethereal Bow
 
 @Gun
 41/54,Heavy Crossbow
@@ -75,26 +79,31 @@
 41/65,Culverin
 137/84,Coffinmaker
 144/53,Annihilator
-273/86,Annihilator (99)
 163/113,Hexagun
 169/116,Darksteel Hexagun
 183/78,Unknown Hexagun
 200/7,Silver Cassandra
-205/0,Gastraphetes
-273/89,Gastraphetes (99)
 204/127,Death Penalty
-273/90,Death Penalty (99)
+205/0,Gastraphetes
 210/38,Unknown Gun
 241/125,Armageddon
-273/92,Armageddon (99)
-303/46, Forefront Blowgun
-313/79, Decazoom Mk-XI
-319/5, Doomsday
-328/25, Nibiru gun
-328/28, Blurred crossbow
-342/106, Fomalhaut
-355/127,Sharanga (su5)
+273/86,Annihilator (119 AG)
+273/89,Gastraphetes (119 AG)
+273/90,Death Penalty (119 AG)
+273/92,Armageddon (119 AG)
+303/46,Forefront Blowgun
+313/79,Decazoom Mk-XI
+319/5,Doomsday
+328/25,Nibiru Gun
+328/28,Blurred crossbow
+342/106,Fomalhaut
+355/127,Sharanga (SU5)
 358/20,Troll Gun
+365/69,Silver Gun
+365/70,Gleti's CrossBow
+374/24,Earp
+376/48,Earp (Stage 5)
+377/79,Ethereal Gun
 
 @Wind
 41/66,Traversiere
@@ -108,10 +117,12 @@
 137/85,Gjallarhorn
 273/88,Gjallarhorn (99)
 280/111,Unknown Horn
-303/45, Forefront Flute
-319/6, Linos
-342/107, Marsyas
+303/45,Forefront Flute
+319/6,Linos
+342/107,Marsyas
 361/64,Marvelous Cheer
+374/25,Loughnashade
+376/49,Loughnashade (Stage 5)
 
 @String
 41/74,Ebony Harp
@@ -126,9 +137,9 @@
 41/83,Cythara Anglica
 261/77,Daurdabla
 273/93,Daurdabla (99)
-328/26, Nibiru harp
-328/29, Blurred harp
+328/26,Nibiru Harp
+328/29,Blurred Harp
 
 @Bell
-289/76, Matre Bell
-313/80, Filiae bell
+289/76,Matre Bell
+313/80,Filiae bell

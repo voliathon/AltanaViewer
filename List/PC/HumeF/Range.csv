@@ -9,10 +9,10 @@
 36/63,Moonring Blade
 36/64,Grenade
 36/65,Juji Shuriken
-150/7,Fuma Shuriken
 148/109,Throwing Tomahawk
 148/110,Angon
-324/89,Leafkin grenade
+150/7,Fuma Shuriken
+324/89,Leafkin Grenade
 362/93,Grudge
 
 @Archery
@@ -22,7 +22,7 @@
 36/69,Great Bow
 36/70,Battle Bow
 36/71,Power Bow
-36/72,Longbow
+36/72,LongBow
 36/73,Rapid Bow
 36/74,Unknown Bow 1
 36/75,Self Bow
@@ -35,30 +35,34 @@
 36/82,Hunting Bow
 36/83,Composite Bow
 36/84,Unknown Bow 3
-36/85,Shortbow
+36/85,ShortBow
 36/86,Rune Bow
 120/54,Shigeto Bow
 144/18,Yoichinoyumi
-273/75,Yoichinoyumi (119 AG)
 166/120,Lamian Kaman
-247/11,Gandiva
-273/79,Gandiva (119 AG)
 245/55,Siege Bow
+247/11,Gandiva
 264/78,Percept Bow
+273/75,Yoichinoyumi (119 AG)
+273/79,Gandiva (119 AG)
 282/103,Unknown Bow 4
 292/100,Coalition Bow
+307/101,Camaraderie Bow
+307/102,Ajjub Bow
 319/0,Phaosphaelia
-328/16,Nibiru bow
-328/19,Blurred bow
-340/126,Venery bow
+328/16,Nibiru Bow
+328/19,Blurred Bow
+340/126,Venery Bow
 342/101,Fail-Not
-307/101,Camaraderie bow
-307/102,Ajjub bow
 355/123,Bow-No-Name (SU5)
 357/38,Mizukage-no-yumi
 359/2,Artemis Bow
 359/3,Unused Ambu Bow
 360/15,Unused Ambu Bow
+365/67,Mpaca's Bow
+374/19,Pinaka
+376/43,Pinaka (Stage 5)
+377/75,Ethereal Bow
 
 @Gun
 36/87,Heavy Crossbow
@@ -75,26 +79,31 @@
 36/98,Culverin
 137/36,Coffinmaker
 144/17,Annihilator
-273/74,Annihilator (119 AG)
 163/107,Hexagun
 169/113,Darksteel Hexagun
 183/74,Unknown Hexagun
 199/127,Silver Cassandra
-204/107,Gastraphetes
-273/77,Gastraphetes (119 AG)
 204/106,Death Penalty
-273/78,Death Penalty (119 AG)
+204/107,Gastraphetes
 210/24,Unknown Gun
 241/120,Armageddon
+273/74,Annihilator (119 AG)
+273/77,Gastraphetes (119 AG)
+273/78,Death Penalty (119 AG)
 273/80,Armageddon (119 AG)
 303/43,Forefront Blowgun
 313/77,Decazoom Mk-XI
 319/1,Doomsday
-328/17,Nibiru gun
-328/20,Blurred crossbow
+328/17,Nibiru Gun
+328/20,Blurred Crossbow
 342/102,Fomalhaut
 355/124,Sharanga (SU5)
 358/19,Troll Gun
+365/65,Silver Gun
+365/66,Gleti's CrossBow
+374/20,Earp
+376/44,Earp (Stage 5)
+377/76,Ethereal Gun
 
 @Wind
 36/99,Traversiere
@@ -112,6 +121,8 @@
 319/2,Linos
 342/103,Marsyas
 361/63,Marvelous Cheer
+374/21,Loughnashade
+376/45,Loughnashade (Stage 5)
 
 @String
 36/107,Ebony Harp
@@ -126,8 +137,8 @@
 36/116,Cythara Anglica
 261/73,Daurdabla
 273/81,Daurdabla (99)
-328/18,Nibiru harp
-328/21,Blurred harp
+328/18,Nibiru Harp
+328/21,Blurred Harp
 
 @Bell
 289/75,Matre Bell
