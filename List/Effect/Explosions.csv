@@ -8,6 +8,7 @@
 1/302/20,Thunderball Explosion
 1/302/21,Electrical Poof
 1/302/22,Multi-Colored Electrical Storm
+1/304/108,Battlefield Aura
 1/307/95,Heart Explosion (Teodor)
 1/310/110,Some kinda light attack?
 1/310/111,Some kinda light attack?
@@ -29,6 +30,7 @@
 1/322/117,Purple Green Red Aura
 1/322/124,Bright Eye on the Ground (Teodor)
 1/322/126,Crazy Snow Effect
+
 
 1/323/0,Green Flames (Teodor)
 1/323/2,Ra'Kaznar Inner Court Teleporter
@@ -113,7 +115,6 @@
 345/117-126;350/42;350/79-83,Cloud of Darkness Animation
 
 
-
 4/2/28,Red Star Animation
 4/2/29,Shiny Star Animation
 4/2/30,Green Star Animation
@@ -151,3 +152,5 @@
 8/0/33,Magical Piece of Paper
 8/0/36,Purple and Red Gateways
 8/0/37,Massive Explosions
+
+9/2/122-127,Light Attacks

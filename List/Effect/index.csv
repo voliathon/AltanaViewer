@@ -1,17 +1,22 @@
-ChocoboRacing, Chocobo Racing
-WhiteMagic,White Magic
-BlackMagic,Black Magic
-Ninjutsu
-Song
-Skillchain
 Ability
-Item
-BlueMagic,Blue Magic
-SummoningMagic,Summoning Magic
-Corsair
-Geomancer
-RuneFencer, Rune Fencer
 Automaton,Automaton Weapon Skills
+BlackMagic,Black Magic
+BlueMagic,Blue Magic
+ChocoboRacing, Chocobo Racing
+Corsair
+Explosions,Explosions
+Geomancer
+HelpIdentify,HelpIdentify
+Item
+Ninjutsu
+Others,Others
+RuneFencer, Rune Fencer
+Skillchain
+Song
+SummoningMagic,Summoning Magic
+Unknown,Unknown
+Unknown Effects,Unknown Effects
+WhiteMagic,White Magic
 Effect1,"Final Fantasy XI" Effects
 Effect2,"Rise of the Zilart" Effects,2
 Effect3,"Chains of Promathia" Effects,3
@@ -21,8 +26,3 @@ Effect6,"A Crystalline Prophecy" Effects,6
 Effect7,"A Moogle Kupo d'Etat" Effects,7
 Effect8,"A Shantotto Ascension" Effects,8
 Effect9,"Seekers of Adoulin" Effects,9
-Others,Others
-Explosions,Explosions
-HelpIdentify,HelpIdentify
-Unknown,Unknown
-Unknown Effects,Unknown Effects

@@ -33,6 +33,7 @@
 1/240/56,Map Table
 1/240/111;5/8/92-93,Conflux
 261/45-46,Wedding Misc
+1/263/55,Rising Portal
 267/58,Provenance Crystal
 288/107;9/2/55;9/2/61,Waypoint
 306/52,Odyssean Passage
@@ -53,7 +54,10 @@
 334/2,Floating Handbell
 343/15,Ethereal Ingress #1
 343/19,Swirling Vortex Entrance
+1/345/47-110, Battlefield Memories
 1/370/88,White Levin (Glow Effects)
+1/372/96,Velkk Evil Book
+
 2/16/14,Shadow Lord's Head
 2/63;5/8/34;5/8/53;9/2/73;9/2/83;9/2/107-108,Weapon
 3/5/27,P1yvion Structure
@@ -61,13 +65,16 @@
 3/5/110-111,Magicite
 3/8/29,Wyrmking Binding
 3/29,Telepoint
+
 4/1/107;4/1/109,Lamp
 4/1/108,Assault Clear
+4/1/117,Walahra Temple-Gordeus flaots
 4/1/118;9/2/70,Painting
 4/1/119,Astral Candescence
 4/1/121-122,Alexander Projection
 4/1/123;9/2/88,Bed
 4/1/124,Portable Chest
+4/1/125,Warhorse Hoofprint
 4/2/19,Tongue
 4/2/25-27,Archaic Mirror
 4/2/54,Weapon: Algol
@@ -80,11 +87,17 @@
 5/8/76,Helm
 5/8/81-84,Campaign Banners
 5/8/85;5/8/87;5/8/91;5/8/100,Campaign Banner
+5/8/86,Top of Aht Urghan Teleporter
+5/8/88,Top of Beastmen Teleporter
+5/8/89,Swirling Vortex
 5/8/90,Ethereal Spout
 5/8/98-99,Biouvac
+5/8/113,Assault Gates
+
 6/0/12,Crystal
 6/0/18,Seed Fragment
 9/1/76,Random Animations
+9/1/107,Butterflys (Skirmish)
 9/2/47-48;9/2/76;9/2/101,Plant
 9/2/49,Rock
 9/2/50,Tent
@@ -94,17 +107,23 @@
 9/2/58,Chair
 9/2/59,Raft
 9/2/60,Tree
+9/2/62,Glass of Wine
 9/2/63-64,Goblet
+9/2/65,Basket of Tomatoes
+9/2/67,Swirling Vortex
+9/2/71,Tiny Dark-Green Bulb
 9/2/74,Geomancers Helmet
+9/2/75,Bell laying on the Ground
 9/2/78,Giant Rafflesia
 9/2/79,Wooden Bench
 9/2/80,Mineral
+9/2/81,Regular Book on Hinge
 9/2/84,Pendant
 9/2/85,Banner
 9/2/89,Arciela's Bonnet
 9/2/90-94,Gargouille Statue
 9/2/95-96;9/2/98-99;9/2/102;9/2/106,Ra'Kaznar Structures
+9/2/97,Floating Ra'Kaznar Cat's Eye
 9/2/103-104,Misc
 9/2/109,Arciela's Skirt
 9/2/110-111,Balmora's Pole
-

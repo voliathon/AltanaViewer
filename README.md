@@ -2,23 +2,35 @@
   <img src="./AltanaViewerOrig.png" alt="Altana Viewer" width="800">
 </p>
 
-AltanaViewer is a dedicated 3D model and asset viewer for Final Fantasy XI (FFXI). It allows users to explore the game's extensive catalog of player characters, monsters, equipment, animations, and visual effects outside of the game client.
+<br>
 
-## Features
+AltanaViewer is a dedicated 3D model and asset viewer for **Final Fantasy XI (FFXI)**. It allows users to explore the game's extensive catalog of player characters, monsters, equipment, animations, and visual effects outside of the game client.
+
+---
+
+## ✨ Features
 
 * **Player Character Viewer:** View all playable races (Hume, Elvaan, Tarutaru, Mithra, and Galka).
+<br>
 * **Equipment Dressing:** Mix and match armor, weapons, and accessories across all visual equipment slots (Head, Body, Hands, Legs, Feet, Main, Sub).
+<br>
 * **NPC & Monster Bestiary:** Browse through the game's vast array of enemies and NPCs, categorized by ecosystem family (e.g., Aquans, Beastmen, Dragons) and expansion content.
+<br>
 * **Animation & Effects Playback:** View weapon skills, magic casting effects (White Magic, Black Magic, Ninjutsu, etc.), and standard character motions.
+<br>
 * **Asset Mapping:** Comprehensive CSV lists that map raw game DAT files to human-readable names.
 
-## History & Origins
+---
+
+## 📜 History & Origins
 
 The original Altana Viewer was created around 2006 by an anonymous Japanese developer (often associated with the copyright "Tiamat"). It was built upon the foundation of an older Japanese model viewer known as `FFXITool`. Both programs were unique at the time for being able to decipher and play back FFXI's complex effect animations.
 
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
-## Directory Structure
+---
+
+## 📂 Directory Structure
 
 The repository is organized to neatly categorize the massive amount of FFXI game data:
 
@@ -32,18 +44,23 @@ The repository is organized to neatly categorize the massive amount of FFXI game
   * `PC/` - Player character models, separated by race, gender, and equipment slots.
 * `res/` - Resource text files containing deeper configurations for animations and sound effects.
 
-## Usage
+---
+
+## 🚀 Usage
 
 1. Ensure you have Final Fantasy XI installed on your system, as the viewer requires the game's local DAT files to render models.
 2. Run `AltanaView.exe`.
 3. Use the application's interface to navigate through the PC, NPC, or Effect lists to load and view the desired assets.
 
+<br>
+
 ### 🎵 A Note on Music Playback
 
-You may have noticed that the built-in audio player in AltanaViewer can be buggy or unstable. Because AltanaViewer was built primarily as a 3D model viewer, optimizing the audio engine was difficult. 
+> You may have noticed that the built-in audio player in AltanaViewer can be buggy or unstable. Because AltanaViewer was built primarily as a 3D model viewer, optimizing the audio engine was difficult. 
+> 
+> **If you are looking to listen to the FFXI soundtrack, I highly recommend downloading my new, dedicated tool: [AltanaListener](https://github.com/voliathon/AltanaListener).** AltanaListener is a completely open-source, highly stable audio player built from the ground up specifically for FFXI `.bgw` files, featuring custom playlists, favorites, and WAV file exporting!
 
-**If you are looking to listen to the FFXI soundtrack, I highly recommend downloading my new, dedicated tool: [AltanaListener](https://github.com/voliathon/AltanaListener).** AltanaListener is a completely open-source, highly stable audio player built from the ground up specifically for FFXI `.bgw` files, featuring custom playlists, favorites, and WAV file exporting!
-
+<br>
 
 ### 🧠 Understanding the Animation Engine: Action.csv vs. Motion.csv
 
@@ -59,9 +76,11 @@ This file is invisible to the user. It teaches the 3D engine how to *chain* anim
 * *Format:* `[Start Block], [Next Block]` (e.g., `56/14-22, 56/23-40`)
 * Final Fantasy XI rarely uses one file for a continuous movement. Drawing a weapon involves a transition animation, followed by an infinite idle loop. `Motion.csv` tells the engine: *"As soon as the animation block 56/14-22 finishes, seamlessly transition into the loop block 56/23-40."*
 
-**The "Test" Override:** If you want to view a hidden engine animation from `Motion.csv` in the actual UI, you can append a name to it (e.g., `209/39,test #244`). This forces AltanaViewer to bypass the chaining logic and expose the raw file directly in the Action dropdown.
+> **The "Test" Override:** If you want to view a hidden engine animation from `Motion.csv` in the actual UI, you can append a name to it (e.g., `209/39,test #244`). This forces AltanaViewer to bypass the chaining logic and expose the raw file directly in the Action dropdown.
 
-## 🎵 The Missing Music: Why Post-Promathia Audio Fails
+<br>
+
+### 🔇 The Missing Music: Why Post-Promathia Audio Fails
 
 **Notice:** You may notice that music from the Original game, *Rise of the Zilart*, and *Chains of Promathia* plays perfectly, but tracks from *Treasures of Aht Urhgan* (`sound4`) and beyond result in silence.
 
@@ -72,9 +91,11 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 [AltanaListener](https://github.com/voliathon/AltanaListener) was created to address this problem and do a better job.
 
+---
+
 ## Current Work and Road map
 * [WIP] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
-* [WIP] Identify missings Effects. This includes spells and prime weaponskills
+* [WIP] Identify missings Effects. This includes spells
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
 * [COMPLETED] Figured out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
 * [COMPLETED] All Main Weapons added up to March-10-2026
@@ -83,7 +104,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- All Ranged to 2026 Added. Added Black Magic. Added Mystery Weapons. Added Explosions! Added More NPC. (Mar-19-2026)
+- All Ranged/Instruments to Present. Added Black Magic, Mystery Weapons, Explosions, More NPC. (Mar-19-2026)
 - Missing Weapons and Effects Added (Mar-18-2026)
 - Action.csv - Added Prime WS/Organized. Added NPCs. Added Missing Base Map (Mar-17-2026)
 - Loads of Wicked Effects and NPC added (Mar-17-2026)
