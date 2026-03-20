@@ -104,6 +104,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- All Cutscene Artwork Added for The Voracious Resurgence (Mar-20-2026)
 - Added more missing Monsters/NPC. Sortie Section. Sinister Reign Section. More rare NPC. Rare Tutorial Images. More Scholar Abilities (Mar-20-2026)
 - All Ranged/Instruments to Present. Added Black Magic, Mystery Weapons, Explosions, More NPC. (Mar-19-2026)
 - Missing Weapons and Effects Added (Mar-18-2026)
