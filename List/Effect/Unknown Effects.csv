@@ -99,6 +99,8 @@
 181/101,
 181/99,
 
+
+
 197/124,
 197/126-127,
 197/101-102,
@@ -262,16 +264,18 @@
 265/35;266/70;266/111-113, July 11th Update 2011
 
 1/287/44,
+1/288/114
 
 213/91;288/73-78;345/43,Acid Stuff
+
+289/2-30;42-55, 
 
 1/307/89,ing_
 1/311/102,ing_
 1/311/68,ing_
 1/311/70,ing_
 1/311/71,ing_
-1/326/62,ing_
-1/326/63,ing_
+
 
 1/308/125,
 1/313/23
@@ -317,8 +321,10 @@
 1/323/72
 1/323/74
 1/324/87
-
+1/326/62,ing_
+1/326/63,ing_
 1/326/109,
+1/328/1
 1/337/42
 1/338/13
 1/338/61
@@ -332,12 +338,26 @@
 1/350/53
 1/350/84
 
-
-
 1/353/32
 1/353/33
 1/353/36
 1/363/80-96,Small Boom
+
+1/370/40,Casting Squares
+1/371/13,Bubble Attack
+1/371/15,Cross Fun
+1/376/3,Displaced Explosion
+1/376/4,Displaced Portal Explosion
+1/378/92,Exploding Portal
+1/378/95,Fireworks Explosion
+1/378/98,Thin Teleporter
+
+4/6/17,Sticks go Poof
+4/6/18,Minerals go Poof
+4/6/19,Minerals go Poof
+4/6/20,Minerals go Poof
+4/6/22,Smawl Wind Viberation
+4/6/23,Directiona Light-Green Slap
 4/7/33
 4/7/34
 4/7/35
@@ -347,10 +367,69 @@
 4/7/41
 4/7/42
 4/7/43
+4/6/24,AOE Charm
+4/6/49,Water Vanish
+4/6/56,Assault Lights
+4/6/57,Assault Exit
+4/7/59,Physical Claws Multi-Hit
+4/7/65,Water Spout
+4/7/66,Directional Attack Thud
+4/7/67,Rising Water Spout Attack
 
+5/9/55,Thick Rock Kicked
+5/9/59,Ground Smash
 
 9/1/76,Random Animations
 
+9/3/100,Comet Crash
+9/3/101,Multi-Colored Orb
+9/3/105,Comet Hits the Ground
+9/3/6,Swirl Attack
+9/3/65,Wind Attacks
+9/3/66,Wind Attacks
+9/3/67,AOE Spikes
+9/3/68,Sonic Booms
+9/3/69,Super Sonic Boom
+9/3/7,Multi-Wind Attack
+9/3/70,White Orb Spike Attack
+9/3/71,Wind and Light Attack
+9/3/72,Wind Needle Attack
+9/3/73,Darkness Needle Attack
+9/3/74,Blud Attacks
+9/3/75,PowPow
+9/3/76,Small Darkness Attack
+9/3/77,Gravitational Fire
+9/3/78,FirePowPowPow
+9/3/79,Fire Foot
+9/3/8,Fire Sparkle Dizzy Mist
+9/3/80,Firy Wind AOE
+9/3/81,Gravitational Fire Pow
+9/3/82,Fire Poof Inferno
+9/3/83,Fire Poof
+9/3/9,Red Orb Poof
+9/3/95,AOE Mist
+9/3/96,AOE Poison Mist
+9/3/97,Light Fizzle
+
+9/7/100,Light-Dust Attack
+9/7/101,Green Venom Burst
+9/7/102,Red Directional Slug Attack
+9/7/103,Red Directional Slug Attack
+9/7/105,Random Physical Attacks
+9/7/106,Purple Swoosh
+9/7/107,Cracklaw Defence Up
+9/7/108,Water Bubbly Guiser
+9/7/109,Bubbles Swoosh
+9/7/110,Bubble AOE
+9/7/111,DeepWater AOE
+9/7/112,Cracklaw Claws
+9/7/113,Darkness Bubbles Bloop
+9/7/114,Darkness Mist
+9/7/115,Darkness Water Bloops
+9/7/116,Slug Directional AOE
+9/7/117,Poison Directional AOE
+9/7/118,Full Purple AOE Poison
+9/7/119,Full Red AOE Poison
 9/7/120,sam_
 9/7/121,sam_
 9/7/122,sam_
@@ -359,4 +438,30 @@
 9/7/125,sam_
 9/7/126,sam_
 9/7/127,sam_ swelling water attack
+9/7/82,Wind Square Thingy
+9/7/83,Wind Smash
+9/7/84,Four-Pows
+9/7/85,Scadoosh
+9/7/86,Up then Down Attack
+9/7/87,AOE Vine Attack
+9/7/88,AOE Poison Vine Attack
+9/7/89,Internal Stone Combustion
+9/7/90,The Magical Vine Attack
+9/7/91,Ygnas(Vine) AOE Healing
+9/7/92,Ygnas(Vine) AOE Healing
+9/7/93,Plant Explosion
+9/7/94,Camp Fire Got Away
+9/7/95,Red Pew!
+9/7/96,Four Red Pews
+9/7/97,Downwards Red Pew
+9/7/98,Directional Red Wind Pew
+9/7/99,Fireworks Bangs
+9/8/0,Directional Water Torrent
+9/8/1,Smawl Light Poof
+9/8/4,Light Purple Poof
+9/8/5,Smawl Mole Attacks
+9/8/6,AOE Cool Lights
+9/8/7,Leaf Animation Attack!
+9/8/8,AOE Green Super Pops
+9/8/9,Leafy Poison AOE Animation Poisons
 

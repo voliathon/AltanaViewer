@@ -36,7 +36,10 @@
 1/156/32,Selh'teus
 1/156/25;3/5/112;1/261/57;1/341/101;1/346/52;3/3/94;3/5/117;3/8/28,Prishe
 1/191/3,Laila
+1/123/7,Eald'narche
+1/123/8,Eald'narche Exoplates
 1/238/59;5/7/34;5/8/60,Lady Lilith
+1/240/110,Black Portal
 1/241/94;5/7/25;5/8/23,Volker (S)
 1/259/36,Portia
 1/259/81,Degenhard
@@ -62,19 +65,31 @@
 1/328/77;1/335/84;1/343/3;1/343/4;1/343/16,Iroha
 1/341/111;8/0/1;8/0/0;8/0/63,Shantotto
 1/363/109,Mandragora Assistant
+1/369/6-7,Prince Trion (TVR)
 1/364/99,Magh Bihu
 1/371/115,Magh Bihu
 1/371/118,Magh Bihu
+1/372/59,Maat on the Warpath
 1/373/55,Volker
 1/373/56,Zeid
+1/377/107,Luzaf with Ethereal Sword + Ethereal Dagger + Ethereal Gun
+1/377/108,Garazu-Horeizu
+1/377/109,Medada
+1/377/110,Portia with Ethereal Fists
+1/377/111,Sir Ragelise with Ethereal Sword
+1/377/112,Lehko Habhoka with Ethereal Dagger
+1/377/113,Fickblix with Ethereal Gun
+
 2/0/52,Jakoh Wahcondalo
 2/16/12;3/8/20,Illisory
 2/16/13;3/8/21,Grav'iton
+
 3/0/63,Cherukiki
 3/0/64,Kukki-Chebukki
 3/3/95;1/152/61;1/156/50;1/342/3,Selt'heus
 3/3/96,Despachiaire
 3/5/106;1/261/56,Mildaurion
+
 4/2/6;4/2/24;4/2/58,Naja Salaheem
 4/2/7;4/2/61,Razfahd
 4/2/8,Gessho
@@ -83,6 +98,7 @@
 4/2/13,Qultada
 4/2/15,Ovjang (Alternate)
 4/2/53,Liliroon
+
 5/7/16-17,The Shadow Lord (S)
 5/7/35,Lilith Ascended
 5/8/21,Perih Vashai (S)
@@ -99,7 +115,9 @@
 5/8/67,Noillurie
 5/8/70,Larzos
 5/8/75,Nhev Befrathi
+
 6/0/11,Young Aldo
+
 9/1/15;9/2/1,Rosulatia
 9/1/35;9/2/12,Sajj'aka
 9/1/62;9/2/8;9/2/16;9/2/22;9/2/24,Darrcuiln
