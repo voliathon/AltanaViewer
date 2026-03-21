@@ -94,8 +94,8 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 ---
 
 ## Current Work and Road map
-* [WIP] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
-* [WIP] Identify missings Effects. This includes spells
+* [HOLD-3-20-2026] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
+* [HOLD-3-20-2026] Identify missings Effects. This includes spells
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
 * [COMPLETED] Figured out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
 * [COMPLETED] All Main Weapons added up to March-10-2026
