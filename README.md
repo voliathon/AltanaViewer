@@ -104,6 +104,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Head.csv & Sub.csv: Turbans and Sobu Houou Kabuto Added. Unidentified H2H (Apr-06-2026)
 - Added more Rare Objects, Primary & Secondary NPC. (Mar-21-2026)
 - TVR 11-2 NPC Added. Missing Effects/Spells. More Unidentified Weapons. Two Missing Mounts. (Mar-21-2026)
 - All Cutscene Artwork Added for The Voracious Resurgence (Mar-20-2026)
