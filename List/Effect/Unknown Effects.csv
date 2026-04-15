@@ -1,3 +1,12 @@
+1/34/1,PC
+34/3,3 starter attack anim
+34/4,4 starter attack anim
+34/5,5 starter attack anim
+34/6,6 starter attack anim
+34/10,10
+
+1/97/87,87
+
 184/102-126,
 184/49-51,
 186/30-38,
@@ -122,6 +131,7 @@
 200/70,
 200/118-123,
 201/60-62,
+209/114,114 na
 212/26,
 212/24,
 211/118-124,
@@ -151,6 +161,8 @@
 219/92-101,December 8th update 2008
 219/105,December 8th update 2008
 219/108,December 8th update 2008
+222/16, list of invisible animations
+225/5,5 gray rod
 225/6-10,October 29TH Update 2009
 225/34,October 29TH Update 2009
 225/122,(Ring) October 29TH Update 2009
@@ -268,16 +280,26 @@
 
 213/91;288/73-78;345/43,Acid Stuff
 
-289/2-30;42-55, 
+289/2-30;42-55,
+289/45-56,blagh misc animations 
 
+
+302/101, no visible animation
+302/106, no visible animation
+302/119, no visible animation
+304/94, no visible animation
+304/96, no visible animation
+1/304/107, 107 star animation
 1/307/89,ing_
+307/98,98 no visible animation
+1/308/125,
+1/310/14-19, 14 no visible animation
 1/311/102,ing_
 1/311/68,ing_
 1/311/70,ing_
 1/311/71,ing_
 
 
-1/308/125,
 1/313/23
 1/313/24
 1/313/25
@@ -313,6 +335,7 @@
 1/320/72
 1/320/73
 1/320/75
+321/118,118 no visible animation
 1/322/110
 1/322/118
 1/322/127
@@ -325,6 +348,7 @@
 1/326/63,ing_
 1/326/109,
 1/328/1
+333/55-57,55thru57
 1/337/42
 1/338/13
 1/338/61
@@ -352,6 +376,11 @@
 1/378/95,Fireworks Explosion
 1/378/98,Thin Teleporter
 
+3/5/113, NPC
+4/2/55, A pink line
+4/2/59,NPC Lamia Bow?
+4/2/65,NPC Arrow
+
 4/6/17,Sticks go Poof
 4/6/18,Minerals go Poof
 4/6/19,Minerals go Poof
@@ -376,10 +405,16 @@
 4/7/66,Directional Attack Thud
 4/7/67,Rising Water Spout Attack
 
+5/8/62-64,rawr no visible animation
 5/9/55,Thick Rock Kicked
 5/9/59,Ground Smash
 
 9/1/76,Random Animations
+
+9/2/26-46,back9 no visible animation
+9/2/14,npc no visible animation
+9/2/25,npc25 no visible animation
+9/2/46,npc46 no visible animation
 
 9/3/100,Comet Crash
 9/3/101,Multi-Colored Orb
@@ -464,4 +499,3 @@
 9/8/7,Leaf Animation Attack!
 9/8/8,AOE Green Super Pops
 9/8/9,Leafy Poison AOE Animation Poisons
-
