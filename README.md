@@ -86,6 +86,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Update README.md (Apr-16-2026)
 - Effects & NPC - Added Unknown Effects and more Kurin Hathdenna (Apr-15-2026)
 - Hands.csv EV - Removed Pursuer's Gloves as that is not a thing. (Apr-06-2026)
 - Head.csv & Sub.csv: Turbans and Sobu Houou Kabuto Added. Unidentified H2H (Apr-06-2026)
