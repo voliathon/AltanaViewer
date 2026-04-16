@@ -4,21 +4,7 @@
 
 <br>
 
-AltanaViewer is a dedicated 3D model and asset viewer for **Final Fantasy XI (FFXI)**. It allows users to explore the game's extensive catalog of player characters, monsters, equipment, animations, and visual effects outside of the game client.
-
----
-
-## ✨ Features
-
-* **Player Character Viewer:** View all playable races (Hume, Elvaan, Tarutaru, Mithra, and Galka).
-<br>
-* **Equipment Dressing:** Mix and match armor, weapons, and accessories across all visual equipment slots (Head, Body, Hands, Legs, Feet, Main, Sub).
-<br>
-* **NPC & Monster Bestiary:** Browse through the game's vast array of enemies and NPCs, categorized by ecosystem family (e.g., Aquans, Beastmen, Dragons) and expansion content.
-<br>
-* **Animation & Effects Playback:** View weapon skills, magic casting effects (White Magic, Black Magic, Ninjutsu, etc.), and standard character motions.
-<br>
-* **Asset Mapping:** Comprehensive CSV lists that map raw game DAT files to human-readable names.
+AltanaViewer is a dedicated 3D model and asset viewer for **Final Fantasy XI (FFXI)**. It allows users to explore the game's extensive catalog of player `characters`, `monsters`, `equipment`, `animations`, `artwork`, `some music` and `visual effects` outside of the game client.
 
 ---
 
@@ -46,7 +32,7 @@ The repository is organized to neatly categorize the massive amount of FFXI game
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Ensure you have Final Fantasy XI installed on your system, as the viewer requires the game's local DAT files to render models.
 2. Run `AltanaView.exe`.
@@ -54,13 +40,6 @@ The repository is organized to neatly categorize the massive amount of FFXI game
 
 <br>
 
-### 🎵 A Note on Music Playback
-
-> You may have noticed that the built-in audio player in AltanaViewer can be buggy or unstable. Because AltanaViewer was built primarily as a 3D model viewer, optimizing the audio engine was difficult. 
-> 
-> **If you are looking to listen to the FFXI soundtrack, I highly recommend downloading my new, dedicated tool: [AltanaListener](https://github.com/voliathon/AltanaListener).** AltanaListener is a completely open-source, highly stable audio player built from the ground up specifically for FFXI `.bgw` files, featuring custom playlists, favorites, and WAV file exporting!
-
-<br>
 
 ### 🧠 Understanding the Animation Engine: Action.csv vs. Motion.csv
 
@@ -80,7 +59,7 @@ This file is invisible to the user. It teaches the 3D engine how to *chain* anim
 
 <br>
 
-### 🔇 The Missing Music: Why Post-Promathia Audio Fails
+### 🎵 The Missing Music: Why Post-Promathia Audio Fails
 
 **Notice:** You may notice that music from the Original game, *Rise of the Zilart*, and *Chains of Promathia* plays perfectly, but tracks from *Treasures of Aht Urhgan* (`sound4`) and beyond result in silence.
 
@@ -94,13 +73,16 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 ---
 
 ## Current Work and Road map
-* [HOLD-4-6-2026] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
-* [HOLD-4-6-2026] Identify missings Effects. This includes spells
+* [In Progress] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
+* [In Progress] Identify missings Effects. This includes spells
+* [In Progress] Create Altana Viewer 2.0
+
+## Completed Work
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
 * [COMPLETED] Figured out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
-* [COMPLETED] All Main Weapons added up to March-10-2026
-* [COMPLETED] All Sub Weapons and Shields added up to March-10-2026
-* [COMPLETED] All Ranged Weapons and Instruments added up to March-10-2026
+* [COMPLETED] All Main Weapons added up to April-6-2026
+* [COMPLETED] All Sub Weapons and Shields added up to April-6-2026
+* [COMPLETED] All Ranged Weapons and Instruments added up to April-6-2026
 
 ## 2026 Change Log
 <!-- START_LOG -->
