@@ -178,8 +178,9 @@ While the original author's identity remains a mystery, the following individual
 * **CAProjects & SpicyRyan:** Maintained public repositories and updated lists through late 2022, including Odyssey data.
 * **vekien (Josh Freeman):** Contributed to the development of FFXI model viewing repositories.
 * **Fenrir.Nightfyre & PeterNorth:** Shared updated mappings on community forums throughout the early 2010s.
+* **RadialArcana:** Added more DAT locations in 2026
 * **The FFXI Player Community:** Countless anonymous contributors who manually scraped DAT IDs to provide CSV mappings after game updates.
-* **Current Maintainer:** Voliathon — responsible for modern repository hosting and manual CSV updates through 2026.
+* **Current Maintainer:** Voliathon — responsible for modern repository hosting and manual CSV updates.
 * **Final Fantasy XI:** All assets and designs are property of Square Enix.
 
 > "To any developer, DAT-miner, or community member who contributed to this project over the last 20 years whose name may not appear on this list: please accept our sincerest apologies. Your hard work in documenting the world of Vana'diel has not gone unnoticed, and we are deeply grateful for your dedication to the community."
