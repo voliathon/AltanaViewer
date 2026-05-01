@@ -86,6 +86,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Image & Effects - Added Norg Map & JobPoint/MLvl Up Animations (May-01-2026)
 - Update README.md (Apr-16-2026)
 - Effects & NPC - Added Unknown Effects and more Kurin Hathdenna (Apr-15-2026)
 - Hands.csv EV - Removed Pursuer's Gloves as that is not a thing. (Apr-06-2026)
