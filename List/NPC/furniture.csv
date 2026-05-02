@@ -223,7 +223,9 @@
 1/216/33,Green Round Table m_ds
 1/216/34,Yellow Round Table m_ds
 1/216/35,White Round Table m_ds
+1/216/83,Shadow Lord Statue
 1/217/109,Buffalo Milk Case  m_sa
+1/218/118,Cardian Statue
 1/220/8,Half Partition m_wo
 1/220/9,Blue Noble's Bed m_be
 1/220/10,Green Noble's Bed m_be
@@ -234,11 +236,15 @@
 1/220/15,Green Storm Lantern m_je
 1/220/16,Yellow Storm Lantern m_je
 1/220/17,White Storm Lantern m_je
+1/220/81,Adamantoise Statue
+1/220/82,Behemoth Statue
+1/220/83,Fafnir Statue
 1/221/45,Egg Stool m_ob
 1/221/46,Egg Table m_ob
 1/221/47,Egg Locker m_ob
 1/221/48,Egg Lantern m_ob
 1/221/49,Egg Buffet m_ob
+1/222/33,Nomad Moogle Statue
 1/222/81,Butterfly Cage m_ev
 1/222/82,Cricket Cage m_ev
 1/222/83,Glowfly Cage m_ev
@@ -274,6 +280,8 @@
 1/226/33,Pot of Blue Viola m_ba
 1/226/34,Pot of Yellow Viola m_ba
 1/226/35,Pot of White Viola m_ba
+1/227/45,Odin Statue
+1/227/46,Alexander Statue
 1/226/36,Stepping Stool m_wi
 1/239/13,Kabuto-kazari m_ev
 1/239/14,Katana-kazari m_ev
@@ -301,6 +309,11 @@
 1/250/92,Taru Tot Toyset m_je
 1/250/93,Vaisselier Royale m_sa
 1/254/114,Set of Guild Flyers m_wo
+1/257/66,Ark Angel HM Statue
+1/257/67,Ark Angel EV Statue
+1/257/68,Ark Angel TT Statue
+1/257/69,Ark Angel MR Statue
+1/257/70,Ark Angel GK Statue
 1/259/29,Poele Classique m_ev
 1/259/30,Kanonenofen m_ev
 1/259/31,Pot Topper m_ev
@@ -341,6 +354,7 @@
 1/259/68,Set of Chocobo Carvings m_gi
 1/259/69,Alembic m_gi
 1/259/70,Flask Set m_gi
+1/263/75,Prishe Statue
 1/264/7,Celestial Globe m_ev
 1/267/24,Jewelry Case m_ba
 1/267/25,Keepsake Case m_ba
@@ -368,6 +382,9 @@
 1/301/100,Beastman Gonfalon m_ob
 1/301/101,Copy of "Judgment Day" m_ob
 1/301/102,Alzadaal Table m_ob
+1/304/111,Goobbue Statue
+1/304/113,Nanaa Mihgo Statue
+1/306/117,Nanaa Mihgo Statue II
 1/322/121,Sproutling Board m_wa
 1/323/49,Forestdweller Board m_wa
 1/323/50,Princess Board m_wa
@@ -467,37 +484,21 @@
 1/384/117,Sachertorte m_co
 
 --missing
-Adamantoise Statue
-Alexander Statue
-Ark Angel EV Statue
-Ark Angel GK Statue
-Ark Angel HM Statue
-Ark Angel MR Statue
-Ark Angel TT Statue
-Behemoth Statue
+
+
 Bonfire
 Bronze Rose
 Campfire
-Cardian Statue
 Chest of Marbled Drawers
 Crystal Rose
-Fafnir Statue
 Fishing Hole Map
 Girandola
 Gold Bed
-Goobbue Statue
 Harpsichord
 Maple Table
 Mythril Bell
-Nanaa Mihgo Statue
-Nanaa Mihgo Statue II
-Nomad Moogle Statue
-Odin Statue
-Prishe Statue
-Shadow Lord Statue
 Shell Lamp
 Sprig of Blue Bamboo Grass
 Sprig of Green Bamboo Grass
 Sprig of Red Bamboo Grass
 Stuffed Chocobo
-
