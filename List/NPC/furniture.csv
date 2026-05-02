@@ -1,0 +1,503 @@
+1/74/22,Pile of Chocobo Bedding m_be
+1/74/23,Simple Bed m_be
+1/74/24,Oak Bed m_be
+1/74/25,Mahogany Bed m_be
+1/74/26,Bronze Bed m_be
+1/74/27,Noble's Bed m_be
+1/74/28,Marble Bed m_be
+1/74/29,Royal Bed m_be
+1/74/42,Desk m_ds
+1/74/43,Workbench m_ds
+1/74/44,Maple Table m_ds
+1/74/45,Oak Table m_ds
+1/74/47,Tarutaru Desk m_ds
+1/74/49,Drawing Desk m_ds
+1/74/50,Secretaire m_ds
+1/74/51,Bureau m_ds
+1/74/53,Dresser m_ds
+1/74/54,Millionaire Desk m_ds
+1/74/64,Wicker Box m_cs
+1/74/67,Armor Box m_cs
+1/74/70,Coffer m_cs
+1/74/72,Chest m_cs
+1/74/75,Chocobo Commode (Unidentified/Unobtainable) m_cs
+1/74/76,Cabinet m_cs
+1/74/77,Commode m_cs
+1/74/78,Cupboard m_cs
+1/74/80,Chiffonier m_cs
+1/74/82,Armoire m_cs
+1/74/97,Royal Bookshelf m_sl
+1/74/98,Bookshelf m_sl
+1/74/108,Kadomatsu m_ob
+1/74/109,Timepiece m_ob
+1/74/110,Wastebasket m_ob
+1/74/111,Rusty Bucket m_ob
+1/74/112,Blue Pitcher m_ob
+1/74/113,Tarutaru Stool m_ob
+1/74/114,Water Cask m_ob
+1/74/115,Cool Vase(Unidentified) m_ob
+1/74/116,Water Barrel m_ob
+1/74/117,Beverage Barrel m_ob
+1/74/118,Book Holder m_ob
+1/74/119,Scimitar Cactus m_ob
+1/74/120,Elshimo Palm m_ob
+1/74/121,Okadomatsu m_ob
+1/74/123,Flower Stand m_ob
+1/74/124,Goldfish Bowl m_ob
+1/74/125,Tarutaru folding screen  m_ob
+1/74/126,Sky Pot m_ob
+1/74/127,Red Jar m_ob
+1/75/0,Water Jug m_ob
+1/75/1,Odd Jug (Unknown) m_ob
+1/75/2,Urn  m_ob
+1/75/3,White Jar m_ob
+1/75/4,Green Jar (Not Available) m_ob
+1/75/5,Yellow Jar m_ob
+1/75/6,Cleaning Tool Set m_ob
+1/75/7,My First Magic Kit m_ob
+1/75/8,Bastokan Tree m_ob
+1/75/9,Windurstian Holiday Tree m_ob
+1/75/10,Wing Egg m_ob
+1/75/11,Lamp Egg m_ob
+1/75/12,Flower Egg m_ob
+1/75/13,Freshwater Aquarium m_ob
+1/75/14,Saltwater Aquarium m_ob
+1/75/15,Amir Bed m_ob
+1/75/16,Athenienne m_ob
+1/75/17,Wardrobe m_ob
+1/75/18,Reliquary m_ob
+1/75/19,Falsiam Vase m_ob
+1/75/20,Coffee Table m_ob
+1/75/21,Console m_ob
+1/75/22,Imperial Standard m_ob
+1/75/23,Marble Bed m_ob
+1/75/24,Stationery Set m_fg
+1/75/25,Tableware Set m_fg
+1/75/26,Tea Set m_fg
+1/75/27,Copy of "Emeralda" m_fg
+1/75/28,Magic Tome Set m_fg
+1/75/29,Set of Kaiserin Cosmetics m_fg
+1/75/30,Cordon Bleu Cooking Set m_fg
+1/75/31,Jeunoan Tree m_fg
+1/75/32,Star Globe  m_fg
+1/75/33,Dream Platter m_fg
+1/75/34,Dream Coffer m_fg
+1/75/35,Drogaroga's Fang m_fg
+1/75/36,Ngoma m_fg
+1/75/37,Caisson m_fg
+1/75/38,Thurible m_fg
+1/75/39,Walahra Burner m_fg
+1/75/40,Imperial Tapestry m_fg
+1/75/41,Cartonnier m_fg
+1/75/42,Set of Alchemist's Tools m_fg
+1/75/43,Leather Pot m_fg
+1/75/44,Stack of Fool's Gold m_fg
+1/75/45,Flowerpot (Unavailable in Game) m_fg
+1/75/46,Mastersmith Anvil m_fg
+1/75/47,Miniature Airship m_fg
+1/75/48,Dream Stocking m_fg
+1/75/49-63,Mog Garden Furrows(Non Furnishing) m_fg
+1/75/64-68,Magicite Columns (Non Furnishing) m_fg
+1/75/69,Snowman Knight m_fg
+1/75/70,Snowman Miner m_fg
+1/75/71,Snowman Mage m_fg
+1/75/72,Jeweled Egg m_fg
+1/75/73,Bonbori m_fg
+1/75/74,San d'Orian Flag m_wa
+1/75/75,Bastokan Flag m_wa
+1/75/76,Windurstian Flag m_wa
+1/75/77,Jeunoan Flag m_wa
+1/75/78,Rook Banner m_wa
+1/75/79,Shield Plaque m_wa
+1/75/80,Buckler Plaque m_wa
+1/75/81,Copy of "Acolyte's Grief" m_wa
+1/75/82,Copy of "Autumn's End In Gustaberg" m_wa
+1/75/83,Copy of "Lines and Space" m_wa
+1/75/84,Fishing Hole Map m_wa
+1/75/85,Copy of "Hoary Spire" m_wa
+1/75/86,Adventuring Certificate m_wa
+1/75/87,Blacksmith's Plaque m_wa
+1/75/88,Stuffed "Big One" m_wa
+1/75/89,Melodious Egg m_wa
+1/75/90,Clockwork Egg m_wa
+1/75/91,Gilt Tapestry m_wa
+1/75/92,Hatchling Egg m_wa
+1/75/93,Tsahyan Mask m_wa
+1/75/94,Totem Pole m_wa
+1/75/95,Golden Fleece m_wa
+1/75/96,Bomb Lantern m_wa
+1/75/97,Pumpkin Lantern m_wa
+1/75/98,Mandragora Lantern m_wa
+1/75/99,Copy of "Ancient Blood" m_wa
+1/75/100,Fire Lamp m_wa
+1/75/101,Ice Lamp m_wa
+1/75/102,Wind Lamp m_wa
+1/75/103,Earth Lamp m_wa
+1/75/104,Lightning Lamp m_wa
+1/75/105,Water Lamp m_wa
+1/75/106,Light Lamp m_wa
+1/75/107,Dark Lamp m_wa
+1/75/108,Set of Festival Dolls m_wa
+1/75/109,Porcelain Flowerpot m_po
+1/75/110,Brass Flowerpot m_po
+1/75/111,Earthen Flowerpot m_po
+1/75/112,Ceramic Flowerpot m_po
+1/75/113,Wooden Flowerpot m_po
+1/75/114,Arcane Flowerpot m_po
+1/75/115,Fighting Fish Tank m_po
+1/75/116,River Aquarium m_po
+1/75/117,Bay Aquarium m_po
+1/75/118,Reef Aquarium m_po
+1/75/119-127;1/76/0-10,Various Plants(Non Furnishing) m_pl
+1/76/11,Blackhorn m_sp
+1/76/12,Stripehorn m_sp
+1/76/13,Whitehorn m_sp
+1/168/122,Yellow VCS Plaque m_ch
+1/168/123,Black VCS Plaque m_ch
+1/168/124,Red VCS Plaque m_ch
+1/168/125,Blue VCS Plaque m_ch
+1/168/126,Green VCS Plaque m_ch
+1/168/127,9-Drawer Almirah m_bo
+1/169/0,6-Drawer Almirah m_bo
+1/169/1,3-Drawer Almirah m_bo
+1/171/40,Crystal Stakes Gold Cup m_ch
+1/171/41,Crystal Stakes Mythril Cup m_ch
+1/171/42,Crystal Stakes Bronze Cup m_ch
+1/171/44,Mythril Trophy m_ch
+1/171/45,Bronze Trophy m_ch
+1/187/43,Yellow Hobby Bo m_ch
+1/187/44,Red Hobby Bo m_ch
+1/187/45,Black Hobby Bo m_ch
+1/187/46,Blue Hobby Bo m_ch
+1/187/47,Green Hobby Bo m_ch
+1/196/76,Winged Altar m_me
+1/196/77,Winged Plaque m_me
+1/196/78,Winged Balance m_me
+1/196/79,Blacksmith's Signboard m_gi
+1/196/80,Goldsmith's Signboard m_gi
+1/196/81,Boneworker's Signboard m_gi
+1/196/82,Weaver's Signboard m_gi
+1/196/83,Culinarian's Signboard m_gi
+1/196/84,Tanner's Signboard m_gi
+1/196/85,Fisherman's Signboard m_gi
+1/196/86,Carpenter's Signboard m_gi
+1/196/87,Alchemist's Signboard m_gi
+1/198/21,Royal Squire's Bunk m_be
+1/198/22,Republican Legionnaire's bedding m_be
+1/198/23,Federal Mercenary's hammock m_be
+1/198/24,Partition m_wo
+1/198/25,Credenza m_wo
+1/198/26,Bahut m_wo
+1/198/27,Matka m_wo
+1/198/28,Gallipot m_wo
+1/198/29,Fluoro-flora m_wo
+1/198/30,Amigo Cactus m_wo
+1/198/31,Amiga Cactus m_wo
+1/198/35,San d'Orian Marriage Certificate m_wa
+1/198/36,Bastokan Marriage Certificate m_wa
+1/198/37,Windurstian Marriage Certificate m_wa
+1/203/103,Horn Trophy m_gi
+1/203/104,San d'Orian Tea Set m_ev
+1/203/105,Bastokan Tea Set m_ev
+1/203/106,Windurstian Tea Set m_ev
+1/203/107,Parclose m_wo
+1/203/108,CS Gold Stand m_ch
+1/203/109,CS Mythril Stand m_ch
+1/203/110,CS Bronze Stand m_ch
+1/213/70,Aldebaran Horn m_gi
+1/213/110,Blue 9-Drawer Almirah m_bo
+1/213/111,Blue 6-Drawer Almirah m_bo
+1/213/112,Blue 3-Drawer Almirah m_bo
+1/213/113,Green 9-Drawer Almirah m_bo
+1/213/114,Green 6-Drawer Almirah m_bo
+1/213/115,Green 3-Drawer Almirah m_bo
+1/213/116,Yellow 9-Drawer Almirah m_bo
+1/213/117,Yellow 6-Drawer Almirah m_bo
+1/213/118,Yellow 3-Drawer Almirah m_bo
+1/213/119,White 9-Drawer Almirah m_bo
+1/213/120,White 6-Drawer Almirah m_bo
+1/213/121,White 3-Drawer Almirah m_bo
+1/216/30,Harp Stool m_gi
+1/216/31,Red Round Table m_ds
+1/216/32,Blue Round Table m_ds
+1/216/33,Green Round Table m_ds
+1/216/34,Yellow Round Table m_ds
+1/216/35,White Round Table m_ds
+1/217/109,Buffalo Milk Case  m_sa
+1/220/8,Half Partition m_wo
+1/220/9,Blue Noble's Bed m_be
+1/220/10,Green Noble's Bed m_be
+1/220/11,Yellow Noble's Bed m_be
+1/220/12,White Noble's Bed m_be
+1/220/13,Red Storm Lantern m_je
+1/220/14,Blue Storm Lantern m_je
+1/220/15,Green Storm Lantern m_je
+1/220/16,Yellow Storm Lantern m_je
+1/220/17,White Storm Lantern m_je
+1/221/45,Egg Stool m_ob
+1/221/46,Egg Table m_ob
+1/221/47,Egg Locker m_ob
+1/221/48,Egg Lantern m_ob
+1/221/49,Egg Buffet m_ob
+1/222/81,Butterfly Cage m_ev
+1/222/82,Cricket Cage m_ev
+1/222/83,Glowfly Cage m_ev
+1/222/84,Pepo Lantern m_ev
+1/222/85,Cushaw Lantern m_ev
+1/222/86,Calabazilla Lantern m_ev
+1/223/75,Spence m_wo
+1/223/76,Bookstack m_wo
+1/223/77,Bread Crock m_wo
+1/223/78,Carmine Desk m_ds
+1/223/79,Cerulean Desk m_ds
+1/223/80,Myrtle Desk m_ds
+1/223/81,Ecru Desk m_ds
+1/226/0,Blue Tarutaru Desk m_ds
+1/226/1,Green Tarutaru Desk m_ds
+1/226/2,Yellow Tarutaru Desk m_ds
+1/226/3,White Tarutaru Desk m_ds
+1/226/4,Blue Tarutaru Standing Screen m_ob
+1/226/5,Green Tarutaru Standing Screen m_ob
+1/226/6,Yellow Tarutaru Standing Screen m_ob
+1/226/7,White Tarutaru Standing Screen m_ob
+1/226/8,Pot of Meadsweet m_je
+1/226/9,Vase of Ru'Lude Orchids m_je
+1/226/10,Elshimo Pachira m_je
+1/226/11,Tavern Bench m_je
+1/226/12,Feasting Table m_je
+1/226/13,Candelabrum m_je
+1/226/14,Calabazilla Lantern m_sa
+1/226/15,Candle Holder m_sa
+1/226/16,Bakery Platter m_sa
+1/226/31,Galley Kitchen m_sa
+1/226/32,Pot of Red Viola m_ba
+1/226/33,Pot of Blue Viola m_ba
+1/226/34,Pot of Yellow Viola m_ba
+1/226/35,Pot of White Viola m_ba
+1/226/36,Stepping Stool m_wi
+1/239/13,Kabuto-kazari m_ev
+1/239/14,Katana-kazari m_ev
+1/239/57,Mariner's Bed Red m_be
+1/239/58,Mariner's Bed Blue m_be
+1/239/59,Mariner's Bed Green m_be
+1/239/60,Mariner's Bed Yellow m_be
+1/239/61,Mariner's Bed White m_be
+1/239/62,Bavarois Potiron m_co
+1/239/66,Panetiere m_sa
+1/245/42,Banquet Set m_co
+1/245/43,Plate of Mock Hare m_co
+1/245/44,Purifying Ewer m_co
+1/245/45,Carillon Vermeil m_co
+1/245/46,Aeolsglocke m_co
+1/245/47,Leafbell m_co
+1/250/65,Jack-o'-Pricket m_ev
+1/250/66,Djinn Pricket m_ev
+1/250/67,Korrigan Pricket m_ev
+1/250/68,Mandragora pricket  m_ev
+1/250/88,Tidings Board m_je
+1/250/89,Leisure Table m_je
+1/250/90,Orblight m_je
+1/250/91,Squat Desk m_je
+1/250/92,Taru Tot Toyset m_je
+1/250/93,Vaisselier Royale m_sa
+1/254/114,Set of Guild Flyers m_wo
+1/259/29,Poele Classique m_ev
+1/259/30,Kanonenofen m_ev
+1/259/31,Pot Topper m_ev
+1/259/32,Tomeshelf m_je
+1/259/33,Storage Hutch m_je
+1/259/34,Orchestrion m_je
+1/259/37,Gemscope m_ba
+1/259/38,Ornament Case m_ba
+1/259/39,Blacksmiths' Stall m_gi
+1/259/40,Goldsmiths' Stall m_gi
+1/259/41,Boneworkers' Stall m_gi
+1/259/42,Weavers' Stall m_gi
+1/259/43,Culinarians' Stall m_gi
+1/259/44,Tanners' Stall m_gi
+1/259/45,Fishermen's Stall m_gi
+1/259/46,Carpenters' Stall m_gi
+1/259/47,Alchemists' Stall m_gi
+1/259/48,Starlight Cake m_co
+1/259/49,Buche des Etoiles m_co
+1/259/50,Treasury Table m_gi
+1/259/51,Treasury Stand m_gi
+1/259/52,Sundries Table m_gi
+1/259/53,Sundries Stand m_gi
+1/259/54,Supply Table m_gi
+1/259/55,Supply Stand m_gi
+1/259/56,Stone Hearth m_gi
+1/259/57,Case of Display Blades m_gi
+1/259/58,Set of Bonecrafting Tools m_gi
+1/259/59,Shell Assortment m_gi
+1/259/60,Spinning Wheel m_gi
+1/259/61,Set of Fine Raiments m_gi
+1/259/62,Brass Crock m_gi
+1/259/63,Hide Stretcher m_gi
+1/259/64,Set of Courier Bags m_gi
+1/259/65,Net and Lure m_gi
+1/259/66,Set of Stockfish m_gi
+1/259/67,Carpenter's Kit m_gi
+1/259/68,Set of Chocobo Carvings m_gi
+1/259/69,Alembic m_gi
+1/259/70,Flask Set m_gi
+1/264/7,Celestial Globe m_ev
+1/267/24,Jewelry Case m_ba
+1/267/25,Keepsake Case m_ba
+1/267/26,Gemstone Case m_ba
+1/267/27,Opus Shelf m_ba
+1/267/28,Rolanberry Delightaru m_co
+1/267/29,Spinet m_gi
+1/267/76,Spook-a-Swirl m_ev
+1/267/77,Chocolate Grumpkin  m_ev
+1/267/78,Harvest Horror m_ev
+1/267/79,Recital Bench m_gi
+1/267/80,Couronne des etoiles  m_ev
+1/267/81,Silberkranz m_ev
+1/267/82,Leafberry Wreath m_ev
+1/278/121,Prinseggstarta m_co
+1/282/4,Memorial Cake m_co
+1/282/5,Banquet Table m_ds
+1/282/30,Isula Sideboard m_je
+1/282/31,Planus Table m_je
+1/288/83,Tender Bouquet m_ev
+1/301/96,Shadow Lord Statue II
+1/301/97,Shadow Lord Statue III
+1/301/98,Atomos Statue
+1/301/99,Yovra Replica
+1/301/100,Beastman Gonfalon m_ob
+1/301/101,Copy of "Judgment Day" m_ob
+1/301/102,Alzadaal Table m_ob
+1/322/121,Sproutling Board m_wa
+1/323/49,Forestdweller Board m_wa
+1/323/50,Princess Board m_wa
+1/323/51,Empress Board m_wa
+1/323/52,Duelist Board m_wa
+1/323/53,Crystal Board m_wa
+1/323/54,Dancer Board m_wa
+1/323/55,Wizardess Board m_wa
+1/323/56,Fighter Board m_wa
+1/323/79,Guardian Board m_wa
+1/323/80,Stoic Board m_wa
+1/325/122,Lamb Carving m_st
+1/325/123,Polished lamb carving  m_st
+1/325/124,Cait Sith Carving m_st
+1/326/79,Kotatsu Table m_ev
+1/326/80,Mandarin m_ev
+1/327/119,Cherry Tree m_ev
+1/327/120,Bathtub m_bt
+1/327/121,Shower Stand m_bt
+1/332/50,Awning m_wn
+1/332/51,Triangular Jalousie m_wn
+1/332/52,Square Jalousie m_wn
+1/332/53,Bastokan Sill m_wn
+1/332/54,Far East Hearth
+1/332/55,Vana'clock m_ev
+1/341/120,Marble Plaque m_wa
+1/341/121,Red Mahogany Bed m_be
+1/341/122,Blue Mahogany Bed m_be
+1/341/123,Green Mahogany Bed m_be
+1/341/124,Yellow Mahogany Bed m_be
+1/341/125,Rococo Table m_je
+1/341/126,Semainier m_je
+1/341/127,Jeunoan Dresser m_je
+1/342/0,Jeunoan Armoire m_je
+1/342/1,Floral Nightstand m_je
+1/342/2,Harvest Pastry m_co
+1/342/70,Murrey Grisaille m_ev
+1/342/71,Moss Green Grisaille m_ev
+1/350/56,Gilded Chest m_sa
+1/350/57,Aureous Chest m_sa
+1/350/58,Luxurious Chest m_sa
+1/350/59,Gilded shelf  m_sa
+1/350/60,Mensa Lunata m_sa
+1/350/61,Gueridon m_sa
+1/350/62,Personal Table m_sa
+1/350/63,Puce Chest m_ba
+1/350/64,Marbled Drawers m_ba
+1/350/65,Bongo Drum m_mu
+1/350/66,Fictile Pot m_wi
+1/350/88,Wall Safe? (Unidentified) m_ba
+1/351/48,Valance m_wn
+1/351/49,Windurstian Sill m_wn
+1/351/50,San d'Orian sill  m_wn
+1/351/51,Transom m_wn
+1/351/52,Pot of Wards m_pl
+1/351/53,White Clematis m_pl
+1/351/54,Pot of Pink Clematis m_pl
+1/351/55,Pink and Red Flowers(Unidentified) m_pl
+1/351/56,Birch Tree m_pl
+1/352/23,Light Chest m_ha
+1/352/68,Bulky Coffer m_ha
+1/352/69,Azure Chest m_ha
+1/353/114,Lion Statue m_st
+1/353/115,Handful of Adoulinian Tomatoes m_tm
+1/353/116,Aurum Coffer m_ha
+1/353/117,Well m_id
+1/354/8,Mumor Statue m_st
+1/354/9,Ullegore Statue m_st
+1/354/92,Aphmau Statue m_st
+1/355/28,Lilisette Statue m_st
+1/355/29,Cornelia Statue m_st
+1/355/30,Doll Stand  m_hi
+1/355/31,Eastern Umbrella m_ka
+1/355/111,Arciela Statue m_st
+1/356/19,Uka Statue m_st
+1/357/95,Iroha Statue m_st
+1/360/33,Prishe Statue II m_st
+1/361/93,Crimson Chest m_ha
+1/362/91,Autumn Tree m_pl
+1/363/21,Model Synergy Furnace m_ka
+1/363/114,Painting of a Mercenary m_wa
+1/363/115,Moogle Bed m_be
+1/368/90,Mandragora Pot m_po
+1/369/42,Korrigan Pot m_po
+1/369/43,Adenium Pot m_po
+1/369/44,Citrullus Pot m_po
+1/370/41,Leafkin Bed m_be
+1/371/14,Chemistry Set m_gi
+1/371/73,Qiqirn Sack m_sa
+1/371/106,Besigiled Table m_ds
+1/372/27,Love Pillows? m_be
+1/373/14,Colibri Bed m_be
+1/375/98,Blueblade Fell m_wa
+1/375/115,Kagami Mochi m_co
+1/376/34,Prismatic Chest m_ha
+1/382/112,Model Syn. Furn. II m_ka
+1/384/117,Sachertorte m_co
+
+--missing
+Adamantoise Statue
+Alexander Statue
+Ark Angel EV Statue
+Ark Angel GK Statue
+Ark Angel HM Statue
+Ark Angel MR Statue
+Ark Angel TT Statue
+Behemoth Statue
+Bonfire
+Bronze Rose
+Campfire
+Cardian Statue
+Chest of Marbled Drawers
+Crystal Rose
+Fafnir Statue
+Fishing Hole Map
+Girandola
+Gold Bed
+Goobbue Statue
+Harpsichord
+Maple Table
+Mythril Bell
+Nanaa Mihgo Statue
+Nanaa Mihgo Statue II
+Nomad Moogle Statue
+Odin Statue
+Prishe Statue
+Shadow Lord Statue
+Shell Lamp
+Sprig of Blue Bamboo Grass
+Sprig of Green Bamboo Grass
+Sprig of Red Bamboo Grass
+Stuffed Chocobo
+
