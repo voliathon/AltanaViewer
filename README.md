@@ -72,10 +72,12 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ---
 
+## Furniture
+**Notice:** Furniture is located in NPC>Furniture    99% don't work in Altana Viewer. You must view them in Noesis.
+
 ## Current Work and Road map
 * [In Progress] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
 * [In Progress] Identify missings Effects. This includes spells
-* [In Progress] Create Altana Viewer 2.0
 
 ## Completed Work
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
@@ -86,7 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
-- Merge branch 'main' of https://github.com/voliathon/AltanaViewer (May-02-2026)
+- Image & NPC - Added overview maps, missing maps, and 467 furniture locations. *Note*: Furniture only shows in Noesis (May-02-2026)
 - Image & Effects - Added Norg Map & JobPoint/MLvl Up Animations (May-01-2026)
 - Update README.md (Apr-16-2026)
 - Effects & NPC - Added Unknown Effects and more Kurin Hathdenna (Apr-15-2026)
