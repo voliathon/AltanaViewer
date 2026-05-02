@@ -20,7 +20,7 @@
 1/74/67,Armor Box m_cs
 1/74/70,Coffer m_cs
 1/74/72,Chest m_cs
-1/74/75,Chocobo Commode (Unidentified/Unobtainable) m_cs
+1/74/75,Chocobo Commode m_cs
 1/74/76,Cabinet m_cs
 1/74/77,Commode m_cs
 1/74/78,Cupboard m_cs
@@ -160,14 +160,22 @@
 1/168/127,9-Drawer Almirah m_bo
 1/169/0,6-Drawer Almirah m_bo
 1/169/1,3-Drawer Almirah m_bo
-1/170/60,Sprig of Red Bamboo Grass
-1/170/61,Sprig of Blue Bamboo Grass
-1/170/62,Sprig of Green Bamboo Grass
+1/170/60;Advanced Sprig of Red Bamboo Grass
+1/170/61,Advanced Sprig of Blue Bamboo Grass
+1/170/62,Advanced Sprig of Green Bamboo Grass
 1/171/40,Crystal Stakes Gold Cup m_ch
 1/171/41,Crystal Stakes Mythril Cup m_ch
 1/171/42,Crystal Stakes Bronze Cup m_ch
 1/171/44,Mythril Trophy m_ch
 1/171/45,Bronze Trophy m_ch
+1/184/105,Bronze Rose
+1/184/106,Crystal Rose
+1/184/107,Shell Lamp
+1/184/108,Harpsichord
+1/184/109,Mythril Bell
+1/184/110;Sprig of Red Bamboo Grass
+1/184/111,Sprig of Blue Bamboo Grass
+1/184/112,Sprig of Green Bamboo Grass
 1/187/43,Yellow Hobby Bo m_ch
 1/187/44,Red Hobby Bo m_ch
 1/187/45,Black Hobby Bo m_ch
@@ -226,6 +234,7 @@
 1/216/33,Green Round Table m_ds
 1/216/34,Yellow Round Table m_ds
 1/216/35,White Round Table m_ds
+1/216/42,Stuffed Chocobo
 1/216/83,Shadow Lord Statue
 1/217/109,Buffalo Milk Case  m_sa
 1/218/118,Cardian Statue
@@ -278,6 +287,7 @@
 1/226/14,Calabazilla Lantern m_sa
 1/226/15,Candle Holder m_sa
 1/226/16,Bakery Platter m_sa
+1/226/13,Girandola
 1/226/31,Galley Kitchen m_sa
 1/226/32,Pot of Red Viola m_ba
 1/226/33,Pot of Blue Viola m_ba
@@ -450,6 +460,7 @@
 1/352/23,Light Chest m_ha
 1/352/68,Bulky Coffer m_ha
 1/352/69,Azure Chest m_ha
+1/352/98,Bonfire
 1/353/114,Lion Statue m_st
 1/353/115,Handful of Adoulinian Tomatoes m_tm
 1/353/116,Aurum Coffer m_ha
@@ -486,14 +497,3 @@
 1/382/112,Model Syn. Furn. II m_ka
 1/384/117,Sachertorte m_co
 
---missing
-
-
-Bonfire
-Bronze Rose
-Crystal Rose
-Girandola
-Harpsichord
-Mythril Bell
-Shell Lamp
-Stuffed Chocobo
