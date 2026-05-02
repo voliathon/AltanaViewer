@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- furniture.csv - Added the rest of the statues. (May-02-2026)
 - README.md - Furniture Notice (May-02-2026)
 - Image & NPC - Added overview maps, missing maps, and 467 furniture locations. *Note*: Furniture only shows in Noesis (May-02-2026)
 - Image & Effects - Added Norg Map & JobPoint/MLvl Up Animations (May-01-2026)
