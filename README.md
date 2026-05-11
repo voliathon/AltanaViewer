@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Main,Sub,Head.csv - Added Abyssbringer, Ja Ja Sword, Ja Ja Club, Sh. Moogle Rod, Corrected Head lockstyle from last month (May-11-2026)
 - NPC/furniture.csv - All furniture found and added. Plus goodies... (May-02-2026)
 - furniture.csv - added christmas bamboo, and misc furniture locations (May-02-2026)
 - furniture.csv - Added the rest of the statues. (May-02-2026)
