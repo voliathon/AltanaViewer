@@ -270,6 +270,7 @@
 378/73,Ethereal Sword
 380/126,Macana
 382/125,Kyukoto
+385/53,Ja Ja Sword
 
 @G.Sword
 53/39,Reserve Captain's Greatsword
@@ -532,6 +533,7 @@
 377/54,Gae Buide (Stage 5)
 378/76,Ethereal Spear
 381/19,Celestial Spear
+385/78,Abyssbringer
 
 @Katana
 9/83,Ganko
@@ -744,6 +746,8 @@
 378/80,Ethereal Club
 380/16,Arthro's Scepter
 385/0,Budrod
+385/52,Sh. Moogle Rod
+385/54,Ja Ja Mace
 
 @Staff
 55/8,Elm Staff
