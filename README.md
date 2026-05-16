@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- Main & Sub.csv - Reversed order of the newest single hand weapons. SE changed their ordering after 24 years (May-16-2026)
 - Head.csv - SE renamed Sobu Houou Kabuto to Subu Houou Kabuto (May-14-2026)
 - Main,Sub,Head.csv - Added Abyssbringer, Ja Ja Sword, Ja Ja Club, Sh. Moogle Rod, Corrected Head lockstyle from last month (May-11-2026)
 - NPC/furniture.csv - All furniture found and added. Plus goodies... (May-02-2026)
