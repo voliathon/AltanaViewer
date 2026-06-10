@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- All Sub.csv - Cactuar and Auge-Daduchos-Telopanos Shield (Jun-10-2026)
 - Main & Sub.csv - HolySword ~> Antica Sword(Unobtainable) (Jun-03-2026)
 - Main & Sub.csv - Reversed order of the newest single hand weapons. SE changed their ordering after 24 years (May-16-2026)
 - Head.csv - SE renamed Sobu Houou Kabuto to Subu Houou Kabuto (May-14-2026)
