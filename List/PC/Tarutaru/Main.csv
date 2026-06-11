@@ -71,6 +71,7 @@
 376/54,Varga Purnikawa (Stage 5)
 377/83,Ethereal Fists
 378/116,Dazbog's Knuckles
+386/106,Auge-Daduchos-Telopanos Knuckles
 
 @Dagger
 49/8,Valiant Knife
@@ -153,6 +154,7 @@
 377/38,Mpu Gandring (Stage 5)
 380/32,Hedron Dagger
 381/32,Esoteric Athame
+386/62,Auge-Daduchos-Telopanos Knife
 
 @Sword
 49/32,Colichemarde
@@ -272,6 +274,8 @@
 380/125,Macana
 382/124,Kyukoto
 385/76,Ja Ja Sword
+386/64,Auge-Daduchos-Telopanos Sword
+386/63,Auge-Daduchos-Telopanos Saber
 
 @G.Sword
 48/43,Reserve Captain's Greatsword
@@ -330,6 +334,7 @@
 371/36,Goujian
 375/55,Helheim (Non AG)
 377/40,Helheim (Stage 5)
+386/65,Auge-Daduchos-Telopanos Claymore
 
 @Axe
 48/55,Bronze Axe
@@ -384,6 +389,7 @@
 375/56,Spalirisos (Non AG)
 377/41,Spalirisos (Stage 5)
 378/64,Ethereal Axe
+386/66,Auge-Daduchos-Telopanos Axe
 
 @G.Axe
 48/71,Centurion's Axe
@@ -430,6 +436,7 @@
 377/42,Laphria (Stage 5)
 378/65,Ethereal Great Axe
 381/46,Dispatcher's Axe
+386/67,Auge-Daduchos-Telopanos Chopper
 
 @Scythe
 49/45,Darksteel Scythe
@@ -475,6 +482,7 @@
 375/59,Foenaria (Non AG)
 377/44,Foenaria (Stage 5)
 378/67,Ethereal Scythe
+386/68,Auge-Daduchos-Telopanos Scythe
 
 @Polearm
 49/53,Halberd
@@ -536,7 +544,7 @@
 378/66,Ethereal Spear
 381/18,Celestial Spear
 385/74,Abyssbringer
-
+386/69,Auge-Daduchos-Telopanos Halberd
 
 @Katana
 99/46,Fudo
@@ -576,6 +584,7 @@
 375/60,Dokoku (Non AG)
 377/45,Dokoku (Stage 5)
 378/68,Ethereal Katana
+386/70,Auge-Daduchos-Telopanos Shin. (Shinobi-gatana)
 
 @G.Katana
 48/123,Nukemaru
@@ -624,6 +633,7 @@
 377/46,Kusanagi-No-Tsurugi (Stage 5)
 378/69,Ethereal Tachi
 381/11,Ohakari
+386/71,Auge-Daduchos-Telopanos Katana
 
 @Club
 48/42,Chocobo Wand
@@ -752,6 +762,7 @@
 385/6,Budrod
 385/75,Sh. Moogle Rod
 385/77,Ja Ja Mace
+386/72,Auge-Daduchos-Telopanos Maul
 
 @Staff
 50/12,Elm Staff
@@ -834,3 +845,4 @@
 375/120,Garazu-Horeizu's Staff II
 377/48,Opashoro (Stage 5)
 378/71,Ethereal Staff
+386/73,Auge-Daduchos-Telopanos Staff

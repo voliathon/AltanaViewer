@@ -151,6 +151,7 @@
 376/72,Varga Purnikawa (Stage 5)
 377/98,Ethereal Fists
 378/125,Dazbog's Knuckles
+386/118,Auge-Daduchos-Telopanos Knuckles
 
 @Dagger
 117/32,Valiant Knife
@@ -233,6 +234,7 @@
 378/17,Ethereal Dagger
 380/41,Hedron Dagger
 381/27,Esoteric Athame
+386/8,Auge-Daduchos-Telopanos Knife
 
 @Sword
 117/56,Colichemarde
@@ -352,6 +354,8 @@
 381/6,Macana
 383/5,Kyukoto
 385/56,Ja Ja Sword
+386/10,Auge-Daduchos-Telopanos Sword
+386/9,Auge-Daduchos-Telopanos Saber
 
 @Axe
 116/127,Bronze Axe
@@ -405,6 +409,7 @@
 375/6,Spalirisos (Non AG)
 376/119,Spalirisos (Stage 5)
 378/19,Ethereal Axe
+386/11,Auge-Daduchos-Telopanos Axe
 
 @Katana
 118/13,Fudo
@@ -444,6 +449,7 @@
 375/7,Dokoku (Non AG)
 376/120,Dokoku (Stage 5)
 378/20,Ethereal Katana
+386/12,Auge-Daduchos-Telopanos Shin. (Shinobi-gatana)
 
 @Club
 116/126,Chocobo Wand
@@ -572,3 +578,4 @@
 385/1,Budrod
 385/55,Sh. Moogle Rod
 385/57,Ja Ja Mace
+386/13,Auge-Daduchos-Telopanos Maul

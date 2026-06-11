@@ -9,7 +9,6 @@
 175/36,
 183/67,
 
-
 @Hand
 29/90,Avengers
 29/91,Darksteel Katars
@@ -76,6 +75,7 @@
 376/38,Varga Purnikawa (Stage 5)
 377/71,Ethereal Fists
 378/112,Dazbog's Knuckles
+386/98,Auge-Daduchos-Telopanos Knuckles
 
 @Dagger
 30/2,Valiant Knife
@@ -158,7 +158,7 @@
 378/22,Ethereal Dagger
 380/28,Hedron Dagger
 381/28,Esoteric Athame
-
+386/14,Auge-Daduchos-Telopanos Knife
 
 @Sword
 30/26,Colichemarde
@@ -279,7 +279,8 @@
 380/121,Macana
 382/120,Kyukoto
 385/60,Ja Ja Sword
-
+386/16,Auge-Daduchos-Telopanos Sword
+386/15,Auge-Daduchos-Telopanos Saber
 
 @G.Sword
 29/37,Reserve Captain's Greatsword
@@ -339,6 +340,7 @@
 371/32,Goujian
 375/11,Helheim (Non AG)
 376/124,Helheim (Stage 5)
+386/17,Auge-Daduchos-Telopanos Claymore
 
 @Axe
 29/49,Bronze Axe
@@ -392,6 +394,7 @@
 375/12,Spalirisos (Non AG)
 376/125,Spalirisos (Stage 5)
 378/24,Ethereal Axe
+386/18,Auge-Daduchos-Telopanos Axe
 
 @G.Axe
 29/65,Centurion's Axe
@@ -438,6 +441,7 @@
 376/126,Laphria (Stage 5)
 378/25,Ethereal Great Axe
 381/42,Dispatcher's Axe
+386/19,Auge-Daduchos-Telopanos Chopper
 
 @Scythe
 30/39,Darksteel Scythe
@@ -483,6 +487,7 @@
 375/15,Foenaria (Non AG)
 377/0,Foenaria (Stage 5)
 378/27,Ethereal Scythe
+386/20,Auge-Daduchos-Telopanos Scythe
 
 @Polearm
 30/47,Halberd
@@ -545,6 +550,7 @@
 378/26,Ethereal Spear
 381/14,Celestial Spear
 385/58,Abyssbringer
+386/21,Auge-Daduchos-Telopanos Halberd
 
 
 @Katana
@@ -584,6 +590,7 @@
 375/16,Dokoku (Non AG)
 377/1,Dokoku (Stage 5)
 378/28,Ethereal Katana
+386/22,Auge-Daduchos-Telopanos Shin. (Shinobi-gatana)
 
 @G.Katana
 29/117,Nukemaru
@@ -633,6 +640,7 @@
 377/2,Kusanagi-No-Tsurugi (Stage 5)
 378/29,Ethereal Tachi
 381/7,Ohakari
+386/23,Auge-Daduchos-Telopanos Katana
 
 @Club
 29/36,Chocobo Wand
@@ -761,6 +769,7 @@
 385/2,Budrod
 385/59,Sh. Moogle Rod
 385/61,Ja Ja Mace
+386/24,Auge-Daduchos-Telopanos Maul
 
 @Staff
 31/6,Elm Staff
@@ -843,3 +852,4 @@
 375/116,Garazu-Horeizu's Staff II
 377/4,Opashoro (Stage 5)
 378/31,Ethereal Staff
+386/25,Auge-Daduchos-Telopanos Staff

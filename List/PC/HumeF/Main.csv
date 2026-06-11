@@ -5,6 +5,7 @@
 1/33/125-127;1/34/1-10
 1/34/0,Fomor Sword (Unobtainable)
 
+
 @Hand
 34/66,Avengers
 34/67,Darksteel Katars
@@ -71,6 +72,7 @@
 376/42,Varga Purnikawa (Stage 5)
 377/74,Ethereal Fists
 378/113,Dazbog's Knuckles
+386/100,Auge-Daduchos-Telopanos Knuckles
 
 @Dagger
 34/106,Valiant Knife
@@ -153,6 +155,7 @@
 378/32,Ethereal Dagger
 380/29,Hedron Dagger
 381/29,Esoteric Athame
+386/26,Auge-Daduchos-Telopanos Knife
 
 @Sword
 35/2,Colichemarde
@@ -273,6 +276,8 @@
 380/122,Macana
 382/121,Kyukoto
 385/64,Ja Ja Sword
+386/28,Auge-Daduchos-Telopanos Sword
+386/27,Auge-Daduchos-Telopanos Saber
 
 @G.Sword
 34/13,Reserve Captain's Greatsword
@@ -332,6 +337,7 @@
 371/33,Goujian
 375/22,Helheim (Non AG)
 377/7,Helheim (Stage 5)
+386/29,Auge-Daduchos-Telopanos Claymore
 
 @Axe
 34/25,Bronze Axe
@@ -386,6 +392,7 @@
 375/23,Spalirisos (Non AG)
 377/8,Spalirisos (Stage 5)
 378/34,Ethereal Axe
+386/30,Auge-Daduchos-Telopanos Axe
 
 @G.Axe
 34/41,Centurion's Axe
@@ -432,6 +439,7 @@
 377/9,Laphria (Stage 5)
 378/35,Ethereal Great Axe
 381/43,Dispatcher's Axe
+386/31,Auge-Daduchos-Telopanos Chopper
 
 @Scythe
 35/15,Darksteel Scythe
@@ -477,6 +485,7 @@
 375/26,Foenaria (Non AG)
 377/11,Foenaria (Stage 5)
 378/37,Ethereal Scythe
+386/32,Auge-Daduchos-Telopanos Scythe
 
 @Polearm
 35/23,Halberd
@@ -538,6 +547,7 @@
 378/36,Ethereal Spear
 381/15,Celestial Spear
 385/62,Abyssbringer
+386/33,Auge-Daduchos-Telopanos Halberd
 
 
 @Katana
@@ -578,6 +588,7 @@
 375/27,Dokoku (Non AG)
 377/12,Dokoku (Stage 5)
 378/38,Ethereal Katana
+386/34,Auge-Daduchos-Telopanos Shin. (Shinobi-gatana)
 
 @G.Katana
 34/93,Nukemaru
@@ -626,7 +637,7 @@
 377/13,Kusanagi-No-Tsurugi (Stage 5)
 378/39,Ethereal Tachi
 381/8,Ohakari
-
+386/35,Auge-Daduchos-Telopanos Katana
 
 @Club
 34/12,Chocobo Wand
@@ -755,6 +766,7 @@
 385/3,Budrod
 385/63,Sh. Moogle Rod
 385/65,Ja Ja Mace
+386/36,Auge-Daduchos-Telopanos Maul
 
 @Staff
 35/110,Elm Staff
@@ -837,3 +849,4 @@
 375/117,Garazu-Horeizu's Staff II
 377/15,Opashoro (Stage 5)
 378/41,Ethereal Staff
+386/37,Auge-Daduchos-Telopanos Staff
