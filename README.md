@@ -208,3 +208,5 @@ If you enjoy AltanaViewer, check out my other Final Fantasy XI utilities:
 
 * **[AltanaListener](https://github.com/voliathon/AltanaListener):** The ultimate, open-source FFXI audio player. It automatically finds your local installation and lets you build custom playlists, loop tracks, and export FFXI music directly to `.wav` files with a modern, stable UI.
 
+* **[Dressup-Mod](https://github.com/voliathon/Dressup-Mod):** I modified Dressup that the Windower Team 'maintains'.  This addon includes every model in the game up until the June 2026 update and it includes new faces.  This is a BIG deal as it let's you dressup your character in game as compared to seeing an external modeler. (Only you can see these changes) I will maintain this code but keep in mind that if the existing Dressup addon gets modified from the Windower Team, these changes would get overriden. <b>Every model id has been identified within Dressup-Mod</b>
+![New Face Models Available](https://github.com/voliathon/Dressup-Mod/raw/main/images/NewFaceModels.png)
