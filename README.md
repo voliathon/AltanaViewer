@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- All Main.csv - Boudox's Great Sword; NPC Related - TVR Monsters identified & Boudox (Jun-17-2026)
 - All Main/Sub/Range.csv - All Auge-Daduchos-Telopanos(Limbus) Weapons Added (Jun-11-2026)
 - All Sub.csv - Cactuar and Auge-Daduchos-Telopanos Shield (Jun-10-2026)
 - Main & Sub.csv - HolySword ~> Antica Sword(Unobtainable) (Jun-03-2026)
