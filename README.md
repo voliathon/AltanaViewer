@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 ## 2026 Change Log
 <!-- START_LOG -->
+- primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
 - All Main/Sub.csv - TVR Rod? Identified as Uran-Mafran's Club (TVR 7-2) (Jun-19-2026)
 - README.md - Dressup-Mod Reference: All model id located for every piece of gear.  Additional in game faces discovered. Link at the bottom (Jun-17-2026)
 - All Main.csv - Boudox's Great Sword; NPC Related - TVR Monsters identified & Boudox (Jun-17-2026)
