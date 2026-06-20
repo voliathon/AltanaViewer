@@ -103,6 +103,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 <summary> <h3><b>📋 2026 Change Log</b></h3></summary>
   
 <!-- START_LOG -->
+- README.md - simplified; Objects.csv - Identified Liber Daemonium & Olduum Staff (Jun-20-2026)
 - primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
 - All Main/Sub.csv - TVR Rod? Identified as Uran-Mafran's Club (TVR 7-2) (Jun-19-2026)
 - README.md - Dressup-Mod Reference: All model id located for every piece of gear.  Additional in game faces discovered. Link at the bottom (Jun-17-2026)
