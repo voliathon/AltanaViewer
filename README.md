@@ -8,15 +8,25 @@ AltanaViewer is a dedicated 3D model and asset viewer for **Final Fantasy XI (FF
 
 ---
 
-## 📜 History & Origins
+## Usage
+
+1. Ensure you have Final Fantasy XI installed on your system, as the viewer requires the game's local DAT files to render models.
+2. Run `AltanaView.exe`.
+3. Use the application's interface to navigate through the PC, NPC, or Effect lists to load and view the desired assets.
+
+<br>
+
+<details>
+<summary> <h3><b> 📜 History & Origins</b></h3></summary>
 
 The original Altana Viewer was created around 2006 by an anonymous Japanese developer (often associated with the copyright "Tiamat"). It was built upon the foundation of an older Japanese model viewer known as `FFXITool`. Both programs were unique at the time for being able to decipher and play back FFXI's complex effect animations.
 
 Because the original author disappeared and the software was never made open-source, the community has never been able to update the core application engine. The viewer is kept alive for modern FFXI updates by Voliathon at this repository. I will accept Pull Requests. I manually update the extensive CSV dictionary lists to map new DAT files as Square Enix adds them to the game.
 
----
+</details>
 
-## 📂 Directory Structure
+<details>
+<summary> <h3><b> 📂 Directory Structure</b></h3></summary>
 
 The repository is organized to neatly categorize the massive amount of FFXI game data:
 
@@ -29,20 +39,12 @@ The repository is organized to neatly categorize the massive amount of FFXI game
   * `NPC/` - Non-playable characters and monsters, sorted by family and expansion.
   * `PC/` - Player character models, separated by race, gender, and equipment slots.
 * `res/` - Resource text files containing deeper configurations for animations and sound effects.
+</details>
 
----
+<details>
+<summary> <h3><b> 🧠 Understanding the Animation Engine: Action.csv vs. Motion.csv</b></h3></summary>
 
-## Usage
-
-1. Ensure you have Final Fantasy XI installed on your system, as the viewer requires the game's local DAT files to render models.
-2. Run `AltanaView.exe`.
-3. Use the application's interface to navigate through the PC, NPC, or Effect lists to load and view the desired assets.
-
-<br>
-
-
-### 🧠 Understanding the Animation Engine: Action.csv vs. Motion.csv
-
+ 
 When dealing with playable characters and monsters, AltanaViewer handles animations using two completely different files that talk to each other.
 
 **1. `Action.csv` (The User Interface)**
@@ -56,10 +58,12 @@ This file is invisible to the user. It teaches the 3D engine how to *chain* anim
 * Final Fantasy XI rarely uses one file for a continuous movement. Drawing a weapon involves a transition animation, followed by an infinite idle loop. `Motion.csv` tells the engine: *"As soon as the animation block 56/14-22 finishes, seamlessly transition into the loop block 56/23-40."*
 
 > **The "Test" Override:** If you want to view a hidden engine animation from `Motion.csv` in the actual UI, you can append a name to it (e.g., `209/39,test #244`). This forces AltanaViewer to bypass the chaining logic and expose the raw file directly in the Action dropdown.
+</details>
 
-<br>
 
-### 🎵 The Missing Music: Why Post-Promathia Audio Fails
+<details>
+<summary> <h3><b>🎵 The Missing Music: Why Post-Promathia Audio Fails</b></h3></summary>
+
 
 **Notice:** You may notice that music from the Original game, *Rise of the Zilart*, and *Chains of Promathia* plays perfectly, but tracks from *Treasures of Aht Urhgan* (`sound4`) and beyond result in silence.
 
@@ -70,23 +74,34 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 
 [AltanaListener](https://github.com/voliathon/AltanaListener) was created to address this problem and do a better job.
 
----
+</details>
 
-## Furniture
+<details>
+<summary> <h3><b>🪑 Furniture</b></h3></summary>
+
 **Notice:** Furniture is located in NPC>Furniture    99% don't work in Altana Viewer. You must view them in Noesis.
+</details>
 
-## Current Work and Road map
+<details>
+<summary> <h3><b>🚧 Current Work and Road map</b></h3></summary>
+
 * [In Progress] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
 * [In Progress] Identify missings Effects. This includes spells
+</details>
 
-## Completed Work
+<details>
+<summary> <h3><b>✅ Completed Work</b></h3></summary>
+
 * [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
 * [COMPLETED] Figured out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
 * [COMPLETED] All Main Weapons added up to April-6-2026
 * [COMPLETED] All Sub Weapons and Shields added up to April-6-2026
 * [COMPLETED] All Ranged Weapons and Instruments added up to April-6-2026
+</details>
 
-## 2026 Change Log
+<details>
+<summary> <h3><b>📋 2026 Change Log</b></h3></summary>
+  
 <!-- START_LOG -->
 - primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
 - All Main/Sub.csv - TVR Rod? Identified as Uran-Mafran's Club (TVR 7-2) (Jun-19-2026)
@@ -177,15 +192,16 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 - Mithra/Range.csv - Full Update to Range Everything. Primes Included. Un-Implemented .DAT files shown (Feb-20-2026)
 - Mithra/Body.csv - Full Update to Body Equipment files up until Mid-2024 (Feb-20-2026)
 - Creation of Repo (Feb-20-2026)
+</details>
 
----
-
-
-## Contributing
+<details>
+<summary> <h3><b>🙌 Contributing</b></h3></summary>
 
 Because Final Fantasy XI continues to receive updates, the CSV lists require periodic maintenance to include newly added armor, weapons, and monster models. If you are updating the lists, please ensure you place the new item IDs and DAT mappings in their respective CSV files within the `List/` directory.
+</details>
 
-## Credits & Special Thanks
+<details>
+<summary> <h3><b>🏆 Credits & Special Thanks</b></h3></summary>
 
 While the original author's identity remains a mystery, the following individuals and groups have been instrumental in the maintenance and evolution of Altana Viewer:
 
@@ -198,11 +214,11 @@ While the original author's identity remains a mystery, the following individual
 * **Fenrir.Nightfyre & PeterNorth:** Shared updated mappings on community forums throughout the early 2010s.
 * **RadialArcana:** Added more DAT locations in 2026
 * **The FFXI Player Community:** Countless anonymous contributors who manually scraped DAT IDs to provide CSV mappings after game updates.
-* **Current Maintainer:** Voliathon — responsible for modern repository hosting and manual CSV updates.
+* **Current Maintainer:** Voliathon — responsible for modern repository hosting and manual CSV updates. Azureus who I draw my daily inspiration.
 * **Final Fantasy XI:** All assets and designs are property of Square Enix.
 
-> "To any developer, DAT-miner, or community member who contributed to this project over the last 20 years whose name may not appear on this list: please accept our sincerest apologies. Your hard work in documenting the world of Vana'diel has not gone unnoticed, and we are deeply grateful for your dedication to the community."
-
+> "To any developer, DAT-miner, or community member who contributed to this project over the last 20 years whose name may not appear on this list: please accept my sincerest apology. Your hard work in documenting the world of Vana'diel has not gone unnoticed and the community thanks you."
+</details>
 
 ---
 ### 🛠️ Other Projects by Voliathon
