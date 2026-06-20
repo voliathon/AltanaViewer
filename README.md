@@ -58,6 +58,8 @@ This file is invisible to the user. It teaches the 3D engine how to *chain* anim
 * Final Fantasy XI rarely uses one file for a continuous movement. Drawing a weapon involves a transition animation, followed by an infinite idle loop. `Motion.csv` tells the engine: *"As soon as the animation block 56/14-22 finishes, seamlessly transition into the loop block 56/23-40."*
 
 > **The "Test" Override:** If you want to view a hidden engine animation from `Motion.csv` in the actual UI, you can append a name to it (e.g., `209/39,test #244`). This forces AltanaViewer to bypass the chaining logic and expose the raw file directly in the Action dropdown.
+
+It would be a pipe dream to really understand how to tie in all animations with skeletons.
 </details>
 
 
@@ -83,27 +85,10 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 </details>
 
 <details>
-<summary> <h3><b>🚧 Current Work and Road map</b></h3></summary>
-
-* [In Progress] Identify further NPC related stuff. This includes monsters, npcs, mounts, zone items, equipment and more.
-* [In Progress] Identify missings Effects. This includes spells
-</details>
-
-<details>
-<summary> <h3><b>✅ Completed Work</b></h3></summary>
-
-* [COMPLETED] All Head, Body, Hands, Legs, Feet added up to Mar-10-2026. (New Limbus Gear included)
-* [COMPLETED] Figured out why the Music doesn't work post a certain expansion and release Altana Listener to solve issue.
-* [COMPLETED] All Main Weapons added up to April-6-2026
-* [COMPLETED] All Sub Weapons and Shields added up to April-6-2026
-* [COMPLETED] All Ranged Weapons and Instruments added up to April-6-2026
-</details>
-
-<details>
 <summary> <h3><b>📋 2026 Change Log</b></h3></summary>
   
 <!-- START_LOG -->
-- README.md - simplified; Objects.csv - Identified Liber Daemonium & Olduum Staff (Jun-20-2026)
+- Objects.csv - Identified Liber Daemonium & Olduum Staff (Jun-20-2026)
 - primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
 - All Main/Sub.csv - TVR Rod? Identified as Uran-Mafran's Club (TVR 7-2) (Jun-19-2026)
 - README.md - Dressup-Mod Reference: All model id located for every piece of gear.  Additional in game faces discovered. Link at the bottom (Jun-17-2026)
