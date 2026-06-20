@@ -88,6 +88,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 <summary> <h3><b>📋 2026 Change Log</b></h3></summary>
   
 <!-- START_LOG -->
+- README.md - Simplified (Jun-20-2026)
 - Objects.csv - Identified Liber Daemonium & Olduum Staff (Jun-20-2026)
 - primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
 - All Main/Sub.csv - TVR Rod? Identified as Uran-Mafran's Club (TVR 7-2) (Jun-19-2026)
