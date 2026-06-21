@@ -87,6 +87,7 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 <summary> <h3><b>📋 2026 Change Log</b></h3></summary>
   
 <!-- START_LOG -->
+- Cleanup - Removed DATAnalysis/ as it served no purpose to the end user (Jun-21-2026)
 - README.md - Simplified (Jun-20-2026)
 - Objects.csv - Identified Liber Daemonium & Olduum Staff (Jun-20-2026)
 - primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
