@@ -80,15 +80,15 @@ This is not a bug with the folder directories or the CSV lists—it is a **codec
 <details>
 <summary> <h3><b>🪑 Furniture</b></h3></summary>
 
-**Notice:** Furniture is located in NPC>Furniture    99% don't work in Altana Viewer. You must view them in Noesis.
+**Notice:** Furniture is located in NPC>Furniture    
+> [!WARNING]
+> **99% of the furniture does not display in Altana Viewer.** You must view them in Noesis.
 </details>
 
 <details>
 <summary> <h3><b>📋 2026 Change Log</b></h3></summary>
   
 <!-- START_LOG -->
-- Cleanup - Removed DATAnalysis/ as it served no purpose to the end user (Jun-21-2026)
-- README.md - Simplified (Jun-20-2026)
 - Objects.csv - Identified Liber Daemonium & Olduum Staff (Jun-20-2026)
 - primary_npc.csv - Gurebu-Ougrebu corrected (Jun-19-2026)
 - All Main/Sub.csv - TVR Rod? Identified as Uran-Mafran's Club (TVR 7-2) (Jun-19-2026)
